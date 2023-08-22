@@ -10,6 +10,7 @@ Fondée et animée par trois passionnés :
 - **Manon Melendez**
 - **Audric Vilatte**
 - **Louna Langlois**
+
 Chacun apporte une richesse et une expertise unique à l'association, alliant expérience, connaissances et passion pour la cause.
 ## :sparkling_heart: **Nos Valeurs**
 Nous sommes guidés par quatre piliers fondamentaux qui définissent notre travail et notre approche :
