@@ -22,7 +22,7 @@ Que ce soit à travers des animations interactives, des ateliers ou des formatio
 - Sensibiliser sur les différents visages de la discrimination et comment la combattre.
 - Aider les individus à mieux comprendre et gérer leurs émotions.
 - Décoder la violence sous ses multiples formes pour la prévenir et y répondre.
-- 
+  
 **Rejoignez-nous** dans cette mission pour une société plus égalitaire, compréhensive et bienveillante !
 Pour en savoir plus sur nos formations et animations, n'hésitez pas à [nous contacter](mailto:bonjour@coanima.org) ou à consulter notre site web.
 Vous pouvez également consulter nos [statuts](https://coanima.org/Statut COANIMA signé.pdf) pour en savoir plus sur notre organisation.
