@@ -1,5 +1,5 @@
 
-# En Construction : Coanima - Éducation Populaire & Lutte Contre les Discriminations
+# Coanima - Éducation Populaire & Lutte Contre les Discriminations
 
 **Note:** Notre site web est actuellement en cours de création et sera bientôt disponible avec plus d'informations. En attendant, voici un aperçu de ce que vous pouvez attendre de Coanima.
 
