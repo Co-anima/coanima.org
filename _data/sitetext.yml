@@ -12,7 +12,7 @@
 fr: &DEFAULT_FR
   header:
     title: Cogiter pour mieux s'aimer
-    text: Bienvenue chez nous !
+    text: Coanima 
     button: Dites m'en plus
     buttonlink: "#services"
 
