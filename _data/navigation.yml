@@ -7,6 +7,27 @@
 # How to use:
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
 
+# French
+# ------
+fr: &DEFAULT_FR
+  nav:
+    - title: "Services"
+      section: services
+    - title: "Portfolio"
+      section: portfolio
+    - title: "About"
+      section: about
+    - title: "Timeline"
+      section: timeline
+    - title: "Team"
+      section: team
+    - title: "Contact"
+      section: contact
+    - title: "Theme Source"
+      url: https://github.com/raviriley/agency-jekyll-theme/
+fr-FR:
+  <<: *DEFAULT_FR
+
 # English (default)
 # -----------------
 en: &DEFAULT_EN
