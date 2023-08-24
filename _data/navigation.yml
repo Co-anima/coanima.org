@@ -11,20 +11,18 @@
 # ------
 fr: &DEFAULT_FR
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
+    - title: "Nos valeurs"
+      section: valeurs
+    - title: "Pour vous"
       section: portfolio
-    - title: "About"
-      section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
+    - title: "Posture"
+      section: posture
+    - title: "Notre histoire"
+      section: histoire
+    - title: "Nous"
+      section: nous
+    - title: "Contactez-nous"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 fr-FR:
   <<: *DEFAULT_FR
 

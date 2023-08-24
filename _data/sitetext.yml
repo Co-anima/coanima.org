@@ -19,7 +19,7 @@ fr: &DEFAULT_FR
   services:
     title: "Nos valeurs"
     text: "Nous sommes guidés par quatre piliers fondamentaux qui définissent notre travail et notre approche :"
-    section: services
+    section: valeurs
     list:
       - title: "Egalité"
         desc: "Croire en une société où chacun a une place égale, indépendamment de son origine, sexe, orientation sexuelle, ou tout autre critère."
@@ -35,15 +35,14 @@ fr: &DEFAULT_FR
         icon: fas fa-palette
 
   portfolio:
-    title: "Portfolio"
+    title: "Pour vous"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
+    title: "Notre histoire"
     text: "Lorem ipsum timeline"
-    section: timeline
+    section: histoire
     # left is the default
     #start_align: "left"
     events:
@@ -75,7 +74,7 @@ fr: &DEFAULT_FR
     title: "Notre Posture"
     text: "L'éducation populaire"
     body: "Notre approche en animation d'éducation populaire se distingue par sa profonde **empathie** et son engagement envers **l'intelligence collective**. En adoptant une posture de facilitation de la **prise de parole** et de la conscience, nous créons un espace où chaque voix est valorisée et écoutée. Pour rendre l'apprentissage plus vivant, nous mettons **le corps en mouvement** à travers des jeux interactifs qui stimulent la réflexion et encouragent la **participation active**. Les débats constructifs occupent également une place centrale, favorisant l'exploration **collective** d'idées et la remise en question des normes établies. En cultivant cette dynamique participative, **les format·eurs·trices évoluent pour devenir des créat·eurs·rices de contextes favorables à l'apprentissage**, encourageant ainsi la croissance individuelle et collective."
-    section: Posture
+    section: posture
 
   clients:
     section: clients
@@ -99,7 +98,7 @@ fr: &DEFAULT_FR
     title: "NOUS TROIS"
     text: "Chacun apporte une richesse et une expertise unique à l’association, alliant expérience, connaissances et passion pour la cause."
     subtext: Afin de se sentir au mieux dans cette structure, nous avons choisi de former une direction collégiale. Nous sommes donc tous les 3 les têtes pensantes, les preneur.euses de décision ainsi que les petites mains. Nous gérons tout à 3, par la méthode du consensus. Par la suite, quand les finances nous le permettront, nous prendrons des services extérieurs (ex. comptabilité). Nous n’avons pas vocation à grossir, à recruter ni dans notre Conseil d’Animation ni en tant que salarié.e.s, on veut juste faire ce qui nous semble BON (dans le sens qu’on y met, comme dans le plaisir qu’on prend). Mais ça ne vous empêche pas de prendre contact et d’être invitée à notre AG annuelle, ou de devenir bienfaiteur ou bienfaitrice de notre association. Tous les soutiens sont précieux. Vous l’aurez compris on se focalise sur la qualité et non la quantité.
-    section: team
+    section: nous
     people:
       - name: "Louna Langlois"
         role: "Chargée de projets"
@@ -131,7 +130,7 @@ fr: &DEFAULT_FR
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Contactez-nous"
     text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
