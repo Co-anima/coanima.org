@@ -14,7 +14,7 @@ fr: &DEFAULT_FR
     title: Cogiter pour mieux s'aimer
     text: Coanima 
     button: Dites m'en plus
-    buttonlink: "#services"
+    buttonlink: "#valeurs"
 
   services:
     title: "Nos valeurs"
@@ -131,18 +131,18 @@ fr: &DEFAULT_FR
 
   contact:
     title: "Contactez-nous"
-    text: "Lorem ipsum or call 123456789"
+    text: "Laissez nous un message ou contactez nous avec bonjour@coanima.org"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
+    name: "Nom*"
+    name-validation: "Comment vous vous appelez ?"
+    email: "E-mail*"
+    email-validation: "N'oubliez pas votre e-mail"
+    phone: "Téléphone"
+    phone-validation: "Si vous souhaitez être contacté par téléphone."
     message: "Message*"
-    message-validation: "Please enter a message."
+    message-validation: "Que souhaitez vous nous dire ?"
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Envoyez"
 
   footer:
     legal: "Privacy Policy"
