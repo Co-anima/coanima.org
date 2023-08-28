@@ -41,29 +41,29 @@ fr: &DEFAULT_FR
 
   timeline:
     title: "Notre histoire"
-    text: "Lorem ipsum timeline"
+    text: "Manon, Louna et Audric commencent l’éducation populaire dans la lutte contre les discriminations, dans la même association ,ou plutôt entreprise de l’économie sociale et solidaire."
     section: histoire
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Début"
+        year: "2011"
+        desc: "Manon commence comme animatrice réseau du pôle engagement de cette structure."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Un binôme de choc"
+        year: "Novembre 2019"
+        desc: "En prenant le poste de responsable de pôle Manon proposera à Louna de postuler pour son ancien poste et la formera."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Une longue absence"
+        year: "Mai 2020"
+        desc: "Manon part en congé parental pour accueillir son premier enfant, sans qu’une remplaçante soit prévu par la structure."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Un coup de main"
+        year: "Septembre 2020"
+        desc: "Louna demandera l’embauche d’Audric, intéressé par le programme, afin de l’aider à supporter la lourde tâche, elle le formera à son tour."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -97,7 +97,7 @@ fr: &DEFAULT_FR
   team:
     title: "NOUS TROIS"
     text: "Chacun apporte une richesse et une expertise unique à l’association, alliant expérience, connaissances et passion pour la cause."
-    subtext: Afin de se sentir au mieux dans cette structure, nous avons choisi de former une direction collégiale. Nous sommes donc tous les 3 les têtes pensantes, les preneur.euses de décision ainsi que les petites mains. Nous gérons tout à 3, par la méthode du consensus. Par la suite, quand les finances nous le permettront, nous prendrons des services extérieurs (ex. comptabilité). Nous n’avons pas vocation à grossir, à recruter ni dans notre Conseil d’Animation ni en tant que salarié.e.s, on veut juste faire ce qui nous semble BON (dans le sens qu’on y met, comme dans le plaisir qu’on prend). Mais ça ne vous empêche pas de prendre contact et d’être invitée à notre AG annuelle, ou de devenir bienfaiteur ou bienfaitrice de notre association. Tous les soutiens sont précieux. Vous l’aurez compris on se focalise sur la qualité et non la quantité.
+    subtext: Afin de se sentir au mieux dans cette structure, nous avons choisi de former une **direction collégiale**. Nous sommes donc tous les 3 les **têtes pensantes**, les **preneur.euses de décision** ainsi que les **petites mains**. Nous gérons tout à 3, par la méthode du **consensus**. Par la suite, quand les finances nous le permettront, nous prendrons des services extérieurs. Nous n’avons pas vocation à grossir, à recruter ni dans notre Conseil d’Animation ni en tant que salarié.e.s, on veut juste faire ce qui nous semble **BON** (dans le sens qu’on y met, comme dans le plaisir qu’on prend). Mais ça ne vous empêche pas de prendre contact et d’être invitée à notre AG annuelle, ou de devenir bienfaiteur ou bienfaitrice de notre association. Tous les soutiens sont précieux. Vous l’aurez compris on se focalise sur la **qualité et non la quantité**.
     section: nous
     people:
       - name: "Louna Langlois"
@@ -120,7 +120,7 @@ fr: &DEFAULT_FR
             icon: fab fa-linkedin-in
       - name: "Manon Melendez"
         role: "Chargée de projets"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/photo-manon-500x500.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -130,8 +130,8 @@ fr: &DEFAULT_FR
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contactez-nous"
-    text: "Laissez nous un message ou contactez nous avec bonjour@coanima.org"
+    title: "Contactez-nous : bonjour@coanima.org"
+    text: "Vous pouvez aussi nous laissez nous un message :"
     section: contact
     name: "Nom*"
     name-validation: "Comment vous vous appelez ?"
@@ -194,15 +194,16 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
+    title: "Notre histoire"
+    text: " Manon, Louna et Audric commencent l’éducation populaire dans la lutte contre les discriminations, dans la même association (peut-être devrons nous plutôt dire entreprise de l’économie sociale et solidaire)."
+    section: histoire
     # left is the default
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "2011"
+        desc: "Manon travaille comme animatrice réseau auprès de cette structure.
+"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "An Agency is Born"
