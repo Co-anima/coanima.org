@@ -20,7 +20,7 @@ fr: &DEFAULT_FR
     - title: "Notre histoire"
       section: histoire
     - title: "Nous"
-      section: nous
+      url: " /nous"
     - title: "Contactez-nous"
       section: contact
 fr-FR:
