@@ -25,11 +25,10 @@ Ce logo représente un grand C, tel les arc de cercle de chaises qu’on met en 
 **Nous 3**
 
 
-**Louna** :
+**Louna** 
 
-J’ai commencé mon premier emploi à 17 ans dans l’animation à la lutte contre les discriminations : Une révélation : cela m'a permis de répondre enfin à mon désir de lutter concrètement contre les injustices et inégalités, ni en manifestante, ni  en politicienne, ni dans le domaine trop rigide du juridique mais par l’animation; notamment par l’éducation populaire : je me débrouillais bien et surtout J’ADORAIS ça !
-Plus tard, comme animatrice réseau j'ai adoré transmettre mes connaissances, concevoir de nouveaux ateliers, les expérimenter, créer de nouveaux thèmes et interagir avec des publics variés.
-Immergée depuis mon enfance dans l'univers de l'agilité et du lean, cela m'a dotée de compétences en matière de conception et d'organisation de projets qui se révèlent précieuses pour COANIMA.
+J’ai commencé mon premier emploi à 17 ans dans l’animation à la lutte contre les discriminations : une révélation, cela m'a permis de répondre enfin à mon désir de lutter concrètement contre les injustices et inégalités, ni en manifestante, ni  en politicienne, ni dans le domaine trop rigide du juridique mais par l’animation; notamment par l’éducation populaire, je me débrouillais bien et surtout J’ADORAIS ça !
+Plus tard, comme animatrice réseau j'ai pris beaucoup de plaisir à transmettre mes connaissances, concevoir de nouveaux ateliers, les expérimenter, créer de nouveaux thèmes et interagir avec des publics variés.
 Pour moi Coanima c’est la réponse et la question, un espace de création, de coopération et d’empathie et que vas-t-on bien pouvoir inventer de chouette dans ce joli cadre ?
 
 **Ce que j’apporte en + au collectif** :
