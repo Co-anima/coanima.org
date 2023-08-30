@@ -20,7 +20,7 @@ Et pourquoi animation ? de la racine anima qui donne la vie à quelque chose. On
 
 **LOGO**
 
-Ce logo représente un grand C, tel les arc de cercle de chaises qu’on met en place au début de nos interventions, suivi des lettres o et a (comme les 3 première lettres de COANIMA), ça fait le son “Quoi”, toutes ces questions qu’on pose et qu’on nous pose lors de nos ateliers. Ces deux lettres liées font comme une esperluette couchée, logotype cher à notre cœur représentant l’union, le lien le fil continu. Dans Esperluette il y a ESPèRE (l’espoir) et LUETTE (qui permet la voix et donc la communication). ça tombe bien, c’est le nom de notre programme en milieu scolaire ;).
+Ce logo représente un grand C, tel les arc de cercle de chaises qu’on met en place au début de nos interventions, suivi des lettres o et a (comme les 3 première lettres de COANIMA), ça fait le son “Quoi”, toutes ces questions qu’on pose et qu’on nous pose lors de nos ateliers. Ces deux lettres liées font comme une esperluette couchée, logotype cher à notre cœur représentant l’union, le lien le fil continu. Dans Esperluette il y a ESPèRE (l’espoir) et LUETTE (qui permet la voix et donc la communication). ça tombe bien, c’est le nom de notre programme en milieu scolaire.
 
 **Nous 3**
 
@@ -29,12 +29,12 @@ Ce logo représente un grand C, tel les arc de cercle de chaises qu’on met en 
 
 J’ai commencé mon premier emploi à 17 ans dans l’animation à la lutte contre les discriminations : une révélation, cela m'a permis de répondre enfin à mon désir de lutter concrètement contre les injustices et inégalités, ni en manifestante, ni  en politicienne, ni dans le domaine trop rigide du juridique mais par l’animation; notamment par l’éducation populaire, je me débrouillais bien et surtout J’ADORAIS ça !
 Plus tard, comme animatrice réseau j'ai pris beaucoup de plaisir à transmettre mes connaissances, concevoir de nouveaux ateliers, les expérimenter, créer de nouveaux thèmes et interagir avec des publics variés.
-Pour moi Coanima c’est la réponse et la question, un espace de création, de coopération et d’empathie et que vas-t-on bien pouvoir inventer de chouette dans ce joli cadre ?
+Pour moi COANIMA c’est la réponse et la question, un espace de création, de coopération et d’empathie et que vas-t-on bien pouvoir inventer de chouette dans ce joli cadre ?
 
 **Ce que j’apporte en + au collectif** :
 La gestion du site et des données, la compta, les notions agile/lean.
 
-**Mes forces** : Energique, Authentique et dans la lune : spirituelle et inventive
+**Mes forces** : Authentique, énergique et inventive
 
 
 **Manon**
@@ -43,13 +43,14 @@ Militante de l’éducation populaire depuis mon premier emploi dans l’associa
 
 **Ce que j’apporte au collectif** : la communication visuelle et des mises en page, de la programmation annuelle et du process qualité (qualiopi). 
 
-**Mes forces**: lucide, réaliste, ténacité, curiosité, adaptabilité, amélioration, communication 
+**Mes forces** : Réalisme, adaptabilité et amélioration.
+
 
 
 
 **Audric**
 
-Fasciné par l'entrelacement des sciences et de la pensée humaine, mon parcours reflète ma soif de compréhension. Avec un diplôme en mathématiques aéronautiques et un double master en philosophie et sociologie, j'ai fusionné la rigueur mathématique avec une exploration conceptuelle approfondie.
+Fasciné par l'entrelacement des sciences et de la pensée humaine, mon parcours reflète ma soif de compréhension. Avec un diplôme en mathématiques aéronautiques et une double license en philosophie/sociologie, j'ai fusionné la rigueur mathématique avec une exploration conceptuelle approfondie.
 
 COANIMA représente pour moi l'harmonie entre animation, éducation et réflexion sociophilosophique. Cet espace offre une toile idéale pour cultiver des idées neuves, repousser les limites de la pensée collective et collaborer avec une équipe partageant ma passion pour la créativité et la transformation.
 
@@ -58,10 +59,3 @@ COANIMA représente pour moi l'harmonie entre animation, éducation et réflexio
 **Mes forces** : sociabilité, esprit critique, sagesse.
 
 
-**A télécharger**
-
-nos statuts
-
-notre logo
-
-notre Budget Previsionnel
