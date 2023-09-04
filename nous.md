@@ -51,7 +51,7 @@ Amoureuse de l’éducation populaire depuis mon premier emploi dans l’associa
 Un réseau partenarial fort, la communication visuelle, la programmation annuelle et la démarche qualité. 
 
 ### Mes forces : 
-communication (f086), adaptabilité (f3b1), amélioration (f35b)
+Communication, adaptabilité, amélioration 
 
 
 
@@ -62,9 +62,9 @@ Fasciné par l'entrelacement des sciences et de la pensée humaine, mon parcours
 COANIMA représente pour moi l'harmonie entre animation, éducation et réflexion sociophilosophique. Cet espace offre une toile idéale pour cultiver des idées neuves, repousser les limites de la pensée collective et collaborer avec une équipe partageant ma passion pour la créativité et la transformation.
 
 ### Ce que j’apporte au collectif : 
-toutes les veilles (en psycho socio, de l’actualité politique, réglementaire…) et de l’écriture des dossiers de subvention. 
+Toutes les veilles (en psycho socio, de l’actualité politique, réglementaire…) et de l’écriture des dossiers de subvention. 
 
 ### Mes forces : 
-sociabilité, esprit critique, sagesse.
+Sociabilité, esprit critique, sagesse.
 
 
