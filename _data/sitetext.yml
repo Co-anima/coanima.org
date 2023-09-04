@@ -48,15 +48,15 @@ fr: &DEFAULT_FR
     events:
       - title: "Manon & Louna : <br> Une première rencontre"
         year: "Septembre 2017"
-        desc: "Au détour d’un café, Manon propose à Louna de venir travailler pour elle. Elle la formera et lui proposera son poste d’animatrice réseau en devenant responsable de pôle."
+        desc: "Au détour d’un café, Manon propose à Louna de venir travailler avec elle. Elle la forme et, devenant responsable de pôle, lui propose son poste d’animatrice réseau."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Audric & Louna : <br> Un jolie coup de main"
         year: "Septembre 2020"
-        desc: "Lorsque Manon s’absente pour son congé parental, Louna propose à Audric de le former et de venir l’aider à maintenir le pôle."
+        desc: "Lorsque Manon s’absente pour son congé parental, Louna propose à Audric de le former et de venir l'épauler dans cette structure."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Tous les 3 : <br> On quitte le navire"
+      - title: "Manon, Louna & Audric : <br> On quitte le navire"
         year: "Début 2022"
         desc: "Fatigué·e·s de travailler pour une entreprise qui ne respecte pas nos valeurs, nous quittons l'association, priorisant notre bien-être."
         image: assets/img/timeline/3.jpg
@@ -73,7 +73,7 @@ fr: &DEFAULT_FR
   about:
     title: "Notre Posture"
     text: "L'éducation populaire"
-    body: "Notre approche en animation d'éducation populaire se distingue par sa profonde **empathie** et son engagement pour **l'intelligence collective**. <br> En adoptant une posture de facilitation de la **prise de parole** et prise de conscience, nous créons un espace où chaque voix est valorisée et écoutée. En cultivant cette dynamique participative, **les format·eurs·trices évoluent pour devenir des créat·eurs·rices de contextes favorables à l'apprentissage**, encourageant ainsi la croissance individuelle et celle du groupe. Pour rendre la pédagogie plus vivante, nous mettons **le corps en mouvement** à travers des jeux interactifs qui stimulent la réflexion et encouragent la **participation active**. Les débats constructifs occupent également une place centrale, favorisant l'exploration collaborative d'idées et la **remise en question** des normes établies."
+    body: "Notre approche en animation d'éducation populaire se distingue par sa profonde **empathie** et son engagement pour **l'intelligence collective**. En adoptant une posture de facilitation de la **prise de parole** et prise de conscience, nous créons un espace où chaque voix est valorisée et écoutée. <br> En cultivant cette dynamique participative, **les format·eurs·trices évoluent pour devenir des créat·eurs·rices de contextes favorables à l'apprentissage**, encourageant ainsi la croissance individuelle et celle du groupe. Pour rendre la pédagogie plus vivante, nous mettons **le corps en mouvement** à travers des jeux interactifs qui stimulent la réflexion et encouragent la **participation active**. Les débats constructifs occupent également une place centrale, favorisant l'exploration collaborative d'idées et la **remise en question** des normes établies."
     section: posture
 
   clients:
