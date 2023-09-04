@@ -25,13 +25,13 @@ fr: &DEFAULT_FR
         desc: "Croire en une société où chacun·e a une place égale, qu'importe son origine, genre, orientation sexuelle, etc. S’engager pour l’équité et la compréhension des privilèges. Lutter contre les inégalités."
         icon: fas fa-users
       - title: "Empathie"
-        desc: "Développer l’altruisme pour vivre en confiance, bientraitance et paix. Cultiver les capacités à s’écouter, se mettre à la place de l’autre et à communiquer ses émotions et besoins."
+        desc: "Développer l’altruisme pour vivre en confiance, bientraitance et paix. Cultiver les capacités à s’écouter, se mettre à la place de l’autre et à communiquer ses émotions et ses besoins."
         icon: fas fa-heart
       - title: "Enthousiasme"
-        desc: "Semer l’espoir et notre motivation à se changer soi et le monde. Prendre du plaisir dans ce qu’on fait, avoir l’ambition de nos utopies et insuffler cet élan à tous ceux que nous rencontrons."
+        desc: "Semer l’espoir et notre motivation à se changer soi et le monde. Prendre du plaisir dans ce qu’on fait. Avoir l’ambition de nos utopies et insuffler cet élan à tous ceux que nous rencontrons."
         icon: fas fa-fire
       - title: "Créativité"
-        desc: "Cultiver sa liberté, avoir l’audace d’explorer, en redonnant la juste place à l’échec, celle de l’apprentissage. Avoir le courage de dépasser les normes et l'intelligence de l’esprit critique. "
+        desc: "Cultiver sa liberté, avoir l’audace d’explorer en redonnant la juste place à l’échec, celle de l’apprentissage. Avoir le courage de dépasser les normes et l'intelligence de l’esprit critique. "
         icon: fas fa-palette
 
   portfolio:
@@ -41,39 +41,39 @@ fr: &DEFAULT_FR
 
   timeline:
     title: "Notre histoire"
-    text: "Manon, Louna et Audric commencent l’éducation populaire dans la lutte contre les discriminations, dans la même association ,ou plutôt entreprise de l’économie sociale et solidaire."
+    text: "Nous avons commençé l’éducation populaire dans la lutte contre les discriminations dans la même association, <br> ou plutôt entreprise de l’économie sociale et solidaire."
     section: histoire
     # left is the default
     #start_align: "left"
     events:
-      - title: "Début"
-        year: "2011"
-        desc: "Manon commence comme animatrice réseau du pôle engagement de cette structure."
+      - title: "Manon & Louna : <br> Une première rencontre"
+        year: "Septembre 2017"
+        desc: "Au détour d’un café, Manon propose à Louna de venir travailler pour elle. Elle la formera et lui proposera son poste d’animatrice réseau en devenant responsable de pôle."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Un binôme de choc"
-        year: "Novembre 2019"
-        desc: "En prenant le poste de responsable de pôle Manon proposera à Louna de postuler pour son ancien poste et la formera."
+      - title: "Audric & Louna : <br> Un jolie coup de main"
+        year: "Septembre 2020"
+        desc: "Lorsque Manon s’absente pour son congé parental, Louna propose à Audric de le former et de venir l’aider à maintenir le pôle."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Une longue absence"
-        year: "Mai 2020"
-        desc: "Manon part en congé parental pour accueillir son premier enfant, sans qu’une remplaçante soit prévu par la structure."
+      - title: "Tous les 3 : <br> On quitte le navire"
+        year: "Début 2022"
+        desc: "Fatigué·e·s de travailler pour une entreprise qui ne respecte pas nos valeurs, nous quittons l'association, priorisant notre bien-être."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Un coup de main"
-        year: "Septembre 2020"
-        desc: "Louna demandera l’embauche d’Audric, intéressé par le programme, afin de l’aider à supporter la lourde tâche, elle le formera à son tour."
+      - title: "Audric & Manon : <br> Une opportunité"
+        year: "En 2022"
+        desc: "Fâce à une belle opportunité Manon et Audric découvrent une nouvelle association, mais des difficultés de gestion de la structure les empêchent de s’y épanouir"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "A 3, <br> nous créons <br> COANIMA!"
 
   about:
     title: "Notre Posture"
     text: "L'éducation populaire"
-    body: "Notre approche en animation d'éducation populaire se distingue par sa profonde **empathie** et son engagement pour **l'intelligence collective**. En adoptant une posture de facilitation de la **prise de parole** et prise de conscience, nous créons un espace où chaque voix est valorisée et écoutée. En cultivant cette dynamique participative, **les format·eurs·trices évoluent pour devenir des créat·eurs·rices de contextes favorables à l'apprentissage**, encourageant ainsi la croissance individuelle et du groupe. Pour rendre la pédagogie plus vivante, nous mettons **le corps en mouvement** à travers des jeux interactifs qui stimulent la réflexion et encouragent la **participation active**. Les débats constructifs occupent également une place centrale, favorisant l'exploration collaborative d'idées et la **remise en question** des normes établies."
+    body: "Notre approche en animation d'éducation populaire se distingue par sa profonde **empathie** et son engagement pour **l'intelligence collective**. <br> En adoptant une posture de facilitation de la **prise de parole** et prise de conscience, nous créons un espace où chaque voix est valorisée et écoutée. En cultivant cette dynamique participative, **les format·eurs·trices évoluent pour devenir des créat·eurs·rices de contextes favorables à l'apprentissage**, encourageant ainsi la croissance individuelle et celle du groupe. Pour rendre la pédagogie plus vivante, nous mettons **le corps en mouvement** à travers des jeux interactifs qui stimulent la réflexion et encouragent la **participation active**. Les débats constructifs occupent également une place centrale, favorisant l'exploration collaborative d'idées et la **remise en question** des normes établies."
     section: posture
 
   clients:
