@@ -32,8 +32,8 @@ Ce logo représente un grand C, tel les arcs de cercle de chaises qu’on met en
 
 ## Louna
 
-A 17 ans j'accède à mon premier emploi dans l'animation. Ma mission est déjà la lutte contre les discriminations et c'est pour moi une révélation. Cela m'a permis de m'engager concrètement contre les injustices et les inégalités par le biais de l'éductaion populaire plutôt qu'en manifestante ou politicienne. L'animation était pour moi une évidence, et surtout j'adorais ça.
-Plus tard, comme animatrice réseau, j'ai pris beaucoup de plaisir à transmettre mes connaissances, concevoir de nouveaux ateliers, les expérimenter, créer de nouveaux thèmes et interagir avec des publics variés.
+A 17 ans j'accède à mon premier emploi dans l'animation. Ma mission est déjà la lutte contre les discriminations et c'est pour moi une révélation. Cela m'a permis de m'engager concrètement contre les injustices et les inégalités par le biais de l'éductaion populaire plutôt qu'en manifestante ou politicienne. L'animation fut pour moi une évidence, et surtout j'adorais ça.
+Des années plus tard, comme animatrice réseau, j'ai pris beaucoup de plaisir à transmettre mes connaissances, concevoir de nouveaux ateliers, les expérimenter, créer de nouveaux thèmes et interagir avec des publics variés.
 Pour moi, COANIMA est à la fois la réponse et la question : un espace de création, de coopération ,d’empathie ,que vas-t-on bien pouvoir inventer de chouette dans ce joli cadre ?
 
 ### Ce que j’apporte au collectif :
@@ -57,12 +57,12 @@ Communication, adaptabilité, amélioration
 
 ## Audric
 
-Fasciné par l'entrelacement des sciences et de la pensée humaine, mon parcours reflète ma soif de compréhension. Avec un diplôme en mathématiques aéronautiques et une double license en philosophie/sociologie, j'ai fusionné la rigueur mathématique avec une exploration conceptuelle approfondie.
+Fasciné par l'entrelacement des sciences et de la pensée humaine, mon parcours reflète ma soif de compréhension. Avec une licence Génie mécanique en aéronautique et une double license en philosophie/sociologie, j'ai fusionné la rigueur mathématique avec une exploration conceptuelle des sciences humaines approfondie.
 
 COANIMA représente pour moi l'harmonie entre animation, éducation et réflexion sociophilosophique. Cet espace offre une toile idéale pour cultiver des idées neuves, repousser les limites de la pensée collective et collaborer avec une équipe partageant ma passion pour la créativité et la transformation.
 
 ### Ce que j’apporte au collectif : 
-Toutes les veilles (en psycho socio, de l’actualité politique, réglementaire…) et de l’écriture des dossiers de subvention. 
+Toutes les veilles (en psycho socio, de l’actualité politique, réglementaire…) et l’écriture des dossiers de subvention. 
 
 ### Mes forces : 
 Sociabilité, esprit critique, sagesse.
