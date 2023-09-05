@@ -73,7 +73,7 @@ fr: &DEFAULT_FR
         alt: image alt text
         # you can enforce the alignment
         align: left
-
+    end: "A 3, <br> nous créons <br> COANIMA!"
 
   about:
     title: "Notre Posture"
