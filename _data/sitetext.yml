@@ -69,11 +69,11 @@ fr: &DEFAULT_FR
       - title: "Coanima"
         year: "2023"
         desc: "Enfin libre, ces expériences nous ont amenés à imaginer la structure idéale, cette utopie nous en avons fait une réalité : elle s’appelle COANIMA."
-        image: "assets/img/logo.jpg"
+        image: assets/img/logo.jpg
         alt: image alt text
         # you can enforce the alignment
-        align: left
-    end: "A 3, <br> nous créons <br> COANIMA!"
+        align: 
+
 
   about:
     title: "Notre Posture"
