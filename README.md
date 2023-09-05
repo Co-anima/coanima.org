@@ -52,3 +52,8 @@ If you want your website to be at `YOUR-USERNAME.github.io`, that's what you mus
 **If you enjoy this theme, please consider [supporting me](https://www.paypal.me/raviriley) to continue developing and maintaining it.**
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/raviriley)
+- title: "Coanima"
+        year: "2023"
+        desc: "Enfin libre, ces expériences nous ont amenés à imaginer la structure idéal, cette utopie nous en avons fait une réalité : elle s’appelle COANIMA."
+        image: assets/img/logo.jpg
+       alt: image alt text
