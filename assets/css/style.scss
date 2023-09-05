@@ -14,3 +14,16 @@ body {
         }
     }
 }
+.logo {
+    max-width: 100px; /* Ajustez la taille du logo en fonction de vos besoins */
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.timeline-body {
+    text-align: center;
+  }
+  
+  .timeline-body p {
+    margin-top: 10px; /* Réglage de la marge pour espacer légèrement le texte de l'image */
+  }

@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://coanima.org" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Coanima, libérez les singularités
+title      : Coanima
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "Coanima est une association d'éducation populaire, elle œuvre pour la compréhension des conditionnements afin d’agir sur les comportements de rejet et favoriser la culture d’acceptation de toustes grâce aux valeurs d'égalité, d'empathie, d'enthousiathme et de créativité"
 author     : Louna
