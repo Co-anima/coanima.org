@@ -1,0 +1,23 @@
+.page-header {
+    background: #191c20;
+}
+
+body {
+    background: blue;
+}
+
+@media (min-width: 768px) {
+    header.masthead {
+        .intro-text {
+            padding-top: 200px;
+            padding-bottom: 600px;
+        }
+    }
+}
+.timeline-body {
+    text-align: center;
+  }
+  
+  .timeline-body p {
+    margin-top: 10px; /* Réglage de la marge pour espacer légèrement le texte de l'image */
+  }
