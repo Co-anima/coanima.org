@@ -48,7 +48,7 @@ fr: &DEFAULT_FR
     events:
       - title: "Manon & Louna : <br> Une première rencontre"
         year: "Septembre 2017"
-        desc: "Au détour d’un café, Manon propose à Louna de venir travailler avec elle. Elle la forme et, devenant responsable de pôle, lui propose son poste d’animatrice réseau."
+        desc: "Au détour d’un café, Manon propose à Louna de venir travailler avec elle. Elle la forme et, devenant responsable de structure, lui propose son poste d’animatrice réseau."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Audric & Louna : <br> Un jolie coup de main"
@@ -58,12 +58,12 @@ fr: &DEFAULT_FR
         alt:
       - title: "Manon, Louna & Audric : <br> On quitte le navire"
         year: "Début 2022"
-        desc: "Fatigué·e·s de travailler pour une entreprise qui ne respecte pas nos valeurs, nous quittons l'association, priorisant notre bien-être."
+        desc: "Fatigué·e·s de travailler pour une entreprise qui ne respecte pas nos valeurs, <br/> nous quittons l'association, <br/> priorisant notre bien-être."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Audric & Manon : <br> Une opportunité"
         year: "En 2022"
-        desc: "Fâce à une belle opportunité Manon et Audric découvrent une nouvelle association, mais des difficultés de gestion de la structure les empêchent de s’y épanouir"
+        desc: "Fâce à une belle opportunité Manon et Audric découvrent une nouvelle association, mais les difficultés de gestion de la structure les empêchent de s’y épanouir"
         image: assets/img/timeline/4.jpg
         alt: 
       - title: "Coanima"
