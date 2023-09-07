@@ -1,11 +1,11 @@
 ---
-title: Compétences psychosociales
+title: Empathie & Communication
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/06-full.jpg
 alt: 
 
 caption:
-  title: Compétences psychosociales
+  title: Empathie & Communication 
   subtitle: Formation adulte
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
