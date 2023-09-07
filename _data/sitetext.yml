@@ -36,7 +36,7 @@ fr: &DEFAULT_FR
 
   portfolio:
     title: "Pour vous"
-    text: "À l’intersection des dominations et des privilèges, nous vous proposons 6 thèmes sur lesquels nous cherchons à cogiter pour mieux s’aimer, soi et les autres.."
+    text: "À l’intersection des dominations et des privilèges, <br/> nous vous proposons 6 thèmes sur lesquels nous recherchons à cogiter pour mieux s’aimer, soi et les autres."
     closebutton: "Close Project"
 
   timeline:
@@ -88,18 +88,18 @@ fr: &DEFAULT_FR
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "Âme graphiste"
+        url: https://ame-graphiste.fr/
+        logo: assets/img/clients/ame-graphiste.jpg
+      - title: ""
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
+        logo: 
+      - title: ""
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
+        logo: 
+      - title: ""
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        logo: 
 
   team:
     title: "NOUS TROIS"
