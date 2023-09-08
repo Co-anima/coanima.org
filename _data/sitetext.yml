@@ -138,7 +138,7 @@ fr: &DEFAULT_FR
 
   contact:
     title: "Contactez-nous : bonjour@coanima.org"
-    text: "Vous pouvez aussi nous laissez nous un message :"
+    text: "Vous pouvez aussi nous laisser un message :"
     section: contact
     name: "Nom*"
     name-validation: "Comment vous vous appelez ?"
