@@ -48,7 +48,7 @@ fr: &DEFAULT_FR
     events:
       - title: "Manon & Louna : <br> Une première rencontre"
         year: "Septembre 2017"
-        desc: "Au détour d’un café, Manon propose à Louna de venir travailler avec elle. Elle la forme et, devenant responsable de structure, lui propose son poste d’animatrice réseau."
+        desc: "Au détour d’un café, Manon propose à Louna de venir travailler avec elle. Elle la forme et, devenant responsable de service, lui propose son poste d’animatrice réseau."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Audric & Louna : <br> Un jolie coup de main"
