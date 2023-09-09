@@ -2,7 +2,7 @@
 
 ## Pour lancer le site sur mon ordi à moi
 
-1- ouvrir le dossier coanima.org dans vscodium
+1- ouvrir le dossier coanima.org dans vscodi
 2- ouvrir le terminal (dans le menu vscode)
 3- taper `bundle exec jekyll serve --livereload`
 4- le site est disponible sur firefox : http://127.0.0.1:4000
