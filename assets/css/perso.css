@@ -7,6 +7,9 @@
         }
     }
 }
+.intro-heading p {
+    color: #3c736d; 
+}
 .timeline-body {
     text-align: left;
   }
