@@ -9,7 +9,7 @@ background: grey
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase">STATUTS DE L’ASSOCIATION : COANIMA</h2>
-        <h3 class="section-subheading text-muted"><a href="Statut COANIMA signé.pdf" target="_blank">Cliquez ici pour télécharger les statuts de l'association</a></h3>
+        <h3 class="section-subheading text-muted"><a href="Statuts-COANIMA.pdf" target="_blank">Cliquez ici pour télécharger les statuts de l'association</a></h3>
       </div>
     </div>
   </div>
