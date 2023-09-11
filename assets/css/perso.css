@@ -10,6 +10,10 @@
 .intro-heading p {
     color: #3c736d; 
 }
+.logo-image {
+    width: 100px; /* Ajustez la largeur selon votre préférence */
+    height: auto; /* Cela permet de conserver les proportions de l'image */
+}
 .timeline-body {
     text-align: left;
   }
