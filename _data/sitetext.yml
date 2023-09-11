@@ -36,7 +36,11 @@ fr: &DEFAULT_FR
 
   portfolio:
     title: "Pour vous"
-    text: "À l’intersection des dominations et des privilèges, nous vous proposons 6 thèmes <br/> sur lesquels nous sensibilisons, formons, et cogitons pour mieux s’aimer, soi et les autres."
+    text: " 
+**Milieu scolaire** : tous les niveaux dès 4 ans.
+**Jeunesse** : volontaire en service civique, promo 16-18, PJJ …
+<br/>**Professionnel.les** : de l’animation, de l’éducation, du médico-social, de la police, d’entreprises privés
+"
     closebutton: "Close Project"
 
   timeline:

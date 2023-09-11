@@ -15,13 +15,13 @@ fr: &DEFAULT_FR
       section: valeurs
     - title: "Pour vous"
       section: portfolio
-    - title: "Posture"
+    - title: "Notre posture"
       section: posture
     - title: "Notre histoire"
       section: histoire
     - title: "Nous"
       url: " /nous"
-    - title: "Contactez-nous"
+    - title: "Contact"
       section: contact
 fr-FR:
   <<: *DEFAULT_FR
