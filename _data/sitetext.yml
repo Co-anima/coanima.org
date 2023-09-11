@@ -36,7 +36,7 @@ fr: &DEFAULT_FR
 
   portfolio:
     title: "Pour vous"
-    text: "À l’intersection des dominations et des privilèges, <br/> nous vous proposons 6 thèmes sur lesquels nous recherchons à sensibiliser, former et cogiter pour mieux s’aimer, soi et les autres."
+    text: "À l’intersection des dominations et des privilèges, nous vous proposons 6 thèmes <br/> sur lesquels nous sensibilisons, formons, et cogitons pour mieux s’aimer, soi et les autres."
     closebutton: "Close Project"
 
   timeline:
