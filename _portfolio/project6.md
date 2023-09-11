@@ -1,7 +1,7 @@
 ---
 title: Empathie & Communication
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/06-full.jpg
+image: assets/img/portfolio/06-thumbnail.jpg
 alt: 
 
 caption:

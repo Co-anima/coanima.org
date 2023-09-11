@@ -1,7 +1,7 @@
 ---
 title: Violence & Harcèlement
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+image: assets/img/portfolio/04-thumbnail.jpg
 alt: 
 
 caption:

@@ -2,7 +2,7 @@
 title: Préjugé & Discriminations
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: assets/img/portfolio/01-thumbnail.jpg
 
 caption:
   title: Préjugé & Discrimination

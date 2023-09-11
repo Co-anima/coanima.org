@@ -1,7 +1,7 @@
 ---
 title: Esprit critique & Philosophie
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
+image: assets/img/portfolio/05-thumbnail.jpg
 alt: 
 
 caption:

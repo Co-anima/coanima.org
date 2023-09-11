@@ -1,7 +1,7 @@
 ---
 title: Sexisme & Genre
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/02-thumbnail.jpg
 alt: Keep Exploring
 
 caption:
