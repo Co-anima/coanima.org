@@ -36,12 +36,8 @@ fr: &DEFAULT_FR
 
   portfolio:
     title: "Pour vous"
-    text: " 
-**Milieu scolaire** : tous les niveaux dès 4 ans.
-**Jeunesse** : volontaire en service civique, promo 16-18, PJJ …
-<br/>**Professionnel.les** : de l’animation, de l’éducation, du médico-social, de la police, d’entreprises privés
-"
-    closebutton: "Close Project"
+    text: "À destination des : **Espaces éducatifs et de loisirs**, dès 11 ans (collège, lycée, ACM, maison pour tous, ITEP, MECS, AFPA, PJJ…) <br/> ainsi que les **professionnel·les**, **bénévoles** ou **volontaires** de l’associatif, du service public ou du privé."
+    closebutton: "Les autres thèmes"
 
   timeline:
     title: "Notre histoire"
