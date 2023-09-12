@@ -9,6 +9,7 @@ caption:
   subtitle:  Les singularités comme richesse
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
+<p style="text-align: justify;"><em><strong>Mots clés :</strong> stéréotype ; mécanisme d’exclusion ; inclusion ; rejet ; lois ; laïcité ; critères ; traitement inégal ; travail / emploi / logement ; xénophobie ; racisme ; migrations humaines ; catégorisation ; essentialisation ; privilèges ; intersectionnalité ; normes…</em></p>
 
 <p style="text-align: justify;">Nous explorons les mécanismes complexes de la catégorisation, qui ont tendance à attribuer des étiquettes aux individu.e.s. Comprendre cette mécanique interne permet de prendre du recul, de travailler sur nos propres représentations et d'appréhender la réalité sous de nouvelles perspectives. Cultiver une connaissance approfondie de ces thématiques c’est œuvrer pour une société plus inclusive : les singularités ne s'effacent pas, elles constituent la véritable richesse de la diversité humaine.</p> 
 
@@ -17,33 +18,21 @@ caption:
 **Contactez-nous pour composer votre intervention/formation idéale.**
 
 <p style="text-align: left;"> 
-Dans nos domaines d'expertise : </p>
+Les modules à choisir : </p>
 
 <ul class="left-align">
-    <li>stéréotype</li>
-    <li>mécanisme d’exclusion</li>
-    <li>inclusion</li>
-    <li>rejet</li>
-    <li>lois</li>
-    <li>laïcité</li>
-    <li>critères</li>
-    <li>traitement inégal</li>
-    <li>travail, emploi, logement</li>
-    <li>xénophobie</li>
-    <li>racisme</li>
+    <li>Légalité et critères</li>
     <li>migrations humaines</li>
-    <li>catégorisation</li>
-    <li>essentialisation</li>
-    <li>privilèges</li>
-    <li>normes</li>
+    <li>laïcité</li>
 </ul>
 
 
 {:.list-inline}
 - Les format proposés sont : 
-- 3x3
-- cercle de parole
-- Atelier fun one shot 
-- Formation de 2 jours pour professionnels
+- **Petit atelier ludique** : une sensibilisation pour une première approche du sujet.
+- **Cercle de parole** : libération de la parole, conscience de soi et respect des autres.
+- **Les 3 A** : Auto-diagnostic, Atelier (3h) et Approfondissement (3h) pour plus d’impact.
+- **Formation de 2 jours pour les professionnel·les** : comprendre, être outillé·e et transmettre.
+
 
 
