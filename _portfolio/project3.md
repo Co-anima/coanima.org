@@ -20,11 +20,11 @@ caption:
 <p style="text-align: left;">Les modules à choisir :</p>
 
 <ul class="left-align">
-    <li>1ères fois/ découverte</li>
+    <li>1ères fois / découverte</li>
     <li>abus/ inceste/ violences sexuelles</li>
-    <li>relations toxiques: Couple, conflit et communication</li>
-    <li>anatomie: clitoris/ pénis</li>
-    <li>envie/ plaisir/ désir</li>
+    <li>relations toxiques : Couple, conflit et communication</li>
+    <li>anatomie : clitoris / pénis</li>
+    <li>envie/ plaisir / désir</li>
     <li>prises de risques</li>
     <li>culture du viol</li>
   
