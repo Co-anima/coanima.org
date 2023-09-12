@@ -7,7 +7,6 @@
         }
     }
 } 
-
   
 .intro-heading p {
     color: #3c736d; 
@@ -23,3 +22,8 @@
   .timeline-body p {
     margin-top: 10px; /* Réglage de la marge pour espacer légèrement le texte de l'image */
   }
+
+  /* Portofolio */
+ul.left-align {
+    text-align: left !important;
+}
