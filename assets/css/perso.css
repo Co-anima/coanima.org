@@ -27,3 +27,38 @@
 ul.left-align {
     text-align: left !important;
 }
+
+/* Styles pour la section "Nous" */
+.nous-section {
+    background-color: grey; /* Vous pouvez personnaliser la couleur de fond ici */
+    /* Autres styles spécifiques à cette section */
+  }
+  
+  /* Styles pour les titres de la section "Nous" */
+  .nous-section h2 {
+    font-size: 24px; /* Personnalisez la taille de la police du titre */
+    /* Autres styles de titre */
+  }
+  
+  /* Styles pour le contenu textuel de la section "Nous" */
+  .nous-section p {
+    /* Styles pour les paragraphes dans cette section */
+  }
+  
+  /* Styles pour l'en-tête commun aux pages "Home" et "Nous" */
+  .nous-section {
+    background-image: url('../img/nous_3.jpeg'); /* Ajoutez le chemin de votre image de fond */
+    background-size: cover;
+    background-position: center;
+    height: 500px; /* ou la hauteur souhaitée */
+    text-align: center;
+    color: white;
+    padding: 100px 0; /* Espace autour du texte dans l'en-tête */
+  }
+  
+  /* Styles pour le titre de l'en-tête */
+  .page-header h2 {
+    font-size: 36px; /* Personnalisez la taille de la police du titre */
+    /* Autres styles de titre */
+  }
+  

@@ -5,11 +5,11 @@ background: grey
 ---
 
 
-<section class="page-section">
+<section class="page-section nous-section">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">Nous</h2>
+        <h2 class="section-heading text-uppercase"></h2>
       </div>
     </div>
   </div>
