@@ -13,26 +13,15 @@ caption:
 
 <p style="text-align: justify;">Nous explorons les mécanismes complexes de la catégorisation, qui ont tendance à attribuer des étiquettes aux individu·e·s. Comprendre cette mécanique interne permet de prendre du recul, de travailler sur nos propres représentations et d'appréhender la réalité sous de nouvelles perspectives. Cultiver une connaissance approfondie de ces thématiques c’est œuvrer pour une société plus inclusive : les singularités ne s'effacent pas, elles constituent la véritable richesse de la diversité humaine.</p> 
 
-<p style="text-align: justify;">Découvrez/Explorez nos interventions et formations basées sur l'intelligence collective créant ainsi un environnement où peuvent se nourrir mutuellement la réflexion personnelle et la dynamique du groupe. Nos formats engageants issus des pédagogies actives sollicitent à la fois le corps et l'esprit pour une expérience d'apprentissage enrichissante et impactante.</p> 
-
-**Contactez-nous pour composer votre intervention/formation idéale.**
-
-<p style="text-align: left;"> 
-Les modules à choisir : </p>
-
-<ul class="left-align">
-    <li>Légalité et critères</li>
-    <li>migrations humaines</li>
-    <li>laïcité</li>
-</ul>
-
+<p style="text-align: justify;">Nous sommes persuadé·e·s que la compréhension de ces mécanismes nous rend plus attentifs à nos propres biais et renforce notre confiance et notre capacité de réaction face aux discriminations, que nous en soyons victimes ou témoins.</p> 
 
 {:.list-inline}
 - Les format proposés sont : 
 - **Petit atelier ludique** : une sensibilisation pour une première approche du sujet.
 - **Cercle de parole** : libération de la parole, conscience de soi et respect des autres.
-- **Les 3 A** : Auto-diagnostic, Atelier (3h) et Approfondissement (3h) pour plus d’impact.
+- **Les 3 A** : Auto-diagnostic, Atelier et Approfondissement pour plus d’impact.
 - **Formation de 2 jours pour les professionnel·les** : comprendre, être outillé·e et transmettre.
 
 
 
+<a class="nav-link js-scroll-trigger active" href="index.html#contact">Contactez-nous pour composer votre intervention/formation idéale.</a>
