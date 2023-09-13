@@ -107,32 +107,22 @@ fr: &DEFAULT_FR
     section: team
     people:
       - name: "Louna Langlois"
-        role: "Chargée de projets"
+        role: "Coanimatrice"
         image: assets/img/team/photo-louna-500x500.jpg
         social:
-          - url: https://www.instagram.com/la_lune_voyageuse/
-            icon: fab fa-instagram
           - url: https://www.linkedin.com/in/louna-langlois-880937210/
             icon: fab fa-linkedin-in
       - name: "Audric Vilatte"
-        role: "Chargé de projets"
+        role: "Coanimateur"
         image: assets/img/team/photo-audric-500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Manon Melendez"
-        role: "Chargée de projets"
+        role: "Coanimatrice"
         image: assets/img/team/photo-manon-500x500.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://linkedin.com/in/manon-melendez-14a49b57/
             icon: fab fa-linkedin-in
 
   contact:
@@ -155,15 +145,13 @@ fr: &DEFAULT_FR
     statuts: "Statuts"
     budget : "Budget"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://facebook.com/COANIMA.mtp
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/company/99870297/
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/Co-anima
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/coanima_/
         icon: "fab fa-instagram"
 fr-FR:
   <<: *DEFAULT_FR
