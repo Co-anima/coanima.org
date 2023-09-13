@@ -17,8 +17,6 @@ fr: &DEFAULT_FR
       section: posture
     - title: "Pour vous"
       section: portfolio
-    - title: "Notre histoire"
-      section: histoire
     - title: "Nous"
       url: " /nous"
     - title: "Contact"
