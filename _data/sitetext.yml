@@ -101,10 +101,10 @@ fr: &DEFAULT_FR
         logo: 
 
   team:
-    title: "L'Équipe COANIMA"
+    title: "Nous"
     text: "Réuni par nos valeurs communes, collaborer ensemble a solidifié nos liens et créer une confiance mutuelle. Nous croyons en ce trio empathique et bientraitant, qui devrait être la norme dans le monde du travail."
     subtext: Afin de se sentir au mieux dans cette structure, nous avons choisi de former une **direction collégiale**. Nous sommes donc tous les 3 les **têtes pensantes**, les **preneur.euses de décision** ainsi que les **petites mains**. Nous gérons tout à 3, par la méthode du **consensus**.
-    section: team
+    section: nous
     people:
       - name: "Louna Langlois"
         role: "Coanimatrice"

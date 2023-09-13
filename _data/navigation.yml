@@ -18,7 +18,7 @@ fr: &DEFAULT_FR
     - title: "Pour vous"
       section: portfolio
     - title: "Nous"
-      url: " /nous"
+      section: nous
     - title: "Contact"
       section: contact
 fr-FR:
