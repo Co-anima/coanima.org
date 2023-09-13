@@ -15,13 +15,11 @@ caption:
 
 <p style="text-align: justify;">Nous sommes persuadé·e·s que la société se reflète dans l’intimité qu’elle soit amicale, amoureuse, sexuelle… Comprendre les effets de notre éducation et de nos représentations sur nous-même et sur les autres permet de libérer tout le potentiel de nos relations tout en diminuant les traumatismes qui y sont liés. Développer la communication, le plaisir et le respect c’est créer des relations saines et enrichissantes.</p> 
 
-{:.list-inline}
-- Les format proposés sont : 
-- **Petit atelier ludique** : une sensibilisation pour une première approche du sujet.
-- **Cercle de parole** : libération de la parole, conscience de soi et respect des autres.
-- **Les 3 A** : Auto-diagnostic, Atelier et Approfondissement pour plus d’impact.
-- **Formation de 2 jours pour les professionnel·les** : comprendre, être outillé·e et transmettre.
-
+[Les formats proposés sont :](/formats)<br/>
+[- **Petit atelier ludique :**](/formats)  une sensibilisation pour une première approche du sujet.<br/>
+[- **Cercle de parole :**](/formats) libération de la parole, conscience de soi et respect des autres.<br/>
+[- **Les 3 A :**](/formats) Auto-diagnostic, Atelier et Approfondissement pour plus d’impact.<br/>
+[- **Formation de 2 jours pour les professionnel·les :**](/formats) comprendre, être outillé·e et transmettre.
 
 
 <a class="nav-link js-scroll-trigger active" href="index.html#contact">Contactez-nous pour composer votre intervention/formation idéale.</a>

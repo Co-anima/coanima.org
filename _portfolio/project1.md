@@ -15,12 +15,15 @@ caption:
 
 <p style="text-align: justify;">Nous sommes persuadé·e·s que la compréhension de ces mécanismes nous rend plus attentifs à nos propres biais et renforce notre confiance et notre capacité de réaction face aux discriminations, que nous en soyons victimes ou témoins.</p> 
 
-{:.list-inline}
-- Les format proposés sont : 
-- **Petit atelier ludique** : une sensibilisation pour une première approche du sujet.
-- **Cercle de parole** : libération de la parole, conscience de soi et respect des autres.
-- **Les 3 A** : Auto-diagnostic, Atelier et Approfondissement pour plus d’impact.
-- **Formation de 2 jours pour les professionnel·les** : comprendre, être outillé·e et transmettre.
+
+[Les formats proposés sont :](/formats)<br/>
+[- **Petit atelier ludique :**](/formats)  une sensibilisation pour une première approche du sujet.<br/>
+[- **Cercle de parole :**](/formats) libération de la parole, conscience de soi et respect des autres.<br/>
+[- **Les 3 A :**](/formats) Auto-diagnostic, Atelier et Approfondissement pour plus d’impact.<br/>
+[- **Formation de 2 jours pour les professionnel·les :**](/formats) comprendre, être outillé·e et transmettre.
+
+
+
 
 
 

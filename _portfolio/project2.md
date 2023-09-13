@@ -17,12 +17,11 @@ caption:
 <p style="text-align: justify;">Nous sommes persuadé·e·s qu’encourager, dès le plus jeune âge, la liberté d'être soi-même est essentiel pour construire une société plus égalitaire et pour œuvrer à la création d'un monde où chacun.e peut s'épanouir pleinement. En en comprenant les mécanismes, nous apprenons à repérer nos biais et à mieux gérer les situations, contribuant ainsi à un avenir où chacun et chacune peut trouver son épanouissement.</p> 
 
 
-{:.list-inline}
-- Les format proposés sont : 
-- **Petit atelier ludique** : une sensibilisation pour une première approche du sujet.
-- **Cercle de parole** : libération de la parole, conscience de soi et respect des autres.
-- **Les 3 A** : Auto-diagnostic, Atelier et Approfondissement pour plus d’impact.
-- **Formation de 2 jours pour les professionnel·les** : comprendre, être outillé·e et transmettre.
+[Les formats proposés sont :](/formats)<br/>
+[- **Petit atelier ludique :**](/formats)  une sensibilisation pour une première approche du sujet.<br/>
+[- **Cercle de parole :**](/formats) libération de la parole, conscience de soi et respect des autres.<br/>
+[- **Les 3 A :**](/formats) Auto-diagnostic, Atelier et Approfondissement pour plus d’impact.<br/>
+[- **Formation de 2 jours pour les professionnel·les :**](/formats) comprendre, être outillé·e et transmettre.
 
 
 

@@ -15,13 +15,11 @@ caption:
 
 <p style="text-align: justify;">Nous sommes persuadé·e·s que la compréhension des mécanismes individuels et sociaux de la violence en réduit ses expressions, mais renforce également les compétences d'auto-défense verbale. Cette compréhension, qui inclut la reconnaissance des causes et conséquences psychologiques et morales inhérentes à la violence, permet aux individus de mieux gérer ces situations et d'échapper à la spirale destructrice de la violence.</p> 
 
-{:.list-inline}
-- Les format proposés sont : 
-- **Petit atelier ludique** : une sensibilisation pour une première approche du sujet.
-- **Cercle de parole** : libération de la parole, conscience de soi et respect des autres.
-- **Les 3 A** : Auto-diagnostic, Atelier et Approfondissement pour plus d’impact.
-- **Formation de 2 jours pour les professionnel·les** : comprendre, être outillé·e et transmettre.
-
+[Les formats proposés sont :](/formats)<br/>
+[- **Petit atelier ludique :**](/formats)  une sensibilisation pour une première approche du sujet.<br/>
+[- **Cercle de parole :**](/formats) libération de la parole, conscience de soi et respect des autres.<br/>
+[- **Les 3 A :**](/formats) Auto-diagnostic, Atelier et Approfondissement pour plus d’impact.<br/>
+[- **Formation de 2 jours pour les professionnel·les :**](/formats) comprendre, être outillé·e et transmettre.
 
 
 <a class="nav-link js-scroll-trigger active" href="index.html#contact">Contactez-nous pour composer votre intervention/formation idéale.</a>

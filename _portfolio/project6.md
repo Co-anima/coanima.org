@@ -15,13 +15,11 @@ caption:
 
 <p style="text-align: justify;">Nous sommes persuadé·e·s que travailler sur la communication et l’empathie permet une meilleure compréhension de soi tout en favorisant le rapport aux autres. Nos émotions nous parlent de nous : les écouter c’est se connaître, les accueillir c’est s’assumer, les comprendre c’est se réaliser. Être en paix avec soi-même, c’est retrouver la tranquillité du quotidien et la sérénité dans nos rapports aux autres.</p> 
 
-{:.list-inline}
-- Les format proposés sont : 
-- **Petit atelier ludique** : une sensibilisation pour une première approche du sujet.
-- **Cercle de parole** : libération de la parole, conscience de soi et respect des autres.
-- **Les 3 A** : Auto-diagnostic, Atelier et Approfondissement pour plus d’impact.
-- **Formation de 2 jours pour les professionnel·les** : comprendre, être outillé·e et transmettre.
-
+[Les formats proposés sont :](/formats)<br/>
+[- **Petit atelier ludique :**](/formats)  une sensibilisation pour une première approche du sujet.<br/>
+[- **Cercle de parole :**](/formats) libération de la parole, conscience de soi et respect des autres.<br/>
+[- **Les 3 A :**](/formats) Auto-diagnostic, Atelier et Approfondissement pour plus d’impact.<br/>
+[- **Formation de 2 jours pour les professionnel·les :**](/formats) comprendre, être outillé·e et transmettre.
 
 
 <a class="nav-link js-scroll-trigger active" href="index.html#contact">Contactez-nous pour composer votre intervention/formation idéale.</a>
