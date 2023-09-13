@@ -13,10 +13,10 @@ fr: &DEFAULT_FR
   nav:
     - title: "Nos valeurs"
       section: valeurs
-    - title: "Pour vous"
-      section: portfolio
     - title: "Notre posture"
       section: posture
+    - title: "Pour vous"
+      section: portfolio
     - title: "Notre histoire"
       section: histoire
     - title: "Nous"

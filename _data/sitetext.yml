@@ -34,6 +34,14 @@ fr: &DEFAULT_FR
         desc: "Cultiver sa liberté, avoir l’audace d’explorer en redonnant la juste place à l’échec, celle de l’apprentissage. Avoir le courage de dépasser les normes et l'intelligence de l’esprit critique. "
         icon: fas fa-palette
 
+  about:
+    title: "Notre Posture"
+    text: "L'éducation populaire"
+    body: "Notre approche en animation d'éducation populaire se distingue par sa profonde **empathie** et son engagement pour **l'intelligence collective**. En adoptant une posture de facilitation de la **prise de parole** et prise de conscience, nous créons un espace où chaque voix est valorisée et écoutée. En cultivant cette dynamique participative, **les format·eurs·trices évoluent pour devenir des créat·eurs·rices de contextes favorables à l'apprentissage**, encourageant ainsi la croissance individuelle et du groupe. Les débats constructifs occupent également une place centrale, favorisant l'exploration collaborative d'idées et la **remise en question** des normes établies.<br/>
+<br/> Pour rendre la pédagogie plus vivante, nous mettons **le corps en mouvement** à l’aide d’une **mallette pédagogique** remplie de jeux interactifs pour briser la glace, permettre les discussions et  l’apprentissage. Débats sous toutes ses formes, cercles de paroles, jeux de rôles, **outils pédagogiques** pertinents parsèment nos ateliers. <br/>
+<br/> Nous nous adaptons à chaque public et ses attentes et donc **ajustons le déroulé au besoin**."
+    section: posture
+
   portfolio:
     title: "Pour vous"
     text: "À destination des : **Espaces éducatifs et de loisirs**, dès 11 ans (collège, lycée, ACM, maison pour tous, ITEP, MECS, AFPA, PJJ…) <br/> ainsi que les **professionnel·les**, **bénévoles** ou **volontaires** de l’associatif, du service public ou du privé."
@@ -73,15 +81,6 @@ fr: &DEFAULT_FR
         alt: image alt text
         # you can enforce the alignment
         align: 
-
-
-  about:
-    title: "Notre Posture"
-    text: "L'éducation populaire"
-    body: "Notre approche en animation d'éducation populaire se distingue par sa profonde **empathie** et son engagement pour **l'intelligence collective**. En adoptant une posture de facilitation de la **prise de parole** et prise de conscience, nous créons un espace où chaque voix est valorisée et écoutée. En cultivant cette dynamique participative, **les format·eurs·trices évoluent pour devenir des créat·eurs·rices de contextes favorables à l'apprentissage**, encourageant ainsi la croissance individuelle et du groupe. Les débats constructifs occupent également une place centrale, favorisant l'exploration collaborative d'idées et la **remise en question** des normes établies.<br/>
-<br/> Pour rendre la pédagogie plus vivante, nous mettons **le corps en mouvement** à l’aide d’une **mallette pédagogique** remplie de jeux interactifs pour briser la glace, permettre les discussions et  l’apprentissage. Débats sous toutes ses formes, cercles de paroles, jeux de rôles, **outils pédagogiques** pertinents parsèment nos ateliers. <br/>
-<br/> Nous nous adaptons à chaque public et ses attentes et donc **ajustons le déroulé au besoin**."
-    section: posture
 
   clients:
     section: clients
