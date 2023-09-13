@@ -15,6 +15,7 @@ background: grey
   </div>
 </section>
 
+{% include timeline.html %}
 # NOM
 
 
@@ -41,7 +42,6 @@ La gestion du site et des données, la comptabilité, les notions agile/lean.
 
 ### Mes forces : 
 Authentique, énergique et inventive
-
 
 ## Manon
 
