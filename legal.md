@@ -6,32 +6,33 @@ title: Vie privée
 	<h2 class="section-heading text-uppercase">Vie privée</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+# Politique de confidentialité
 
-**PERSONAL INFORMATION WE COLLECT**
+Cette Politique de confidentialité décrit comment vos informations personnelles sont collectées, utilisées et partagées lorsque vous visitez {{ site.title }} (le "Site").
+
+**INFORMATIONS PERSONNELLES QUE NOUS COLLECTONS**
 
 {% if site.analytics.google %}
 
-Automatically Collected (Google Analytics):
+Automatiquement collectées (Google Analytics) :
 
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
+Lorsque vous visitez le Site, nous recevons automatiquement des informations sur votre appareil à partir de votre navigateur, telles que votre adresse IP. Pendant que vous parcourez le Site, nous collectons également des informations sur la manière dont vous interagissez avec le Site. Nous désignons ces informations collectées automatiquement sous le nom "Informations de l'appareil".
 
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
+Nous collectons les Informations de l'appareil en utilisant des cookies. Les "cookies" sont des fichiers de données placés sur votre appareil. Pour plus d'informations sur les cookies et sur la manière de les désactiver, visitez http://www.allaboutcookies.org.
 
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
+Nous utilisons Google Analytics à cette fin : <https://www.google.com/intl/fr/policies/privacy/>.
 
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
 
 {% else %}
 
-We do not collect any data about you or use any cookies.
+Nous ne collectons aucune donnée vous concernant ni n'utilisons de cookies.
 
 {% endif %}
 
-**CHANGES**
+**MODIFICATIONS**
 
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
+Nous pouvons mettre à jour cette politique de confidentialité de temps à autre pour des raisons personnelles, opérationnelles, légales ou réglementaires.
 
-**CONTACT US**
+**NOUS CONTACTER**
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Pour plus d'informations sur nos pratiques en matière de confidentialité ou si vous avez des questions, veuillez nous contacter par e-mail à <a href="mailto:{{ site.email }}">{{ site.email }}</a>.

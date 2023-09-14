@@ -37,10 +37,7 @@ fr: &DEFAULT_FR
   about:
     title: "Notre Posture"
     text: "L'éducation populaire"
-    body: "Notre approche en animation d'éducation populaire se distingue par sa profonde **empathie** et son engagement pour **l'intelligence collective**. En adoptant une posture de facilitation de la **prise de parole** et prise de conscience, nous créons un espace où chaque voix est valorisée et écoutée. En cultivant cette dynamique participative, **les format·eurs·trices évoluent pour devenir des créat·eurs·rices de contextes favorables à l'apprentissage**, encourageant ainsi la croissance individuelle et du groupe. Les débats constructifs occupent également une place centrale, favorisant l'exploration collaborative d'idées et la **remise en question** des normes établies.<br/>
-<br/> Pour rendre la pédagogie plus vivante, nous mettons **le corps en mouvement** à l’aide d’une **mallette pédagogique** remplie de jeux interactifs pour briser la glace, permettre les discussions et  l’apprentissage. Débats sous toutes ses formes, cercles de paroles, jeux de rôles, **outils pédagogiques** pertinents parsèment nos ateliers. <br/>
-<br/> Nous nous adaptons à chaque public et ses attentes et donc **ajustons le déroulé au besoin**."
-    section: posture
+    body: "Notre approche est issue de la culture de l'éducation populaire. Elle se distingue par l’enthousiasme et l’empathie, la constante mise en œuvre de l'intelligence collective et l’engagement pour l’égalité. **Les Coanimatrices·teurs sont des créatrices·teurs de contextes favorables à la réflexion, l’échange et l’apprentissage**. En adoptant une posture de facilitation de la prise de parole et de la prise de conscience, nous créons un espace sécurisé et sécurisant où chaque voix est valorisée. Cela favorise l'enrichissement mutuel entre l’individu·e et le groupe.<br/> <br/>Pour dynamiser notre pédagogie, nous utilisons une **valise à outils** remplie de jeux et d’activités interactives, issus des méthodes actives, sollicitant le **mouvement du corps** et de l'esprit. Nous offrons une expérience d'apprentissage à la fois enrichissante et impactante. Les **débats critiques et constructifs** y occupent une place centrale, favorisant l’exploration collaborative d’idées ainsi que la remise en question des normes établies.<br/><br>En fonction de vos attentes nous concevons, à partir de nos formats, la formule idéale tout en **ajustant le déroulé aux besoins** du public."
 
   portfolio:
     title: "Pour vous"
@@ -124,6 +121,8 @@ fr: &DEFAULT_FR
         social:
           - url: https://linkedin.com/in/manon-melendez-14a49b57/
             icon: fab fa-linkedin-in
+    button: En savoir +
+    buttonlink: "/nous"
 
   contact:
     title: "Contactez-nous : bonjour@coanima.org"

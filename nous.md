@@ -26,7 +26,7 @@ Et pourquoi animation ? de la racine anima qui donne la vie à quelque chose. On
 
 # LOGO
 
-Ce logo représente un grand C, tel les arcs de cercle de chaises qu’on met en place au début de nos interventions. Les lettres o et a suivent, comme les 3 première lettres de COANIMA. Cela fait le son [kwa] -"quoi ?"-, toutes ces questions que l'on pose et qu’on nous pose lors de nos ateliers. Ces deux lettres liées font comme une esperluette (&) couchée, logotype cher à notre cœur, représentant l’union, le lien, le fil continu. Dans esperluette, il y a ESPÈRE (l’espoir) et LUETTE (impliquée dans la voix et donc la communication). Cela tombe bien, c’est aussi le nom de notre programme en milieu scolaire !
+Ce logo représente un grand C, tel les arcs de cercle de chaises qu’on met en place au début de nos interventions. Les lettres o et a suivent, comme les 3 première lettres de COANIMA. Cela fait le son [kwa] -"quoi ?"-, toutes ces questions que l'on pose et qu’on nous pose lors de nos ateliers. Ces deux lettres liées font comme une esperluette (&) couchée, logotype cher à notre cœur, représentant l’union, le lien, le fil continu. Dans esperluette, il y a ESPÈRE (l’espoir) et LUETTE (impliquée dans la voix et donc la communication).
 
 # NOUS 3 
 
