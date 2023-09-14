@@ -21,9 +21,9 @@ title      : Coanima
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "Coanima est une association d'éducation populaire, elle œuvre pour la compréhension des conditionnements afin d’agir sur les comportements de rejet et favoriser la culture d’acceptation de toustes grâce aux valeurs d'égalité, d'empathie, d'enthousiathme et de créativité"
 author     : Louna
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:
+  path: assets/img/logo-blanc.png
+  height: 52px
 
 locale: "fr-FR" # See available languages in _data/sitetext.yml
 
