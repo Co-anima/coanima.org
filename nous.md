@@ -20,7 +20,7 @@ background: grey
 
 
 **COANIMA** c’est l’animation collective, coopérative et notre mode de fonctionnement collégial, bref tous ces mots en CO qui parlent de l’expérience commune, du partage, de l’enrichissement par le groupe.
-Et pourquoi animation ? de la racine anima qui donne la vie à quelque chose. On se fixe pour objectif dans toutes nos animations de donner vie aux discussions, aux débats, aux idées, de créer de l’animation dans le cerveau, utiliser notre esprit critique, de bouger aussi et rendre mobile le corps trop souvent oublié dans l’apprentissage. 
+Et pourquoi animation ? de la racine anima qui donne la vie à quelque chose. On se fixe pour objectif dans toutes nos animations de donner vie aux discussions, aux débats, aux idées, de créer de l’animation dans le cerveau, utiliser notre esprit critique, de bouger aussi et rendre mobile le corps trop souvent oublié dans l’apprentissage. Retrouvez nos statuts [ici](/statuts)
 
 
 
