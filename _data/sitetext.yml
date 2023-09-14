@@ -18,17 +18,17 @@ fr: &DEFAULT_FR
 
   services:
     title: "Nos valeurs"
-    text: "Nous sommes guidés par quatre piliers fondamentaux qui définissent notre travail et notre approche :"
+    text: "Notre travail et notre approche sont définis par quatre piliers fondamentaux "
     section: valeurs
     list:
       - title: "Egalité"
-        desc: "Croire en une société où chacun·e a une place égale, qu'importe son origine, genre, orientation sexuelle, etc. S’engager pour l’équité et la compréhension des privilèges. Lutter contre les inégalités."
+        desc: "Croire en une société où chacun a une place égale, qu'importe son origine, genre, orientation sexuelle etc. S’engager pour l’égalité à travers l’équité et la compréhension des privilèges. Lutter contre les inégalités."
         icon: fas fa-users
       - title: "Empathie"
-        desc: "Développer l’altruisme pour vivre en confiance, bientraitance et paix. Cultiver les capacités à s’écouter, se mettre à la place de l’autre et à communiquer ses émotions et ses besoins."
+        desc: "Cultiver les capacités à s’écouter, se mettre à la place de l’autre et à communiquer ses émotions et ses besoins. Développer l’altruisme pour vivre en confiance, bientraitance et paix."
         icon: fas fa-heart
       - title: "Enthousiasme"
-        desc: "Semer l’espoir et notre motivation à se changer soi et le monde. Prendre du plaisir dans ce qu’on fait. Avoir l’ambition de nos utopies et insuffler cet élan à tous ceux que nous rencontrons."
+        desc: "Semer l’espoir et notre motivation à se changer soi et le monde. Prendre du plaisir dans ce qu’on fait. Avoir l’ambition de nos utopies et insuffler cet élan à tous celle et ceux que nous rencontrons."
         icon: fas fa-fire
       - title: "Créativité"
         desc: "Cultiver sa liberté, avoir l’audace d’explorer en redonnant la juste place à l’échec, celle de l’apprentissage. Avoir le courage de dépasser les normes et l'intelligence de l’esprit critique. "
@@ -37,7 +37,7 @@ fr: &DEFAULT_FR
   about:
     title: "Notre Posture"
     text: "L'éducation populaire"
-    body: "Notre approche est issue de la culture de l'éducation populaire. Elle se distingue par l’enthousiasme et l’empathie, la constante mise en œuvre de l'intelligence collective et l’engagement pour l’égalité. **Les Coanimatrices·teurs sont des créatrices·teurs de contextes favorables à la réflexion, l’échange et l’apprentissage**. En adoptant une posture de facilitation de la prise de parole et de la prise de conscience, nous créons un espace sécurisé et sécurisant où chaque voix est valorisée. Cela favorise l'enrichissement mutuel entre l’individu·e et le groupe.<br/> <br/>Pour dynamiser notre pédagogie, nous utilisons une **valise à outils** remplie de jeux et d’activités interactives, issus des méthodes actives, sollicitant le **mouvement du corps** et de l'esprit. Nous offrons une expérience d'apprentissage à la fois enrichissante et impactante. Les **débats critiques et constructifs** y occupent une place centrale, favorisant l’exploration collaborative d’idées ainsi que la remise en question des normes établies.<br/><br>En fonction de vos attentes nous concevons, à partir de nos formats, la formule idéale tout en **ajustant le déroulé aux besoins** du public."
+    body: "Notre approche est issue de la culture de l'éducation populaire. Elle se distingue par l’enthousiasme et l’empathie, la constante mise en œuvre de l'**intelligence collective** et l’engagement pour l’égalité. **Les Coanimatrices·teurs sont des créatrices·teurs de contextes favorables à la réflexion, l’échange et l’apprentissage**. En adoptant une posture de facilitation de la prise de parole et de la prise de conscience, nous créons un espace sécurisé et **sécurisant** où chaque voix est valorisée, écoutée, et où la créativité est encouragée. Cela favorise **l'enrichissement mutuel** entre l’individu et le groupe.<br/>Pour dynamiser notre pédagogie, nous utilisons une **valise à outils** pédagogiques remplie de jeux et d’activités interactives, issus des méthodes actives, sollicitant le mouvement du **corps et de l'esprit**. Nous offrons une expérience d'apprentissage à la fois enrichissante et impactante. Les débats critiques et constructifs y occupent une place centrale, favorisant l’exploration collaborative d’idées ainsi que la **remise en question** des normes établies.<br/>En fonction de vos attentes nous concevons à partir de nos [formats](/formats) la formule idéale, tout en **ajustant le déroulé aux besoins** du public."
 
   portfolio:
     title: "Pour vous"
@@ -63,12 +63,12 @@ fr: &DEFAULT_FR
         alt:
       - title: "Manon, Louna & Audric : <br> On quitte le navire"
         year: "Début 2022"
-        desc: "Fatigué·e·s de travailler pour une entreprise qui ne respecte pas nos valeurs, <br/> nous quittons l'association, <br/> priorisant notre bien-être."
+        desc: "Fatigué·e·s de travailler pour une structure qui ne respecte pas nos valeurs, nous la quittons, priorisant notre bien-être."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Audric & Manon : <br> Une opportunité"
         year: "En 2022"
-        desc: "Fâce à une belle opportunité Manon et Audric découvrent une nouvelle association, mais les difficultés de gestion de la structure les empêchent de s’y épanouir"
+        desc: "Fâce à une belle opportunité Manon et Audric découvrent une nouvelle association, mais les difficultés de gestion les empêchent de s’y épanouir"
         image: assets/img/timeline/4.jpg
         alt: 
       - title: "Coanima"
@@ -99,7 +99,7 @@ fr: &DEFAULT_FR
 
   team:
     title: "Nous"
-    text: "Réuni par nos valeurs communes, collaborer ensemble a solidifié nos liens et créer une confiance mutuelle. Nous croyons en ce trio empathique et bientraitant, qui devrait être la norme dans le monde du travail."
+    text: "Réuni·e·s par des valeurs communes, collaborer ensemble a solidifié nos liens et créé une confiance mutuelle.</br> Nous croyons en notre trio empathique, enthousiaste et créatif, pour dépasser les normes du monde du travail et créer notre utopie."
     subtext: Afin de se sentir au mieux dans cette structure, nous avons choisi de former une **direction collégiale**. Nous sommes donc tous les 3 les **têtes pensantes**, les **preneur.euses de décision** ainsi que les **petites mains**. Nous gérons tout à 3, par la méthode du **consensus**.
     section: nous
     people:

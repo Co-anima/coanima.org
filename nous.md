@@ -57,14 +57,12 @@ Communication, adaptabilité, amélioration
 
 ## Audric
 
-Fasciné par l'entrelacement des sciences et de la pensée humaine, mon parcours reflète ma soif de compréhension. Avec une licence Génie mécanique en aéronautique et une double license en philosophie/sociologie, j'ai fusionné la rigueur mathématique avec une exploration conceptuelle des sciences humaines approfondie.
-
-COANIMA représente pour moi l'harmonie entre animation, éducation et réflexion sociophilosophique. Cet espace offre une toile idéale pour cultiver des idées neuves, repousser les limites de la pensée collective et collaborer avec une équipe partageant ma passion pour la créativité et la transformation.
+La richesse de mon parcours se base sur la diversité de mes expériences. J’ai traversé différents horizons professionnels et eu différents engagements dans la lutte contre les discriminations. Ma passion éclectique pour les sciences m'a conduit à étudier le Génie Mécanique, la Sociologie et la Philosophie. Nourris de ces expériences, muni de mon DEJEPS DPTR, je m'engage maintenant dans COANIMA, où se marient harmonieusement pédagogie, curiosité et créativité. Cet espace offre une toile idéale pour cultiver des idées neuves et grandir par l’intelligence collective tout en collaborant avec une équipe de confiance avec qui je partage mes valeurs.
 
 ### Ce que j’apporte au collectif : 
-Toutes les veilles (en psycho socio, de l’actualité politique, réglementaire…) et l’écriture des dossiers de subvention. 
+Toutes les veilles (scientifiques, pédagogiques, politiques, réglementaires…) et l’écriture des dossiers de subvention.
 
 ### Mes forces : 
-Sociabilité, esprit critique, sagesse.
+Sociabilité, esprit critique
 
 
