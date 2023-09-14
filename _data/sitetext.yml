@@ -140,7 +140,7 @@ fr: &DEFAULT_FR
     submit: "Envoyez"
 
   footer:
-    legal: "Vie privée"
+    legal: "Mention légale"
     statuts: "Statuts"
     budget : "Budget"
     social:
