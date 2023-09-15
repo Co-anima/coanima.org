@@ -11,9 +11,9 @@ caption:
 ---
 <p style="text-align: justify;"><em><strong>Mots clés :</strong> stéréotype ; mécanisme d’exclusion ; inclusion ; rejet ; lois ; laïcité ; critères ; traitement inégal ; travail / emploi / logement ; xénophobie ; racisme ; migrations humaines ; catégorisation ; essentialisation ; privilèges ; intersectionnalité ; normes</em></p>
 
-<p style="text-align: justify;">Nous explorons les mécanismes complexes de la catégorisation, qui ont tendance à attribuer des étiquettes aux individu·e·s. Comprendre cette mécanique interne permet de prendre du recul, de travailler sur nos propres représentations et d'appréhender la réalité sous de nouvelles perspectives. Cultiver une connaissance approfondie de ces thématiques c’est œuvrer pour une société plus inclusive : les singularités ne s'effacent pas, elles constituent la véritable richesse de la diversité humaine.</p> 
+<p style="text-align: justify;">Nous explorons les mécanismes complexes de la catégorisation, qui ont tendance à attribuer des étiquettes aux individu·e·s pouvant se cumuler et renforcer les difficultés. Comprendre cette mécanique interne permet de prendre du recul, de travailler sur nos propres représentations et d'appréhender la réalité sous de nouvelles perspectives. Cultiver une connaissance approfondie de ces thématiques c’est œuvrer pour une société plus inclusive : les singularités ne s'effacent pas, elles constituent la véritable richesse de la diversité humaine. </p> 
 
-<p style="text-align: justify;">Nous sommes persuadé·e·s que la compréhension de ces mécanismes nous rend plus attentifs à nos propres biais et renforce notre confiance et notre capacité de réaction face aux discriminations, que nous en soyons victimes ou témoins.</p> 
+<p style="text-align: justify;">Nous sommes persuadé·e·s que la compréhension de ces mécanismes nous rend plus attentifs.ves à nos propres biais, renforce notre confiance et notre capacité de réaction face aux discriminations, que nous en soyons victimes ou témoins.</p> 
 
 
 [Les formats proposés sont :](/formats)<br/>
