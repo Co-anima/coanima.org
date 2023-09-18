@@ -77,6 +77,17 @@ ul.left-align {
     color: white;
     padding: 100px 0; /* Espace autour du texte dans l'en-tête */
   }
+
+  /* Styles pour le titre "Nos bienfaitrice.eurs" */
+.custom-title {
+  color: grey; /* Couleur du texte en gris */
+  text-align: center; /* Centre le texte */
+  font-family: 'votre-police'; /* Utilisez la police souhaitée, remplacez 'votre-police' par le nom de votre police */
+  /* Autres styles de police, taille, marge, etc. */
+  font-size: 24px; /* Taille de la police */
+  margin-bottom: 20px; /* Marge en bas si nécessaire */
+}
+
   
   /* Styles pour le titre de l'en-tête */
   .page-header h2 {
