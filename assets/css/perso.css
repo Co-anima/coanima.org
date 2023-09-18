@@ -69,7 +69,7 @@ ul.left-align {
   
   /* Styles pour l'en-tête commun aux pages "Home" et "Nous" */
   .nous-section {
-    background-image: url('../img/nous_3.jpeg'); /* Ajoutez le chemin de votre image de fond */
+    background-image: url('../img/nous_3.jpg'); /* Ajoutez le chemin de votre image de fond */
     background-size: cover;
     background-position: center;
     height: 500px; /* ou la hauteur souhaitée */
