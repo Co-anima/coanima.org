@@ -1,12 +1,12 @@
 ---
 title: Violence & Harcèlement
-subtitle: Des causes, des conséquences
+subtitle: Du vicieux au vertueux
 image: assets/img/portfolio/04-thumbnail.jpg
 alt: 
 
 caption:
   title: Violence & Harcèlement
-  subtitle: Des causes, des conséquences
+  subtitle: Du vicieux au vertueux
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
 <p style="text-align: justify;"><em><strong>Mots clés :</strong> empathie ; milieu scolaire ou professionnel ; rejet ; exclusion ; différences/singularités ; normes ; harcèlement en milieu scolaire le rôle : enfants, adultes ; construire sa défense ; estime de soi ; rôles auteur/victime/témoins ; domination ; réseaux sociaux ; humour/ challenge/ chantage/ pression ; types de violences ; causes/ conséquences/ impact des violences; violence intrafamiliale / éducative ordinaire.</em></p>
