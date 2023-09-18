@@ -7,7 +7,16 @@
         }
     }
 } 
-  
+
+.btn {
+  position: relative;
+  top: -75px; /* Ajustez la valeur selon vos besoins pour remonter le bouton */
+}
+
+
+
+
+
 .intro-heading p {
     color: #3c736d; 
 }
