@@ -85,6 +85,8 @@ Pour moi, COANIMA est à la fois la réponse et la question : un espace de créa
 ###### <center>Ce que j’apporte au collectif </center>
 <center>La gestion du site et des données, la comptabilité, les notions agile/lean.</center>
 
+<br> <!-- Ajoute un saut de ligne -->
+<br> <!-- Ajoute un saut de ligne -->
 
 ## Manon
 
