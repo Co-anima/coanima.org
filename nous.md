@@ -16,53 +16,141 @@ background: grey
 </section>
 
 {% include timeline.html %}
-# NOM
 
 
-**COANIMA** c’est l’animation collective, coopérative et notre mode de fonctionnement collégial, bref tous ces mots en CO qui parlent de l’expérience commune, du partage, de l’enrichissement par le groupe.
-Et pourquoi animation ? de la racine anima qui donne la vie à quelque chose. On se fixe pour objectif dans toutes nos animations de donner vie aux discussions, aux débats, aux idées, de créer de l’animation dans le cerveau, utiliser notre esprit critique, de bouger aussi et rendre mobile le corps trop souvent oublié dans l’apprentissage. Retrouvez nos statuts [ici](/statuts)
+<div style="display: flex; justify-content: space-between; align-items: center; text-align: justify;">
+
+  <div style="flex: 1;">
+    <h2>Nom</h2>
+    <p>
+      <Strong>COANIMA</Strong> c’est l’animation collective, coopérative et notre mode de fonctionnement collégial, tous ces mots en CO qui parlent de l’expérience commune, du partage, de l’enrichissement par le groupe.
+Et pourquoi animation ? de la racine <strong>anima</strong> qui donne la vie. On se fixe pour objectif dans toutes nos animations donner vie aux discussions, aux débats, aux idées, de créer de l’animation dans le cerveau, utiliser notre esprit critique, de bouger aussi et rendre mobile le corps trop souvent oublié dans l’apprentissage.
+    </p>
+  </div>
+
+  <div style="flex: 1; margin: 0 50px;">
+    <img src="assets/img/gros-logo.jpg" alt="logo coanima" width="395" height="250">
+    <p style="text-align: center;">Retrouvez nos statuts <a href="/statuts">ici</a></p>
+  </div>
+
+  <div style="flex: 1;">
+    <h2>Logo</h2>
+    <p>
+      Ce logo représente un grand C, tel les arcs de cercle de chaises qu’on met en place au début de nos interventions. Les lettres o et a suivent, comme les 3 première lettres de COANIMA. Cela fait le son [kwa] -"quoi?"-, toutes ces questions que l'on pose et qu’on nous pose lors de nos ateliers. Ces deux lettres liées font comme une esperluette (&) couchée, logotype cher à notre cœur, représentant l’union, le lien, le fil continu. Dans esperluette, il y a ESPÈRE (l’espoir) et LUETTE (impliquée dans la voix et donc la communication).
+    </p>
+  </div>
+
+</div>
 
 
+<br> <!-- Ajoute un saut de ligne -->
+<br> <!-- Ajoute un saut de ligne -->
 
-# LOGO
-
-Ce logo représente un grand C, tel les arcs de cercle de chaises qu’on met en place au début de nos interventions. Les lettres o et a suivent, comme les 3 première lettres de COANIMA. Cela fait le son [kwa] -"quoi ?"-, toutes ces questions que l'on pose et qu’on nous pose lors de nos ateliers. Ces deux lettres liées font comme une esperluette (&) couchée, logotype cher à notre cœur, représentant l’union, le lien, le fil continu. Dans esperluette, il y a ESPÈRE (l’espoir) et LUETTE (impliquée dans la voix et donc la communication).
-
-# NOUS 3 
-
+# <center>L'équipe de COANIMA</center>
+<br> <!-- Ajoute un saut de ligne -->
 
 ## Louna
 
-A 17 ans j'accède à mon premier emploi dans l'animation. Ma mission est déjà la lutte contre les discriminations et c'est pour moi une révélation. Cela m'a permis de m'engager concrètement contre les injustices et les inégalités par le biais de l'éductaion populaire plutôt qu'en manifestante ou politicienne. L'animation fut pour moi une évidence, et surtout j'adorais ça.
+<img src="assets/img/team/photo-louna-500x500.jpg" alt="Louna" style="float: left; margin-right: 10px; border-radius: 50%; width: 100px; height: 100px;" />
+
+A 17 ans j'accède à mon premier emploi dans l'animation. Ma mission est déjà la lutte contre les discriminations et c'est pour moi une révélation. Cela m'a permis de m'engager concrètement contre les injustices et les inégalités par le biais de l'éducation populaire plutôt qu'en manifestante ou politicienne. L'animation fut pour moi une évidence, et surtout j'adorais ça.
 Des années plus tard, comme animatrice réseau, j'ai pris beaucoup de plaisir à transmettre mes connaissances, concevoir de nouveaux ateliers, les expérimenter, créer de nouveaux thèmes et interagir avec des publics variés.
-Pour moi, COANIMA est à la fois la réponse et la question : un espace de création, de coopération ,d’empathie ,que vas-t-on bien pouvoir inventer de chouette dans ce joli cadre ?
+Pour moi, COANIMA est à la fois la réponse et la question : un espace de création, de coopération, d’empathie, que vas-t-on bien pouvoir inventer de chouette dans ce joli cadre ?
 
-### Ce que j’apporte au collectif :
-La gestion du site et des données, la comptabilité, les notions agile/lean.
 
-### Mes forces : 
-Authentique, énergique et inventive
+
+##### <center>Mes forces</center>
+<br> <!-- Ajoute un saut de ligne -->
+<div style="text-align: center;">
+  <div style="display: inline-block; text-align: center; margin-right: 50px;margin-left: 50px;">
+    <i class="fa fa-check-circle fa-3x" style="color: #49A695;"></i><br>
+    Gestion du site et des données
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin-right: 50px;margin-left: 50px;">
+    <i class="fa fa-check-circle fa-3x" style="color: #49A695;"></i><br>
+    Comptabilité
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin-right: 50px;margin-left: 50px;">
+    <i class="fa fa-check-circle fa-3x" style="color: #49A695;"></i><br>
+    Notions agile/lean
+  </div>
+</div>
+
+<br> <!-- Ajoute un saut de ligne -->
+
+###### <center>Ce que j’apporte au collectif </center>
+<center>La gestion du site et des données, la comptabilité, les notions agile/lean.</center>
+
 
 ## Manon
 
+<img src="assets/img/team/photo-manon-500x500.jpeg" alt="Manon" style="float: left; margin-right: 10px; border-radius: 50%; width: 100px; height: 100px;" />
+
 Amoureuse de l’éducation populaire depuis mon premier emploi dans l’associatif en 2011, je me suis engagée jusqu’alors à la lutte contre les discriminations. En expliquant le mécanisme qui entraîne préjugés et rejet, j’ai trouvé une voie (ma voix), du sens et une mission. Sur ce chemin je me suis enrichie, peut-être encore plus que les publics si divers que j’ai rencontrés. Aujourd’hui j’aspire à aller plus en profondeur dans la compréhension des comportements humains (paix, émotions, besoins, altruisme, écologie…). Je vois dans COANIMA la liberté que j’ai toujours rêvé d’avoir et la confiance en mes collègues pour avancer plus loin, avec plus de folie aussi et de légèreté.
 
-### Ce que j’apporte au collectif : 
-Un réseau partenarial fort, la communication visuelle, la programmation annuelle et la démarche qualité. 
 
-### Mes forces : 
-Communication, adaptabilité, amélioration 
 
+##### <center>Mes forces</center>
+<div style="text-align: center;">
+  <div style="display: inline-block; text-align: center; margin-right: 50px;margin-left: 50px;">
+    <i class="fa fa-check-circle fa-3x" style="color: #49A695;"></i><br>
+    Gestion du site et des données
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin-right: 50px;margin-left: 50px;">
+    <i class="fa fa-check-circle fa-3x" style="color: #49A695;"></i><br>
+    Comptabilité
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin-right: 50px;margin-left: 50px;">
+    <i class="fa fa-check-circle fa-3x" style="color: #49A695;"></i><br>
+    Notions agile/lean
+  </div>
+</div>
+
+<br> <!-- Ajoute un saut de ligne -->
+
+###### <center>Ce que j’apporte au collectif:</center> 
+<center>
+Un réseau partenarial fort, la communication visuelle, la programmation annuelle et la démarche qualité.</center>
+
+
+
+<br> <!-- Ajoute un saut de ligne -->
+<br> <!-- Ajoute un saut de ligne -->
 
 
 ## Audric
 
+
+<img src="assets/img/team/photo-audric-500x500.jpg" alt="Audric" style="float: left; margin-right: 10px; border-radius: 50%; width: 100px; height: 100px;" />
+
 La richesse de mon parcours se base sur la diversité de mes expériences. J’ai traversé différents horizons professionnels et eu différents engagements dans la lutte contre les discriminations. Ma passion éclectique pour les sciences m'a conduit à étudier le Génie Mécanique, la Sociologie et la Philosophie. Nourris de ces expériences, muni de mon DEJEPS DPTR, je m'engage maintenant dans COANIMA, où se marient harmonieusement pédagogie, curiosité et créativité. Cet espace offre une toile idéale pour cultiver des idées neuves et grandir par l’intelligence collective tout en collaborant avec une équipe de confiance avec qui je partage mes valeurs.
 
-### Ce que j’apporte au collectif : 
-Toutes les veilles (scientifiques, pédagogiques, politiques, réglementaires…) et l’écriture des dossiers de subvention.
 
-### Mes forces : 
-Sociabilité, esprit critique
+##### <center>Mes forces</center>
+<div style="text-align: center;">
+  <div style="display: inline-block; text-align: center; margin-right: 50px;margin-left: 50px;">
+    <i class="fa fa-check-circle fa-3x" style="color: #49A695;"></i><br>
+    Gestion du site et des données
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin-right: 50px;margin-left: 50px;">
+    <i class="fa fa-check-circle fa-3x" style="color: #49A695;"></i><br>
+    Comptabilité
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin-right: 50px;margin-left: 50px;">
+    <i class="fa fa-check-circle fa-3x" style="color: #49A695;"></i><br>
+    Notions agile/lean
+  </div>
+</div>
+
+<br> <!-- Ajoute un saut de ligne -->
+
+###### <center>Ce que j’apporte au collectif</center> 
+<center>Toutes les veilles (scientifiques, pédagogiques, politiques, réglementaires…) et l’écriture des dossiers de subvention.</center>
 
 

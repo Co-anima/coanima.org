@@ -67,26 +67,43 @@ ul.left-align {
     /* Styles pour les paragraphes dans cette section */
   }
   
-  /* Styles pour l'en-tête commun aux pages "Home" et "Nous" */
   .nous-section {
-    background-image: url('../img/nous_3.jpg'); /* Ajoutez le chemin de votre image de fond */
+    position: relative;
+    background-image: url('../img/nous_3.jpg');
     background-size: cover;
     background-position: center;
-    height: 500px; /* ou la hauteur souhaitée */
+    height: 500px;
     text-align: center;
-    color: white;
-    padding: 100px 0; /* Espace autour du texte dans l'en-tête */
-  }
-
-  /* Styles pour le titre "Nos bienfaitrice.eurs" */
-.custom-title {
-  color: grey; /* Couleur du texte en gris */
-  text-align: center; /* Centre le texte */
-  font-family: 'votre-police'; /* Utilisez la police souhaitée, remplacez 'votre-police' par le nom de votre police */
-  /* Autres styles de police, taille, marge, etc. */
-  font-size: 24px; /* Taille de la police */
-  margin-bottom: 20px; /* Marge en bas si nécessaire */
+    color: transparent;
+    padding: 100px 0;
 }
+
+.nous-section::before {
+  content: "COANIMA,";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Montserrat"; /* Utilise la police "autography" */
+  color: white;
+  font-size: 60px;
+  border-radius: 5px;
+}
+
+.nous-section::after {
+  content: "c'est nous";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 50%); /* Pour déplacer le texte vers le bas */
+  color: rgb(255, 255, 255);
+  font-family: "Droid Serif"; 
+  font-style : italic
+  color: white;
+  font-size: 60px;
+  border-radius: 5px;
+}
+
 
   
   /* Styles pour le titre de l'en-tête */
