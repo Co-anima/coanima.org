@@ -154,7 +154,7 @@ ul.left-align {
 
 @media (max-width: 768px) {
   .navbar-brand img {
-    height: 30px; /* Ajustez la taille du logo pour les petits écrans */
+    height: 50px; /* Ajustez la taille du logo pour les petits écrans */
   }
 }
 /* Styles spécifiques pour les boutons sur les appareils mobiles */
