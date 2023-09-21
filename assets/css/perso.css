@@ -1,5 +1,5 @@
 
-@media (min-width: 710px) {
+@media (min-width: 768px) {
     header.masthead {
         .intro-text {
             padding-top: 100px;
@@ -13,7 +13,11 @@
   top: -75px; /* Ajustez la valeur selon vos besoins pour remonter le bouton */
   font-size: 12px; /* Ajustez la taille de la police selon vos besoins */
 }
-
+/* Styles spécifiques pour les boutons sur les appareils mobiles */
+@media (max-width: 768px) {
+  .header-btn {
+      margin-top: 75px; /* Ajustez la valeur selon vos besoins pour déplacer le bouton vers le bas sur mobile */
+  }
 .title-container {
   text-align: center; /* Centre le texte horizontalement */
   color: gray; /* Définit la couleur du texte en gris */
@@ -35,6 +39,17 @@
   position: static;
   top: auto; /* Supprimez la valeur top précédemment définie */
 }
+
+/* Styles spécifiques pour le titre sur les appareils mobiles */
+@media (max-width: 767px) {
+  .title-contact {
+      font-size: 20px !important; /* Ajustez la taille de la police selon vos besoins pour les appareils mobiles */
+      margin-top: -70px !important; /* Ajustez la marge supérieure pour déplacer le texte vers le haut */
+    }
+  }
+  
+
+
 
 
 
@@ -124,5 +139,5 @@ ul.left-align {
   .page-header h2 {
     font-size: 36px; /* Personnalisez la taille de la police du titre */
     /* Autres styles de titre */
-  }
-  
+  }}
+
