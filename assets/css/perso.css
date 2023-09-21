@@ -8,7 +8,7 @@
     }
 } 
 
-.btn {
+.header-btn {
   position: relative;
   top: -75px; /* Ajustez la valeur selon vos besoins pour remonter le bouton */
 }
@@ -31,6 +31,9 @@
   position: static;
   top: auto; /* Supprimez la valeur top précédemment définie */
 }
+
+
+
 /* Styles spécifiques au bouton du formulaire de contact */
 .team-btn {
   /* Ajoutez vos styles spécifiques ici */
