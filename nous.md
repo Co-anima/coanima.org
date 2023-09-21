@@ -48,7 +48,7 @@ Et pourquoi animation ? de la racine <strong>anima</strong> qui donne la vie. On
 <br> <!-- Ajoute un saut de ligne -->
 <br> <!-- Ajoute un saut de ligne -->
 
-<center>L'équipe de COANIMA</center>
+# <center>L'équipe de COANIMA</center>
 <br> <!-- Ajoute un saut de ligne -->
 
 ## Louna
