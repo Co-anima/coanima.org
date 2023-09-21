@@ -59,8 +59,9 @@ Et pourquoi animation ? de la racine <strong>anima</strong> qui donne la vie. On
 
 <!-- Informations de contact de Louna -->
 <div style="float: left; margin-top: 25px; margin-right: 20px;"> <!-- Ajout de la marge à droite -->
-  <i class="fa-solid fa-phone fa-lg" style="color: #49A695;"></i> +33 7 44 83 83 71 <br>
-  <i class="fa-solid fa-envelope fa-lg" style="color: #49A695;"></i> louna@coanima.org
+  <i class="fa-solid fa-phone fa-lg" style="color: #49A695;"></i> <a href="tel:+33744838371">+33 7 44 83 83 71</a> <br>
+  <i class="fa-solid fa-envelope fa-lg" style="color: #49A695;"></i> <a href="mailto:louna@coanima.org">louna@coanima.org</a>
+
 </div>
 
 A 17 ans j'accède à mon premier emploi dans l'animation. Ma mission est déjà la lutte contre les discriminations et c'est pour moi une révélation. Cela m'a permis de m'engager concrètement contre les injustices et les inégalités par le biais de l'éducation populaire plutôt qu'en manifestante ou politicienne. L'animation fut pour moi une évidence, et surtout j'adorais ça.
@@ -104,8 +105,8 @@ Pour moi, COANIMA est à la fois la réponse et la question : un espace de créa
 
 <!-- Informations de contact de Louna -->
 <div style="float: left; margin-top: 25px; margin-right: 20px;"> <!-- Ajout de la marge à droite -->
-  <i class="fa-solid fa-phone fa-lg" style="color: #49A695;"></i> +33 6 77 88 93 35 <br>
-  <i class="fa-solid fa-envelope fa-lg" style="color: #49A695;"></i> manon@coanima.org
+  <i class="fa-solid fa-phone fa-lg" style="color: #49A695;"></i> <a href="tel:+33677889335">+33 6 77 88 93 35</a> <br>
+  <i class="fa-solid fa-envelope fa-lg" style="color: #49A695;"></i> <a href="mailto:manon@coanima.org">manon@coanima.org</a>
 </div>
 
 Amoureuse de l’éducation populaire depuis mon premier emploi dans l’associatif en 2011, je me suis engagée jusqu’alors à la lutte contre les discriminations. En expliquant le mécanisme qui entraîne préjugés et rejet, j’ai trouvé une voie (ma voix), du sens et une mission. Sur ce chemin je me suis enrichie, peut-être encore plus que les publics si divers que j’ai rencontrés. Aujourd’hui j’aspire à aller plus en profondeur dans la compréhension des comportements humains (paix, émotions, besoins, altruisme, écologie…). Je vois dans COANIMA la liberté que j’ai toujours rêvé d’avoir et la confiance en mes collègues pour avancer plus loin, avec plus de folie aussi et de légèreté..
@@ -150,8 +151,8 @@ Un réseau partenarial fort, la communication visuelle, la programmation annuell
 
 <!-- Informations de contact de Louna -->
 <div style="float: left; margin-top: 25px; margin-right: 20px;"> <!-- Ajout de la marge à droite -->
-  <i class="fa-solid fa-phone fa-lg" style="color: #49A695;"></i> +33 7 83 67 72 12 <br>
-  <i class="fa-solid fa-envelope fa-lg" style="color: #49A695;"></i> audric@coanima.org
+  <i class="fa-solid fa-phone fa-lg" style="color: #49A695;"></i> <a href="tel:+33783677212">+33 7 83 67 72 12</a> <br>
+  <i class="fa-solid fa-envelope fa-lg" style="color: #49A695;"></i> <a href="mailto:audric@coanima.org">audric@coanima.org</a>
 </div>
 
 La richesse de mon parcours se base sur la diversité de mes expériences. J’ai traversé différents horizons professionnels et eu différents engagements dans la lutte contre les discriminations. Ma passion éclectique pour les sciences m'a conduit à étudier le Génie Mécanique, la Sociologie et la Philosophie. Nourris de ces expériences, muni de mon DEJEPS DPTR, je m'engage maintenant dans COANIMA, où se marient harmonieusement pédagogie, curiosité et créativité. Cet espace offre une toile idéale pour cultiver des idées neuves et grandir par l’intelligence collective tout en collaborant avec une équipe de confiance avec qui je partage mes valeurs.
