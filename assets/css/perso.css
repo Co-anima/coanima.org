@@ -1,5 +1,5 @@
 
-@media (min-width: 768px) {
+@media (min-width: 710px) {
     header.masthead {
         .intro-text {
             padding-top: 100px;
@@ -11,6 +11,7 @@
 .header-btn {
   position: relative;
   top: -75px; /* Ajustez la valeur selon vos besoins pour remonter le bouton */
+  font-size: 12px; /* Ajustez la taille de la police selon vos besoins */
 }
 
 .title-container {
