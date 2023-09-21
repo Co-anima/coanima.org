@@ -22,6 +22,9 @@
   line-height: 1.5; /* Ajuste la hauteur de ligne pour centrer verticalement */
 }
 
+.closer-link {
+  margin-top: -50px; /* Vous pouvez ajuster la valeur en fonction de la distance souhaitée */
+}
 
 
 /* Styles spécifiques au bouton du formulaire de contact */
