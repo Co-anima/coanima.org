@@ -160,7 +160,7 @@ ul.left-align {
 /* Styles spécifiques pour les boutons sur les appareils mobiles */
 @media (max-width: 768px) {
   .header-btn {
-      margin-top: 75px; /* Ajustez la valeur selon vos besoins pour déplacer le bouton vers le bas sur mobile */
+      margin-top: 165px; /* Ajustez la valeur selon vos besoins pour déplacer le bouton vers le bas sur mobile */
 }
 
 /* Styles spécifiques pour le titre sur les appareils mobiles */
