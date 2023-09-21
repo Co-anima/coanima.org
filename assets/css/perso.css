@@ -41,7 +41,7 @@
 }
 
 /* Styles spécifiques pour le titre sur les appareils mobiles */
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .title-contact {
       font-size: 20px !important; /* Ajustez la taille de la police selon vos besoins pour les appareils mobiles */
       margin-top: -70px !important; /* Ajustez la marge supérieure pour déplacer le texte vers le haut */
@@ -62,13 +62,7 @@
 }
 
 
-.intro-heading p {
-    color: #3c736d; 
-}
-.logo-image {
-    width: 100px; /* Ajustez la largeur selon votre préférence */
-    height: auto; /* Cela permet de conserver les proportions de l'image */
-}
+
 .timeline-body {
     text-align: left;
   }
@@ -95,17 +89,18 @@ ul.left-align {
   }
   
   
-  
-  .nous-section {
-    position: relative;
-    background-image: url('../img/nous_3.jpg');
-    background-size: cover;
-    background-position: center;
-    height: 500px;
-    text-align: center;
-    color: transparent;
-    padding: 100px 0;
+/* Styles pour la section "Nous" */
+.nous-section {
+  position: relative;
+  background-image: url('../img/nous_3.jpg');
+  background-size: contain; /* Ajuste la taille de l'image pour qu'elle tienne entièrement dans la section tout en maintenant son aspect ratio */
+  background-position: center;
+  height: 500px;
+  text-align: center;
+  color: transparent;
+  padding: 100px 0;
 }
+
 
 .nous-section::before {
   content: "COANIMA,";

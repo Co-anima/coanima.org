@@ -23,7 +23,7 @@ description: "Coanima est une association d'éducation populaire, elle œuvre po
 author     : Louna
 logo:
   path: assets/img/logo-blanc.png
-  height: 52px
+  height: 75px
 
 locale: "fr-FR" # See available languages in _data/sitetext.yml
 
