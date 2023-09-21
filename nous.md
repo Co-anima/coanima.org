@@ -71,7 +71,7 @@ Pour moi, COANIMA est à la fois la réponse et la question : un espace de créa
 
   <div style="display: inline-block; text-align: center; margin-right: 50px;margin-left: 50px;">
     <i class="fa-regular fa-copyright fa-3x" style="color: #49A695;"></i><br>
-    Authentique
+    Authenticité
   </div>
 
   <div style="display: inline-block; text-align: center; margin-right: 50px;margin-left: 50px;">
