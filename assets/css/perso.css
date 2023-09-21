@@ -8,6 +8,13 @@
     }
 } 
 
+@media (max-width: 768px) {
+  .navbar-brand img {
+    height: 30px; /* Ajustez la taille du logo pour les petits écrans */
+  }
+}
+
+
 .header-btn {
   position: relative;
   top: -75px; /* Ajustez la valeur selon vos besoins pour remonter le bouton */
