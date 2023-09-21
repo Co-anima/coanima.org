@@ -13,6 +13,16 @@
   top: -75px; /* Ajustez la valeur selon vos besoins pour remonter le bouton */
 }
 
+.title-container {
+  text-align: center; /* Centre le texte horizontalement */
+  color: gray; /* Définit la couleur du texte en gris */
+}
+
+.custom-title {
+  line-height: 1.5; /* Ajuste la hauteur de ligne pour centrer verticalement */
+}
+
+
 
 /* Styles spécifiques au bouton du formulaire de contact */
 .contact-btn {
@@ -62,10 +72,7 @@ ul.left-align {
     /* Autres styles de titre */
   }
   
-  /* Styles pour le contenu textuel de la section "Nous" */
-  .nous-section p {
-    /* Styles pour les paragraphes dans cette section */
-  }
+  
   
   .nous-section {
     position: relative;
@@ -98,11 +105,11 @@ ul.left-align {
   transform: translate(-50%, 50%); /* Pour déplacer le texte vers le bas */
   color: rgb(255, 255, 255);
   font-family: "Droid Serif"; 
-  font-style : italic
+  font-style : italic;
   color: white;
   font-size: 60px;
   border-radius: 5px;
-}
+  }
 
 
   

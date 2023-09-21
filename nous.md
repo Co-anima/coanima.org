@@ -57,7 +57,7 @@ Et pourquoi animation ? de la racine <strong>anima</strong> qui donne la vie. On
 
 A 17 ans j'accède à mon premier emploi dans l'animation. Ma mission est déjà la lutte contre les discriminations et c'est pour moi une révélation. Cela m'a permis de m'engager concrètement contre les injustices et les inégalités par le biais de l'éducation populaire plutôt qu'en manifestante ou politicienne. L'animation fut pour moi une évidence, et surtout j'adorais ça.
 Des années plus tard, comme animatrice réseau, j'ai pris beaucoup de plaisir à transmettre mes connaissances, concevoir de nouveaux ateliers, les expérimenter, créer de nouveaux thèmes et interagir avec des publics variés.
-Pour moi, COANIMA est à la fois la réponse et la question : un espace de création, de coopération, d’empathie, que vas-t-on bien pouvoir inventer de chouette dans ce joli cadre ?
+Pour moi, COANIMA est à la fois la réponse et la question : un espace de création, de coopération, d’empathie, que va-t-on bien pouvoir inventer de chouette dans ce joli cadre ?
 
 <br> <!-- Ajoute un saut de ligne -->
 
@@ -139,7 +139,7 @@ La richesse de mon parcours se base sur la diversité de mes expériences. J’a
 
 <div style="text-align: center;">
   <div style="display: inline-block; text-align: center; margin-right: 50px;margin-left: 50px;">
-    <i class="fa-solid fa-users-gear fa-3x" style="color: #49A695;"></i><br>
+    <i class="fa-solid fa-users fa-3x" style="color: #49A695;"></i><br>
     Sociabilité
   </div>
 

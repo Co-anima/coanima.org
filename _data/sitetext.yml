@@ -88,9 +88,9 @@ fr: &DEFAULT_FR
       - title: "Âme graphiste"
         url: https://ame-graphiste.fr/
         logo: assets/img/clients/ame-graphiste.jpg
-      - title: ""
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: 
+      - title: "THAÏS"
+        url: https://thais-pms.com/
+        logo: assets/img/clients/thais-pms.png 
       - title: ""
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: 
