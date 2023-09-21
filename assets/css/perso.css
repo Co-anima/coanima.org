@@ -88,7 +88,7 @@ ul.left-align {
 
 .nous-section::before {
   content: "COANIMA,";
-  position: absolute;
+  position: center;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -100,7 +100,7 @@ ul.left-align {
 
 .nous-section::after {
   content: "c'est nous";
-  position: absolute;
+  position: center ;
   top: 50%;
   left: 50%;
   transform: translate(-50%, 50%); /* Pour déplacer le texte vers le bas */

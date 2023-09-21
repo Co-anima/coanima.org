@@ -56,15 +56,35 @@ background: grey
 </div>
 
 <!-- Informations de contact de Louna -->
-<div style="float: left; margin-top: 25px; margin-right: 20px;"> <!-- Ajout de la marge à droite -->
+<div class="contact-info">
   <i class="fa-solid fa-phone fa-lg" style="color: #49A695;"></i> <a href="tel:+33744838371">+33 7 44 83 83 71</a> <br>
   <i class="fa-solid fa-envelope fa-lg" style="color: #49A695;"></i> <a href="mailto:louna@coanima.org">louna@coanima.org</a>
-
 </div>
 
-A 17 ans j'accède à mon premier emploi dans l'animation. Ma mission est déjà la lutte contre les discriminations et c'est pour moi une révélation. Cela m'a permis de m'engager concrètement contre les injustices et les inégalités par le biais de l'éducation populaire plutôt qu'en manifestante ou politicienne. L'animation fut pour moi une évidence, et surtout j'adorais ça.
-Des années plus tard, comme animatrice réseau, j'ai pris beaucoup de plaisir à transmettre mes connaissances, concevoir de nouveaux ateliers, les expérimenter, créer de nouveaux thèmes et interagir avec des publics variés.
-Pour moi, COANIMA est à la fois la réponse et la question : un espace de création, de coopération, d’empathie, que va-t-on bien pouvoir inventer de chouette dans ce joli cadre ?
+<p class="description">A 17 ans j'accède à mon premier emploi dans l'animation. Ma mission est déjà la lutte contre les discriminations et c'est pour moi une révélation. Cela m'a permis de m'engager concrètement contre les injustices et les inégalités par le biais de l'éducation populaire plutôt qu'en manifestante ou politicienne. L'animation fut pour moi une évidence, et surtout j'adorais ça. Des années plus tard, comme animatrice réseau, j'ai pris beaucoup de plaisir à transmettre mes connaissances, concevoir de nouveaux ateliers, les expérimenter, créer de nouveaux thèmes et interagir avec des publics variés. Pour moi, COANIMA est à la fois la réponse et la question : un espace de création, de coopération, d’empathie, que va-t-on bien pouvoir inventer de chouette dans ce joli cadre ?</p>
+
+<style>
+/* Styles pour la version ordinateur */
+.contact-info {
+  float: left;
+  margin-top: 25px;
+  margin-right: 20px;
+}
+
+/* Styles pour la version mobile (écran de moins de 600px de largeur) */
+@media (max-width: 600px) {
+  .contact-info {
+    float: none;
+    margin: 0;
+  }
+  .description {
+    margin-top: 25px;
+  }
+}
+</style>
+
+
+<br> <!-- Ajoute un saut de ligne -->
 
 <br> <!-- Ajoute un saut de ligne -->
 
@@ -102,12 +122,33 @@ Pour moi, COANIMA est à la fois la réponse et la question : un espace de créa
 </div>
 
 <!-- Informations de contact de Louna -->
-<div style="float: left; margin-top: 25px; margin-right: 20px;"> <!-- Ajout de la marge à droite -->
+<div class="contact-info">
   <i class="fa-solid fa-phone fa-lg" style="color: #49A695;"></i> <a href="tel:+33677889335">+33 6 77 88 93 35</a> <br>
   <i class="fa-solid fa-envelope fa-lg" style="color: #49A695;"></i> <a href="mailto:manon@coanima.org">manon@coanima.org</a>
 </div>
 
-Amoureuse de l’éducation populaire depuis mon premier emploi dans l’associatif en 2011, je me suis engagée jusqu’alors à la lutte contre les discriminations. En expliquant le mécanisme qui entraîne préjugés et rejet, j’ai trouvé une voie (ma voix), du sens et une mission. Sur ce chemin je me suis enrichie, peut-être encore plus que les publics si divers que j’ai rencontrés. Aujourd’hui j’aspire à aller plus en profondeur dans la compréhension des comportements humains (paix, émotions, besoins, altruisme, écologie…). Je vois dans COANIMA la liberté que j’ai toujours rêvé d’avoir et la confiance en mes collègues pour avancer plus loin, avec plus de folie aussi et de légèreté..
+<p class="description">Amoureuse de l’éducation populaire depuis mon premier emploi dans l’associatif en 2011, je me suis engagée jusqu’alors à la lutte contre les discriminations. En expliquant le mécanisme qui entraîne préjugés et rejet, j’ai trouvé une voie (ma voix), du sens et une mission. Sur ce chemin je me suis enrichie, peut-être encore plus que les publics si divers que j’ai rencontrés. Aujourd’hui j’aspire à aller plus en profondeur dans la compréhension des comportements humains (paix, émotions, besoins, altruisme, écologie…). Je vois dans COANIMA la liberté que j’ai toujours rêvé d’avoir et la confiance en mes collègues pour avancer plus loin, avec plus de folie aussi et de légèreté.</p>
+
+<style>
+/* Styles pour la version ordinateur */
+.contact-info {
+  float: left;
+  margin-top: 25px;
+  margin-right: 20px;
+}
+
+/* Styles pour la version mobile (écran de moins de 600px de largeur) */
+@media (max-width: 600px) {
+  .contact-info {
+    float: none;
+    margin: 0;
+  }
+  .description {
+    margin-top: 25px;
+  }
+}
+</style>
+
 
 <br> <!-- Ajoute un saut de ligne -->
 
@@ -148,12 +189,33 @@ Un réseau partenarial fort, la communication visuelle, la programmation annuell
 </div>
 
 <!-- Informations de contact de Louna -->
-<div style="float: left; margin-top: 25px; margin-right: 20px;"> <!-- Ajout de la marge à droite -->
+<div class="contact-info">
   <i class="fa-solid fa-phone fa-lg" style="color: #49A695;"></i> <a href="tel:+33783677212">+33 7 83 67 72 12</a> <br>
   <i class="fa-solid fa-envelope fa-lg" style="color: #49A695;"></i> <a href="mailto:audric@coanima.org">audric@coanima.org</a>
 </div>
 
-La richesse de mon parcours se base sur la diversité de mes expériences. J’ai traversé différents horizons professionnels et eu différents engagements dans la lutte contre les discriminations. Ma passion éclectique pour les sciences m'a conduit à étudier le Génie Mécanique, la Sociologie et la Philosophie. Nourris de ces expériences, muni de mon DEJEPS DPTR, je m'engage maintenant dans COANIMA, où se marient harmonieusement pédagogie, curiosité et créativité. Cet espace offre une toile idéale pour cultiver des idées neuves et grandir par l’intelligence collective tout en collaborant avec une équipe de confiance avec qui je partage mes valeurs.
+<p class="description">La richesse de mon parcours se base sur la diversité de mes expériences. J’ai traversé différents horizons professionnels et eu différents engagements dans la lutte contre les discriminations. Ma passion éclectique pour les sciences m'a conduit à étudier le Génie Mécanique, la Sociologie et la Philosophie. Nourris de ces expériences, muni de mon DEJEPS DPTR, je m'engage maintenant dans COANIMA, où se marient harmonieusement pédagogie, curiosité et créativité. Cet espace offre une toile idéale pour cultiver des idées neuves et grandir par l’intelligence collective tout en collaborant avec une équipe de confiance avec qui je partage mes valeurs.</p>
+
+<style>
+/* Styles pour la version ordinateur */
+.contact-info {
+  float: left;
+  margin-top: 25px;
+  margin-right: 20px;
+}
+
+/* Styles pour la version mobile (écran de moins de 600px de largeur) */
+@media (max-width: 600px) {
+  .contact-info {
+    float: none;
+    margin: 0;
+  }
+  .description {
+    margin-top: 25px;
+  }
+}
+</style>
+
 
 <br> <!-- Ajoute un saut de ligne -->
 
