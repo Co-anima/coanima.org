@@ -47,7 +47,7 @@ fr: &DEFAULT_FR
 
   timeline:
     title: "Notre histoire"
-    text: "Notre parcours associatif débute pour tous par une mission de service civique au sein de la même structure de lutte contre les discriminations, <br/> mais à des époques différentes."
+    text: "Notre parcours associatif débute pour toustes par une mission de service civique au sein de la même structure de lutte contre les discriminations, <br/> mais à des époques différentes."
     section: histoire
     # left is the default
     #start_align: "left"
