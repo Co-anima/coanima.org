@@ -1,13 +1,27 @@
 ---
 layout: page
-title: Page mystère
+title: Page perdue
 ---
+<style>
+  /* Styles pour les écrans de petite taille (téléphones) */
+  @media screen and (max-width: 768px) {
+    /* Réduire la largeur de l'image à 30% et centrer */
+    .centered-image {
+      width: 100%;
+      display: block;
+      margin: 0 auto;
+    }
+  }
+</style>
+
 <section class="page-section">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">404 - Page Not Found</h2>
-        <h3 class="section-subheading text-muted">The requested page could not be found.</h3>
+        <h2 class="section-heading text-uppercase">404 - Page perdue</h2>
+        <h3 class="section-subheading text-muted"><p>Nos robots de recherche sont en mode <strong>panique</strong> pour la retrouver.</p>
+        <p><a href="/">Retour à l'accueil</a></p></h3>
+        <img src="assets/img/404.jpeg" alt="404 Image" class="centered-image">
       </div>
     </div>
   </div>

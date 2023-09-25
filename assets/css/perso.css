@@ -133,6 +133,13 @@ ul.left-align {
   flex: 1;
   margin: 0 20px;
 }
+.centered-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 50%;
+  height: auto;
+}
+
 
 /* Styles spécifiques pour les écrans de petite taille (par exemple, téléphone) */
 @media (max-width: 767px) {
@@ -170,5 +177,6 @@ ul.left-align {
       margin-top: -70px !important; /* Ajustez la marge supérieure pour déplacer le texte vers le haut */
     }
 }}
+
 
 
