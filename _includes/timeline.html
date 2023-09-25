@@ -39,7 +39,7 @@
               <h4 class="subheading">{{ event.title }}</h4>
             </div>
             <div class="timeline-body">
-              <div class="text-muted">{{ event.desc | markdownify }}</div>
+              <div class="text-muted" style="text-align: justify;">{{ event.desc | markdownify }}</div>
             </div>
           </div>
           </li>
@@ -55,7 +55,7 @@
                 <h4 class="subheading">{{ site.data.sitetext[site.locale].timeline.end.title }}</h4>
               </div>
               <div class="timeline-body">
-                <div class="text-muted">{{ site.data.sitetext[site.locale].timeline.end.desc | markdownify }}</div>
+                <div class="text-muted" style="text-align: justify;">{{ site.data.sitetext[site.locale].timeline.end.desc | markdownify }}</div>
               </div>
             </div>
           </li>
@@ -105,7 +105,8 @@
               <h4 class="subheading">{{ event.title }}</h4>
             </div>
             <div class="timeline-body">
-              <div class="text-muted">{{ event.desc | markdownify }}</div>
+              <div class="text-muted" style="text-align: justify;">{{ event.desc | markdownify }}</div>
+            </div>            
             </div>
           </div>
           </li>
@@ -122,7 +123,7 @@
                 <h4 class="subheading">{{ site.data.sitetext.timeline.end.title }}</h4>
               </div>
               <div class="timeline-body">
-                <div class="text-muted">{{ site.data.sitetext.timeline.end.desc | markdownify }}</div>
+                <div class="text-muted" style="text-align: justify;">{{ site.data.sitetext.timeline.end.desc | markdownify }}</div>
               </div>
             </div>
           </li>
