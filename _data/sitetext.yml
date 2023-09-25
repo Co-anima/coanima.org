@@ -141,7 +141,7 @@ fr: &DEFAULT_FR
     submit: "Envoyez"
 
   footer:
-    legal: "Mention légale"
+    mentions-legales: "Mentions légales"
     statuts: "Statuts"
     budget : "Budget"
     social:
