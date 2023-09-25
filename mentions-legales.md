@@ -27,7 +27,7 @@ Voici notre [site sur Github](https://github.com/Co-anima/coanima.org), le nom d
 ### Responsable de Publication
 Le site a été créé par Louna, (à partir du [thème Jekyll](https://github.com/raviriley/agency-jekyll-theme)) qui est encore novice en webdesign et développement. Si vous avez des [suggestions d'amélioration](https://github.com/orgs/Co-anima/projects/1/), n'hésitez pas à lui faire part de vos idées.
 
-### Open Source
+### Propriété intelectuelle
 Notre site est en open source, ce qui signifie que vous pouvez piocher, ou vous voulez (sauf les photos de nos têtes), mais respectez nous quand même. 😉
 
 ### Cookies
