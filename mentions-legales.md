@@ -29,6 +29,7 @@ Le site a été créé par Louna, (à partir du [thème Jekyll](https://github.c
 
 ### Propriété intelectuelle
 Notre site est en open source, ce qui signifie que vous pouvez piocher, ou vous voulez (sauf les photos de nos têtes), mais respectez nous quand même. 😉
+Merci à Canva pour les photos.
 
 ### Cookies
 Nous ne sommes pas certains qu'il y ait des cookies sur notre site, mais si oui, nous sommes désolés. Ce qui est sûr, c'est qu'on a aucune idée de comment les utiliser, d'habitude on les mange c'est tout. 🍪
