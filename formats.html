@@ -35,6 +35,41 @@ title: formats
   }
   td {
     text-align: center;
+  }
+  td.left {
+    text-align: left;
+  }
+  ul {
+    text-align: left;
+  }
+  /* Colonne "Vous avez besoin de :" */
+th:nth-child(1),
+td:nth-child(1) {
+    width: 5%; /* Largeur de la première colonne (par exemple, 20%) */
+}
+
+/* Colonne "Sensibiliser" */
+th:nth-child(2),
+td:nth-child(2) {
+    width: 15%; /* Largeur de la deuxième colonne (par exemple, 20%) */
+}
+
+/* Colonne "Approfondir" */
+th:nth-child(3),
+td:nth-child(3) {
+    width: 20%; /* Largeur de la troisième colonne (par exemple, 20%) */
+}
+
+/* Colonne "Libérer la parole" */
+th:nth-child(4),
+td:nth-child(4) {
+    width: 15%; /* Largeur de la quatrième colonne (par exemple, 20%) */
+}
+
+/* Colonne "Monter en compétences" */
+th:nth-child(5),
+td:nth-child(5) {
+    width: 17%; /* Largeur de la cinquième colonne (par exemple, 20%) */
 }
 
 </style>
@@ -43,11 +78,11 @@ title: formats
   <table>
     <thead>
       <tr>
-        <td><strong>Vous avez besoin de :</strong></td>
-        <td><strong>Sensibiliser</strong></td>
+        <td><strong>Vous avez besoin d':</strong></td>
+        <td><strong>Aborder</strong></td>
         <td><strong>Approfondir</strong></td>
-        <td><strong>Libérer la parole</strong></td>
-        <td><strong>Monter en compétences</strong></td>
+        <td><strong>Accompagner</strong></td>
+        <td><strong>Apprendre</strong></td>
       </tr>
       <tr>
         <th>Les formats</th>
@@ -59,25 +94,10 @@ title: formats
     </thead>
     <tbody>
       <tr>
-        <td><strong>Allégorie</strong></td>
-        <td class="left" >C'est semer la curiosité et l'intérêt en plantant une graine dans la conscience des participant·es.</td>
-        <td class="left">C'est l'analyse de la terre, le semage, le tuteur puis l'arrosage</td>
-        <td class="left">Ce sont des arrosages réguliers et délicats qui favorisent la croissance de la parole, un processus de libération de soi et du respect des autres.</td>
-        <td class="left">C'est l'apprentissage pour devenir un jardinier expérimenté.</td>
-      </tr>
-      <tr>
-        <td><strong></strong></td>
-        <td><img src="assets/img/formats/pal.png" alt="Image Pal"></td>
-        <td><img src="assets/img/formats/3a.png" alt="Image 3 A"></td>
-        <td><img src="assets/img/formats/cp.png" alt="Image cercle de parole"></td>
-        <td><img src="assets/img/formats/formation.png" alt="Image formation"></td>
-      </tr>
-   
-      <tr>
         <td><strong>Description</strong></td>
         <td>
           <ul>
-            À travers des activités ludiques, une première approche du sujet.
+            Atelier de 3h
             <li>Présentation des objectifs et du cadre,</li>
             <li>La mise en place d’un outil pédagogique immersif,</li>
             <li>Un temps de débat entre participant·es,</li>
@@ -88,13 +108,13 @@ title: formats
           <ul>
             <li>Auto-diagnostique : une réflexion sur les problématiques préssenties (formulaire).</li>
             <li>Atelier de 3h : Ludique pour fournir des connaissances et/ou compétences</li>
-            <li>Approfondissement de 3h : Session pour une exploration plus approfondie, incluant jeux ou discussions en cercle, visant un retour sur le post-atelier et une meilleure compréhension du sujet.</li>
+            <li>Approfondissement de 3h : Session approfondie, visant un retour sur le post-atelier et une meilleure compréhension du sujet.</li>
             <li>Bilan : détaillé avec des recommandations basées sur les observations du groupe.</li>
           </ul>
         </td>
         <td>
           <ul>
-            Série de 10 séances d'1h15
+            10 séances d'1h15:
             <li>Permet un espace sécurisé pour le partage d'expériences et le renforcement des relations interpersonnelles.</li>
             <li>En mixité, non-mixité, alternance des 2.</li>
             <li>Sur divers thèmes à choisir ensemble.</li>
@@ -103,7 +123,7 @@ title: formats
         </td>
         <td>
           <ul>
-            <li>Formation de 2 x 6 heures :</li>
+            Formation de 2x6 heures:
             <li>Auto-évaluation avant/après pour mesurer les acquis.</li>
             <li>Apport de connaissances et de compétences</li>
             <li>Alternance entre apports théoriques et expériences pédagogiques.</li>
@@ -112,11 +132,26 @@ title: formats
         </td>
       </tr>
       <tr>
+        <td><strong></strong></td>
+        <td><img src="assets/img/formats/pal.png" alt="Image Pal"></td>
+        <td><img src="assets/img/formats/3a.png" alt="Image 3 A"></td>
+        <td><img src="assets/img/formats/cp.png" alt="Image cercle de parole"></td>
+        <td><img src="assets/img/formats/formation.png" alt="Image formation"></td>
+      </tr>
+      <tr>
+        <td><strong>Allégorie</strong></td>
+        <td class="left" >C'est semer la curiosité et l'intérêt en plantant une graine dans la conscience des participant·es.</td>
+        <td class="left">C'est l'analyse de la terre, le semage, le tuteur puis l'arrosage</td>
+        <td class="left">Ce sont des arrosages réguliers et délicats qui favorisent la croissance de la parole, un processus de libération de soi et du respect des autres.</td>
+        <td class="left">C'est l'apprentissage pour devenir un jardinier expérimenté.</td>
+      </tr>
+      
+      <tr>
         <td><strong>Prix</strong></td>
         <td>390€ les 3h</td>
         <td>1440€ les 12h30</td>
         <td>690€ les 6h</td>
-        <td>1800€ les 12h <a href="/#contact">contacter nous pour +</a></td></td>
+        <td>1800€ les 12h </br> <a href="/#contact">contacter nous pour +</a></td></td>
       </tr>
       <tr>
         <td><strong>Lieux</strong></td>
