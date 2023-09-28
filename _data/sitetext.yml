@@ -77,8 +77,6 @@ fr: &DEFAULT_FR
         desc: "Enfin libre, ces expériences nous ont amenés à imaginer la structure idéale, cette utopie nous en avons fait une réalité : elle s’appelle COANIMA."
         image: assets/img/logo.jpg
         alt: image alt text
-        # you can enforce the alignment
-        align: 
 
   clients:
     section: clients
