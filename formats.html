@@ -78,7 +78,14 @@ td:nth-child(5) {
     th, td {
       white-space: nowrap; /* Empêchez le texte de se retourner sur une nouvelle ligne */
     }
+  th:first-child, td:first-child {
+      position: sticky;
+      left: 0;
+      background-color: #f2f2f2; /* Pour éviter que le texte ne se mélange avec l'arrière-plan */
+      max-width: 100px; /* Ajustez la largeur maximale selon vos besoins */
+    }
   }
+  
 
 </style>
 </head>
@@ -88,7 +95,7 @@ Nous intervenons toujours en binôme et nous adaptons au plus possible aux atten
   <table>
     <thead>
       <tr>
-        <td><strong>Vous avez besoin d':</strong></td>
+        <td><strong>Vous avez <br> besoin d':</strong></td>
         <td><strong>Aborder <br> un sujet</strong></td>
         <td><strong>Approfondir <br> un sujet</strong></td>
         <td><strong>Accompagner <br> un groupe</strong></td>
