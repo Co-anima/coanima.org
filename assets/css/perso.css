@@ -1,182 +1,211 @@
 /* styles.css */
 
-/* Définition de la couleur de fond pour la barre de navigation */
-.navbar {
-  background-color: #3c736d;
-}
 
+/* Définition de la couleur de fond pour la barre de navigation */
+
+#mainNav.navbar-shrink {
+    background-color: #3c736d;
+}
 
 .header-btn {
-  position: relative;
-  top: -75px; /* Ajustez la valeur selon vos besoins pour remonter le bouton */
-  font-size: 12px; /* Ajustez la taille de la police selon vos besoins */
+    position: relative;
+    top: -75px;
+    /* Ajustez la valeur selon vos besoins pour remonter le bouton */
+    font-size: 12px;
+    /* Ajustez la taille de la police selon vos besoins */
 }
 
-
 .title-container {
-  text-align: center; /* Centre le texte horizontalement */
-  color: gray; /* Définit la couleur du texte en gris */
+    text-align: center;
+    /* Centre le texte horizontalement */
+    color: gray;
+    /* Définit la couleur du texte en gris */
 }
 
 .custom-title {
-  line-height: 1.5; /* Ajuste la hauteur de ligne pour centrer verticalement */
+    line-height: 1.5;
+    /* Ajuste la hauteur de ligne pour centrer verticalement */
 }
 
 .closer-link {
-  margin-top: -50px; /* Vous pouvez ajuster la valeur en fonction de la distance souhaitée */
+    margin-top: -50px;
+    /* Vous pouvez ajuster la valeur en fonction de la distance souhaitée */
 }
 
 
 /* Styles spécifiques au bouton du formulaire de contact */
+
 .contact-btn {
-  /* Ajoutez vos styles spécifiques ici */
-  /* Par exemple, si vous souhaitez annuler la modification précédente, vous pouvez réinitialiser la position à la valeur par défaut */
-  position: static;
-  top: auto; /* Supprimez la valeur top précédemment définie */
+    /* Ajoutez vos styles spécifiques ici */
+    /* Par exemple, si vous souhaitez annuler la modification précédente, vous pouvez réinitialiser la position à la valeur par défaut */
+    position: static;
+    top: auto;
+    /* Supprimez la valeur top précédemment définie */
 }
 
 
 /* Styles spécifiques au bouton du formulaire de contact */
+
 .team-btn {
-  /* Ajoutez vos styles spécifiques ici */
-  /* Par exemple, si vous souhaitez annuler la modification précédente, vous pouvez réinitialiser la position à la valeur par défaut */
-  position: relative;
-  top: 50px; /* Supprimez la valeur top précédemment définie */
+    /* Ajoutez vos styles spécifiques ici */
+    /* Par exemple, si vous souhaitez annuler la modification précédente, vous pouvez réinitialiser la position à la valeur par défaut */
+    position: relative;
+    top: 50px;
+    /* Supprimez la valeur top précédemment définie */
 }
-
-
 
 .timeline-body {
     text-align: left;
-  }
-  
-  .timeline-body p {
-    margin-top: 10px; /* Réglage de la marge pour espacer légèrement le texte de l'image */
-  }
+}
 
-  /* Portofolio */
+.timeline-body p {
+    margin-top: 10px;
+    /* Réglage de la marge pour espacer légèrement le texte de l'image */
+}
+
+
+/* Portofolio */
+
 ul.left-align {
     text-align: left !important;
 }
 
+
 /* Styles pour la section "Nous" */
+
 .nous-section {
-    background-color: grey; /* Vous pouvez personnaliser la couleur de fond ici */
+    background-color: grey;
+    /* Vous pouvez personnaliser la couleur de fond ici */
     /* Autres styles spécifiques à cette section */
-  }
-  
-  /* Styles pour les titres de la section "Nous" */
-  .nous-section h2 {
-    font-size: 24px; /* Personnalisez la taille de la police du titre */
-    /* Autres styles de titre */
-  }
-  
-  
-/* Styles pour la section "Nous" */
-.nous-section {
-  position: relative;
-  background-image: url('../img/nous_3.jpg');
-  background-size: contain; /* Ajuste la taille de l'image pour qu'elle tienne entièrement dans la section tout en maintenant son aspect ratio */
-  background-position: center;
-  height: 500px;
-  text-align: center;
-  color: transparent;
-  padding: 100px 0;
 }
 
 
+/* Styles pour les titres de la section "Nous" */
+
+.nous-section h2 {
+    font-size: 24px;
+    /* Personnalisez la taille de la police du titre */
+    /* Autres styles de titre */
+}
+
+
+/* Styles pour la section "Nous" */
+
+.nous-section {
+    position: relative;
+    background-image: url('../img/nous_3.jpg');
+    background-size: contain;
+    /* Ajuste la taille de l'image pour qu'elle tienne entièrement dans la section tout en maintenant son aspect ratio */
+    background-position: center;
+    height: 500px;
+    text-align: center;
+    color: transparent;
+    padding: 100px 0;
+}
 
 .nous-section::before {
-  content: "COANIMA,";
-  position: center;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-family: "Montserrat"; /* Utilise la police "autography" */
-  color: white;
-  font-size: 60px;
-  border-radius: 5px;
+    content: "COANIMA,";
+    position: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Montserrat";
+    /* Utilise la police "autography" */
+    color: white;
+    font-size: 60px;
+    border-radius: 5px;
 }
 
 .nous-section::after {
-  content: "c'est nous";
-  position: center ;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, 50%); /* Pour déplacer le texte vers le bas */
-  color: rgb(255, 255, 255);
-  font-family: "Droid Serif"; 
-  font-style : italic;
-  color: white;
-  font-size: 60px;
-  border-radius: 5px;
-  }
+    content: "c'est nous";
+    position: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    /* Pour déplacer le texte vers le bas */
+    color: rgb(255, 255, 255);
+    font-family: "Droid Serif";
+    font-style: italic;
+    color: white;
+    font-size: 60px;
+    border-radius: 5px;
+}
 
 
-  
-  /* Styles pour le titre de l'en-tête */
-  .page-header h2 {
-    font-size: 36px; /* Personnalisez la taille de la police du titre */
+/* Styles pour le titre de l'en-tête */
+
+.page-header h2 {
+    font-size: 36px;
+    /* Personnalisez la taille de la police du titre */
     /* Autres styles de titre */
-  }
+}
 
-  /* Styles par défaut pour les éléments flex */
+
+/* Styles par défaut pour les éléments flex */
+
 .flex-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
-  text-align: justify;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    text-align: justify;
 }
 
 .flex-item {
-  flex: 1;
-  margin: 0 20px;
+    flex: 1;
+    margin: 0 20px;
 }
+
 .centered-image {
-  display: block;
-  margin: 0 auto;
-  max-width: 50%;
-  height: auto;
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+    height: auto;
 }
 
 
 /* Styles spécifiques pour les écrans de petite taille (par exemple, téléphone) */
+
 @media (max-width: 767px) {
-  .flex-item {
-    flex: 1 0 100%; /* Les éléments occupent toute la largeur */
-    margin: 0; /* Aucune marge horizontale */
-  }
+    .flex-item {
+        flex: 1 0 100%;
+        /* Les éléments occupent toute la largeur */
+        margin: 0;
+        /* Aucune marge horizontale */
+    }
 }
 
-
-  @media (min-width: 768px) {
+@media (min-width: 768px) {
     header.masthead {
         .intro-text {
             padding-top: 100px;
             padding-bottom: 300px;
         }
     }
-} 
-
-@media (max-width: 768px) {
-  .navbar-brand img {
-    height: 50px; /* Ajustez la taille du logo pour les petits écrans */
-  }
-}
-/* Styles spécifiques pour les boutons sur les appareils mobiles */
-@media (max-width: 768px) {
-  .header-btn {
-      margin-top: 165px; /* Ajustez la valeur selon vos besoins pour déplacer le bouton vers le bas sur mobile */
 }
 
-/* Styles spécifiques pour le titre sur les appareils mobiles */
 @media (max-width: 768px) {
-  .title-contact {
-      font-size: 20px !important; /* Ajustez la taille de la police selon vos besoins pour les appareils mobiles */
-      margin-top: -70px !important; /* Ajustez la marge supérieure pour déplacer le texte vers le haut */
+    .navbar-brand img {
+        height: 50px;
+        /* Ajustez la taille du logo pour les petits écrans */
     }
-}}
+}
 
 
+/* Styles spécifiques pour les boutons sur les appareils mobiles */
 
+@media (max-width: 768px) {
+    .header-btn {
+        margin-top: 165px;
+        /* Ajustez la valeur selon vos besoins pour déplacer le bouton vers le bas sur mobile */
+    }
+    /* Styles spécifiques pour le titre sur les appareils mobiles */
+    @media (max-width: 768px) {
+        .title-contact {
+            font-size: 20px !important;
+            /* Ajustez la taille de la police selon vos besoins pour les appareils mobiles */
+            margin-top: -70px !important;
+            /* Ajustez la marge supérieure pour déplacer le texte vers le haut */
+        }
+    }
+}
