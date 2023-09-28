@@ -10,10 +10,6 @@ background: grey
     color: #49A695;
   }
 
-  p {
-    text-align: justify;
-  }
-
   /* Styles pour la section "Nous" */
   .nous-section {
       background-color: grey;
@@ -64,6 +60,10 @@ background: grey
   .equipe {
     margin: 1.5em 0;
     text-align: center;
+  }
+
+  .description {
+    text-align: justify;
   }
 
   .photo-equipe {
