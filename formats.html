@@ -69,10 +69,22 @@ td:nth-child(5) {
     width: 17%; /* Largeur de la cinquième colonne (par exemple, 20%) */
 }
 
+  @media screen and (max-width: 600px) {
+    .table-container {
+      width: auto; /* Réglez la largeur de la table sur auto pour qu'elle soit responsive */
+      overflow-x: auto; /* Ajoutez une barre de défilement horizontale si nécessaire */
+    }
+
+    th, td {
+      white-space: nowrap; /* Empêchez le texte de se retourner sur une nouvelle ligne */
+    }
+  }
+
 </style>
 </head>
 <body>
-Nous intervenons toujours en binôme et nous adaptons au plus possible aux attentes et aux besoins.				
+Nous intervenons toujours en binôme et nous adaptons au plus possible aux attentes et aux besoins.
+<div class="table-container" style="width: 100%; overflow-x: auto;">
   <table>
     <thead>
       <tr>
@@ -144,6 +156,7 @@ Nous intervenons toujours en binôme et nous adaptons au plus possible aux atten
         <td>Occitanie, PACA <a href="/#contact">ou à discuter...</a></td>
       </tr>
     </tbody>
-  </table>  
+  </table> 
+</div> 
 </body>
 </html>
