@@ -88,6 +88,12 @@ background: grey
 
 <br> <!-- Ajoute un saut de ligne -->
 
+
+###### <center>Ce que j’apporte au collectif </center>
+<center>La gestion du site et des données, la comptabilité, les notions agile/lean.</center>
+
+<br> <!-- Ajoute un saut de ligne -->
+
 ##### <center>Mes forces</center>
 
 <div style="text-align: center;">
@@ -106,11 +112,6 @@ background: grey
     Inventive
   </div>
 </div>
-
-<br> <!-- Ajoute un saut de ligne -->
-
-###### <center>Ce que j’apporte au collectif </center>
-<center>La gestion du site et des données, la comptabilité, les notions agile/lean.</center>
 
 <br> <!-- Ajoute un saut de ligne -->
 <br> <!-- Ajoute un saut de ligne -->
@@ -149,6 +150,13 @@ background: grey
 }
 </style>
 
+<br> <!-- Ajoute un saut de ligne -->
+
+###### <center>Ce que j’apporte au collectif:</center> 
+<center>
+Un réseau partenarial fort, la communication visuelle, la programmation annuelle et la démarche qualité.</center>
+
+
 
 <br> <!-- Ajoute un saut de ligne -->
 
@@ -169,14 +177,6 @@ background: grey
     Adaptabilité
   </div>
 </div>
-
-<br> <!-- Ajoute un saut de ligne -->
-
-###### <center>Ce que j’apporte au collectif:</center> 
-<center>
-Un réseau partenarial fort, la communication visuelle, la programmation annuelle et la démarche qualité.</center>
-
-
 
 <br> <!-- Ajoute un saut de ligne -->
 <br> <!-- Ajoute un saut de ligne -->
@@ -215,7 +215,11 @@ Un réseau partenarial fort, la communication visuelle, la programmation annuell
   }
 }
 </style>
+<br> <!-- Ajoute un saut de ligne -->
 
+###### <center>Ce que j’apporte au collectif</center> 
+
+<center>Toutes les veilles (scientifiques, pédagogiques, politiques, réglementaires…) et l’écriture des dossiers de subvention.</center>
 
 <br> <!-- Ajoute un saut de ligne -->
 
@@ -240,9 +244,3 @@ Un réseau partenarial fort, la communication visuelle, la programmation annuell
 
 <br> <!-- Ajoute un saut de ligne -->
 
-###### <center>Ce que j’apporte au collectif</center> 
-
-<center>Toutes les veilles (scientifiques, pédagogiques, politiques, réglementaires…) et l’écriture des dossiers de subvention.</center>
-
-<br> <!-- Ajoute un saut de ligne -->
-<br> <!-- Ajoute un saut de ligne -->
