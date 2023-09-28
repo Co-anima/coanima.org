@@ -73,12 +73,6 @@ ul.left-align {
 
 /* Styles pour la section "Nous" */
 
-.nous-section {
-    background-color: grey;
-    /* Vous pouvez personnaliser la couleur de fond ici */
-    /* Autres styles spécifiques à cette section */
-}
-
 
 /* Styles pour les titres de la section "Nous" */
 
@@ -86,49 +80,6 @@ ul.left-align {
     font-size: 24px;
     /* Personnalisez la taille de la police du titre */
     /* Autres styles de titre */
-}
-
-
-/* Styles pour la section "Nous" */
-
-.nous-section {
-    position: relative;
-    background-image: url('../img/nous_3.jpg');
-    background-size: contain;
-    /* Ajuste la taille de l'image pour qu'elle tienne entièrement dans la section tout en maintenant son aspect ratio */
-    background-position: center;
-    height: 500px;
-    text-align: center;
-    color: transparent;
-    padding: 100px 0;
-}
-
-.nous-section::before {
-    content: "COANIMA,";
-    position: center;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-family: "Montserrat";
-    /* Utilise la police "autography" */
-    color: white;
-    font-size: 60px;
-    border-radius: 5px;
-}
-
-.nous-section::after {
-    content: "c'est nous";
-    position: center;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, 50%);
-    /* Pour déplacer le texte vers le bas */
-    color: rgb(255, 255, 255);
-    font-family: "Droid Serif";
-    font-style: italic;
-    color: white;
-    font-size: 60px;
-    border-radius: 5px;
 }
 
 
