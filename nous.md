@@ -6,7 +6,7 @@ background: grey
 
 <style>
 
-  i {
+  .force-icon {
     color: #49A695;
   }
 
