@@ -112,6 +112,11 @@ background: grey
     .description {
       margin-top: 25px;
     }
+     .nous-section::before{
+      font-size:50px
+  }
+    .nous-section::after{
+      font-size:40px
   }
 
 </style>
@@ -135,7 +140,7 @@ background: grey
 <div class="container">
   <div class="flex-container">
     <div class="flex-item">
-      <h2><center>Nom</center></h2>
+      <h1><center>Nom</center></h1>
       <p>
         <strong>COANIMA</strong> c’est l’animation collective, coopérative et notre mode de fonctionnement collégial, tous ces mots en CO qui parlent de l’expérience commune, du partage, de l’enrichissement par le groupe. Et pourquoi animation ? de la racine <strong>anima</strong> qui donne la vie. On se fixe pour objectif dans toutes nos animations donner vie aux discussions, aux débats, aux idées, de créer de l’animation dans le cerveau, utiliser notre esprit critique, de bouger aussi et rendre mobile le corps trop souvent oublié dans l’apprentissage.
       </p>
@@ -145,7 +150,7 @@ background: grey
       <p class="text-center">Retrouvez nos statuts <a href="/statuts">ici</a></p>
     </div>
     <div class="flex-item">
-      <h2 class="text-center">Logo</h2>
+      <h1 class="text-center">Logo</h1>
       <p>
         Ce logo représente un grand C, tel les arcs de cercle de chaises qu’on met en place au début de nos interventions. Les lettres o et a suivent, comme les 3 premières lettres de COANIMA. Cela fait le son [kwa] - "quoi?" -, toutes ces questions que l'on pose et qu’on nous pose lors de nos ateliers. Ces deux lettres liées font comme une esperluette (&) couchée, logotype cher à notre cœur, représentant l’union, le lien, le fil continu. Dans esperluette, il y a ESPÈRE (l’espoir) et LUETTE (impliquée dans la voix et donc la communication).
       </p>

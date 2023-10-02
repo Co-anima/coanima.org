@@ -60,7 +60,7 @@ background: grey
   <div class="flex-container" style="display: flex; align-items: center;">
     <img src="assets/img/enquete.jpg" alt="horloge" class="photo-enquete" style="flex: 1; margin-right: 60px; max-width: 35%;">
     <div style="flex: 2;">
-      <h2 style="text-align: center;">Enquête <br>Dysto Pique</h2>
+      <h1 style="text-align: center;">Enquête <br>Dysto Pique</h1>
       <h3 class="section-subheading text-muted" style="text-align: center;">En construction</h3>
       <div class="center-icon">
         <i class="fas fa-person-digging large-icon"></i>
