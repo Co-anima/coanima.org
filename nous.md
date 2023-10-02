@@ -190,7 +190,7 @@ background: grey
 
 <h2>Manon</h2>
 
-  <img src="assets/img/team/photo-manon-500x500.jpeg" class="photo-equipe" alt="Manon" />
+  <img src="assets/img/team/photo-manon-500x500.jpg" class="photo-equipe" alt="Manon" />
 
 <!-- Informations de contact de Louna -->
 <div class="contact-info">

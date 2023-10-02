@@ -116,7 +116,7 @@ fr: &DEFAULT_FR
             icon: fab fa-linkedin-in
       - name: "Manon Melendez"
         role: "Coanimatrice"
-        image: assets/img/team/photo-manon-500x500.jpeg
+        image: assets/img/team/photo-manon-500x500.jpg
         social:
           - url: https://linkedin.com/in/manon-melendez-14a49b57/
             icon: fab fa-linkedin-in
