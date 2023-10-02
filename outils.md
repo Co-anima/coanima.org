@@ -37,11 +37,17 @@ background: grey
   }
   /* Ajuster la largeur de la photo pour les écrans plus petits */
   .photo-enquete {
-    width: 300vw; /* Force la largeur à 100% de la largeur de la vue */
-    max-width: none; /* Supprime toute restriction de largeur maximale */
-    margin-bottom: 20px;
+    display: none;
   }
-}
+  .text-enquete {
+    text-align: left; /* Aligner le texte à gauche */
+  }
+  }
+
+
+
+
+
 </style>
 </head>
 
@@ -49,7 +55,7 @@ background: grey
   <div class="flex-container" style="display: flex; align-items: center;">
     <img src="assets/img/enquete.jpg" alt="horloge" class="photo-enquete" style="flex: 1; margin-right: 60px; max-width: 35%;">
     <div style="flex: 2;">
-      <h2 style="text-align: center;">Enquête Dysto-Pique</h2>
+      <h2 style="text-align: center;">Enquête Dysto Pique</h2>
       <h3 class="section-subheading text-muted" style="text-align: center;">En construction</h3>
       <div class="center-icon">
         <i class="fas fa-person-digging large-icon"></i>
