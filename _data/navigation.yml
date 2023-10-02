@@ -11,12 +11,12 @@
 # ------
 fr: &DEFAULT_FR
   nav:
-    - title: "Vos formations & sensibilisations"
+    - title: "Nos valeurs"
+      section: valeurs
+    - title: "Formations & sensibilisations"
       section: portfolio
     - title: "Notre posture"
       section: posture
-    - title: "Nos valeurs"
-      section: valeurs
     - title: "Nous"
       section: nous
     - title: "Contact"
