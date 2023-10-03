@@ -48,12 +48,12 @@ Il peut être transféré par simple décision du Conseil d'Animation.
 <h2>ARTICLE 4 : ACTIONS</h2>
 
 Les champs d’actions, commerciales ou non, envisagées sont (liste non exhaustive) :
-- Actions de formations et d’animations, à destination de tous publics (sans distinctions ni discriminations) dans tous les espaces,
-- Création de ressources matérielles et dématérialisées de type : outils, kit, boîte d’animation, jeux, podcast, brochures...
-- Laboratoire et incubateur d’idées,
-- Séjours pédagogiques,
-- Évènements : festivals, actions de rue, stands...
-Ainsi que toutes autres actions à impact social positif qui sont en adéquation avec les valeurs de l’association. L’association s’engage à garder une conscience et une vigilance quant à l'impact environnemental de son fonctionnement.
+<br><li>Actions de formations et d’animations, à destination de tous publics (sans distinctions ni discriminations) dans tous les espaces,</li>
+<li>Création de ressources matérielles et dématérialisées de type : outils, kit, boîte d’animation, jeux, podcast, brochures...</li>
+<li>Laboratoire et incubateur d’idées,</li>
+<li>Séjours pédagogiques,</li>
+<li>Évènements : festivals, actions de rue, stands...</li>
+<br>Ainsi que toutes autres actions à impact social positif qui sont en adéquation avec les valeurs de l’association. L’association s’engage à garder une conscience et une vigilance quant à l'impact environnemental de son fonctionnement.
 </div>
 <div class="justified-text">
 <h2>ARTICLE 5 - COMPOSITION</h2>
