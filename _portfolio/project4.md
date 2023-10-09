@@ -21,5 +21,7 @@ caption:
 [- **Les 3 A :**](/formats) Auto-diagnostic, Atelier et Approfondissement pour plus d’impact.<br/>
 [- **Formation de 2 jours pour les professionnel·les :**](/formats) comprendre, être outillé·e et transmettre.
 
+[L'outil qui peut être envisagé :](/outils)<br/>
+[- **Enquête:**](/outils) Ce jeu d’enquête met en lumière un cas de harcèlement basé sur des scénarios de la vie scolaire. Les élèves démêlent les fils en naviguant à travers la subjectivité des points de vue des protagonistes, ils résolvent des énigmes sociales et s'entraînent à l’auto-défense verbale.<br/>
 
 <a class="nav-link js-scroll-trigger active" href="index.html#contact">Contactez-nous pour composer votre intervention/formation idéale.</a>
