@@ -219,6 +219,7 @@ background: grey
 
   <div class="force-icon">
     <i class="fa-regular fa-comments fa-3x"></i>
+    <span>Communication</span>
   </div>
 
   <div class="force-icon">
