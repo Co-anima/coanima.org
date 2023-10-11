@@ -11,6 +11,7 @@
           <a href="{{ client.url }}">
             <img class="img-fluid d-block mx-auto" src="{{ client.logo }}" alt="{{ client.title }}" style="max-height: 100px" {{ site.data.sitetext[site.locale].clients.max-height | default: "100px" }}">
           </a>
+          <p style="text-align: center; font-size: 14px; color: grey;">{{ client.role }}</p> 
         </div>
         {% endfor %}
       </div>
@@ -25,6 +26,7 @@
         <a href="{{ client.url }}">
           <img class="img-fluid d-block mx-auto" src="{{ client.logo }}" alt="{{ client.title }}" style="max-height: 100px" {{ site.data.sitetext.clients.max-height | default: "100px" }}">
         </a>
+        <p style="text-align: center; font-size: 14px; color: grey;">{{ client.role }}</p> 
       </div>
     {% endfor %}
     </div>

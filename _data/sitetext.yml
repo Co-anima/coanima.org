@@ -85,10 +85,12 @@ fr: &DEFAULT_FR
     list:
       - title: "Âme graphiste"
         url: https://ame-graphiste.fr/
-        logo: assets/img/clients/ame-graphiste.jpg
+        logo: assets/img/clients/ame-graphiste.png
+        role: conception logo
       - title: "THAÏS"
         url: https://thais-pms.com/
-        logo: assets/img/clients/thais-pms.png 
+        logo: assets/img/clients/thais.png 
+        role: prêt des locaux
       - title: ""
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: 
