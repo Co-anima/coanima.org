@@ -5,7 +5,7 @@ image: assets/img/portfolio/02-thumbnail.jpg
 alt: Keep Exploring
 
 caption:
-  title: Sexisme & Genre
+  title: Sexisme & <br> Genre
   subtitle: S'épanouir ensemble
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
