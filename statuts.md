@@ -62,14 +62,13 @@ Les champs d’actions, commerciales ou non, envisagées sont (liste non exhaust
 
 <p style="text-align: justify;"><h5>a) Membres de la direction collégiale</h5></p>
 
-<p style="text-align: justify;">3 fondateurices de l’association et garant·es de la finalité et des objectifs de l’association :</p>
-<p style="text-align: justify;">- Louna Langlois</p>
-<p style="text-align: justify;">- Manon Melendez</p>
-<p style="text-align: justify;">- Audric Vilatte</p>
+<p style="text-align: justify;">Les membres de la direction collégiale de l’association sont les garant·e·s de la finalité et des objectifs de l’association</p>
 
-<p style="text-align: justify;">Ils et elles ont donc une voix délibérative.</p>
+<p style="text-align: justify;"><h5>b) Adhérent·e·s</h5></p>
 
-<p style="text-align: justify;"><h5>b) Bienfaiteur·rice·s</h5></p>
+<p style="text-align: justify;">Toute personne physique qui veut adhérer à l’association</p>
+
+<p style="text-align: justify;"><h5>c) Bienfaiteur·rice·s</h5></p>
 
 <p style="text-align: justify;">Toute personne physique ou morale qui souhaite offrir des ressources matérielles, temporelles, et /ou financières.</p>
 
@@ -127,9 +126,12 @@ Les champs d’actions, commerciales ou non, envisagées sont (liste non exhaust
 
 <p style="text-align: justify;">BUT : Le CA permet de prendre les décisions sur la gestion et le fonctionnement de l’association. Il tente de se réunir au moins une fois par mois, en présentiel ou en distanciel.</p>
 
-<p style="text-align: justify;">COMPOSITION : Le CA est composé des membres de la direction collégiale, il se réserve le droit d’inviter des bienfaiteur·euse·s, ou des volontaires. Les membres de la direction collégiale peuvent aussi être salarié·e·s de l’association. Les réunions du CA se font sur du temps bénévole.</p>
+<p style="text-align: justify;">COMPOSITION :  Le CA est composé des membres de la direction collégiale, il se réserve le droit d’inviter des bienfaiteur·trice·s, ou des volontaires.
+Les membres de la direction collégiale peuvent aussi être salarié·e·s de l’association.
+Les réunions du CA se font sur du temps bénévole.</p>
 
-<p style="text-align: justify;">PRISE DE DÉCISION : Seul·e·s les 3 membres de la direction collégiale y ont une voix délibérative, les invité·e·s y ont une voix consultative. Les décisions sont prises au consensus des voix. Les salarié·e·s sont subordonné·e·s au CA. Les décisions liées au statut de salarié·e sont prises par la direction collégiale, sans la présence dudit salarié·e·s.</p>
+<p style="text-align: justify;">PRISE DE DÉCISION : Seul·e·s les membres de la direction collégiale y ont une voix délibérative, les invité·e·sy ont une voix consultative. Les décisions sont prises au consensus des voix. Les salarié·e·s sont
+subordonné·e·s au CA. Les décisions liées au statut de salarié·e sont prises par la direction collégiale, sans la présence dudit salarié·e·s. Les salarié·e·s sont subordonné·e·s au CA. Les décisions liées au statut de salarié·e sont prises par la direction collégiale, sans la présence dudit salarié·e·s.</p>
 
 <p style="text-align: justify;">POUVOIR : Dans les rapports avec les tiers, chaque membre de la direction collégiale est investi des pouvoirs les plus étendus pour agir en toutes circonstances au nom de l’association.</p>
 </div>
@@ -137,8 +139,9 @@ Les champs d’actions, commerciales ou non, envisagées sont (liste non exhaust
 <div class="justified-text">
 <h2>ARTICLE 13 - ASSEMBLEE GENERALE ORDINAIRE</h2>
 
-<p style="text-align: justify;">COMPOSITION : L'assemblée générale ordinaire a lieu au moins une fois par an ; elle comprend les membres de la direction collégiale disponibles qui se réservent le droit d’inviter des bienfaiteur·euse·s, ou volontaires qui y ont une voix consultative.</p>
-<p style="text-align: justify;">Quinze jours au moins avant la date fixée, les membres de l'association sont invité·e·s par les soins du CA. L'ordre du jour figure sur les mails d’invitations.</p>
+<p style="text-align: justify;">COMPOSITION : L'assemblée générale ordinaire a lieu au moins une fois par an ; elle comprend les membres de la direction collégiale disponibles qui se réservent le droit d’inviter les adhérent·e·s, des
+bienfaiteur·trice·s, ou des volontaires qui y ont une voix consultative.</p>
+<p style="text-align: justify;">Quinze jours au moins avant la date fixée, les membres de l'association sont invité·e·s par les soins du CA. L'ordre du jour figure sur les mails d’invitations. Les adhérent·e·s de l’association présent·e·s à lors de l’AG élisent les membres de la direction collégiale qui constituent le CA.</p>
 
 <p style="text-align: justify;">BUT : Les membres du CA exposent la situation morale ou l’activité de l'association, rendent compte de sa gestion et soumettent les comptes annuels (bilan, compte de résultat et annexe) à la connaissance de l'assemblée. Elle peut être le moment de faire évoluer les statuts, de prononcer la dissolution de l’association.</p>
 
@@ -162,5 +165,5 @@ Les champs d’actions, commerciales ou non, envisagées sont (liste non exhaust
 
 <p style="text-align: justify;">En cas de dissolution prononcée selon les modalités prévues à l’article 13, un ou plusieurs liquidateurs sont nommés, et l'actif net, s'il y a lieu, est dévolu à un organisme ayant un but non lucratif conformément aux décisions de l’assemblée générale ordinaire qui statue sur la dissolution. L’actif net ne peut être dévolu à un membre de l’association, même partiellement, sauf reprise d’un apport.</p>
 
-<p style="text-align: justify;"><em>Fait à Montpellier, le 3 juillet 2023</em></p>
+<p style="text-align: justify;"><em>Modifié à Castelnau-le-lez, le 13 octobre 2023</em></p>
 </div>
