@@ -68,7 +68,7 @@ Les champs d’actions, commerciales ou non, envisagées sont (liste non exhaust
 
 <p style="text-align: justify;">Toute personne physique qui veut adhérer à l’association</p>
 
-<p style="text-align: justify;"><h5>c) Bienfaiteur·rice·s</h5></p>
+<p style="text-align: justify;"><h5>c) Bienfaiteur·trice·s</h5></p>
 
 <p style="text-align: justify;">Toute personne physique ou morale qui souhaite offrir des ressources matérielles, temporelles, et /ou financières.</p>
 
@@ -130,7 +130,7 @@ Les champs d’actions, commerciales ou non, envisagées sont (liste non exhaust
 Les membres de la direction collégiale peuvent aussi être salarié·e·s de l’association.
 Les réunions du CA se font sur du temps bénévole.</p>
 
-<p style="text-align: justify;">PRISE DE DÉCISION : Seul·e·s les membres de la direction collégiale y ont une voix délibérative, les invité·e·sy ont une voix consultative. Les décisions sont prises au consensus des voix. Les salarié·e·s sont
+<p style="text-align: justify;">PRISE DE DÉCISION : Seul·e·s les membres de la direction collégiale y ont une voix délibérative, les invité·e·s y ont une voix consultative. Les décisions sont prises au consensus des voix. Les salarié·e·s sont
 subordonné·e·s au CA. Les décisions liées au statut de salarié·e sont prises par la direction collégiale, sans la présence dudit salarié·e·s. Les salarié·e·s sont subordonné·e·s au CA. Les décisions liées au statut de salarié·e sont prises par la direction collégiale, sans la présence dudit salarié·e·s.</p>
 
 <p style="text-align: justify;">POUVOIR : Dans les rapports avec les tiers, chaque membre de la direction collégiale est investi des pouvoirs les plus étendus pour agir en toutes circonstances au nom de l’association.</p>
