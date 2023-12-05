@@ -11,6 +11,8 @@
 # ------
 fr: &DEFAULT_FR
   nav:
+    - title: "COA ?"
+      section: pitch
     - title: "Nos valeurs"
       section: valeurs
     - title: "Formations & sensibilisations"

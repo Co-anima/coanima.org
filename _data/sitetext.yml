@@ -16,6 +16,11 @@ fr: &DEFAULT_FR
     button: Dites m'en plus
     buttonlink: "#portfolio"
 
+  pitch: 
+    title: "COA"
+    text:
+    image:
+
   services:
     title: "Nos valeurs"
     text: "Notre travail et notre approche sont définis par quatre piliers fondamentaux : "
