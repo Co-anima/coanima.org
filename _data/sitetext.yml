@@ -83,8 +83,8 @@ fr: &DEFAULT_FR
         image: assets/img/logo.jpg
         alt: image alt text
 
-  clients:
-    section: clients
+  bienfaiteurs:
+    section: bienfaiteurs
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
@@ -102,6 +102,32 @@ fr: &DEFAULT_FR
       - title: ""
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: 
+
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "yes" #"yes/no"
+    list:
+      - title: "Ville de Montpellier"
+        url: https://www.montpellier.fr/3843-solidarite.htm
+        logo: assets/img/clients/villemtp.png
+        role: EAS école, lycée
+      - title: "Préfecture de l'Hérault"
+        url: https://thais-pms.com/
+        logo: assets/img/clients/prefet.png 
+        role: Agent.e de la préfecture
+      - title: "CAFOC"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/cafoc.png 
+        role: RPIF
+      - title: "CEMEA"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/cemea.png 
+        role: DEJEPS
+      - title: "AFEV"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/afev.png  
+        role: Service civique, kapseurs 
 
   team:
     title: "Nous"
