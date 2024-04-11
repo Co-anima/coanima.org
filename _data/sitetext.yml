@@ -106,7 +106,7 @@ fr: &DEFAULT_FR
   team:
     title: "Nous"
     text: "Réuni·e·s par des valeurs communes, collaborer a solidifié nos liens et créé une confiance mutuelle.</br> Nous croyons en notre trio empathique, enthousiaste et créatif, pour dépasser les normes du monde du travail et créer notre utopie."
-    subtext: Afin de se sentir au mieux dans notre association (loi 1901), nous avons choisi de former une **direction collégiale**. Nous sommes donc tous les 3 les **têtes pensantes**, les **preneur·euses de décision** ainsi que les **petites mains**. Nous gérons tout à 3, par la méthode du **consensus**.
+    subtext: Afin de se sentir au mieux dans notre association (loi 1901), nous sommes tous les 3 les **têtes pensantes**, les **preneur·euses de décision** ainsi que les **petites mains**. Nous gérons tout à 3, par la méthode du **consensus**.
     section: nous
     people:
       - name: "Louna Langlois"

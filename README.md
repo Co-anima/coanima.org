@@ -4,9 +4,9 @@
 
 1- ouvrir le dossier coanima.org dans vscodi
 2- ouvrir le terminal (dans le menu vscode)
-3- taper `bundle exec jekyll serve --livereload`
+3- taper ``
 4- le site est disponible sur firefox : http://127.0.0.1:4000
-
+bundle exec jekyll serve --livereload
 ## Coanima - Éducation Populaire & Lutte Contre les Discriminations
 
 **Note:** Notre site web est actuellement en cours de création et sera bientôt disponible avec plus d'informations. En attendant, voici un aperçu de ce que vous pouvez attendre de Coanima.
