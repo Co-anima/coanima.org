@@ -119,7 +119,7 @@ fr: &DEFAULT_FR
       - title: "Académie"
         url: https://www.ac-montpellier.fr/
         logo: assets/img/clients/académie.png 
-        role: EAS école
+        role: EAS école primaire
       - title: "CAFOC"
         url: https://maforpro-occitanie.fr/actualites/la-formation-rpif-du-cafoc
         logo: assets/img/clients/cafoc.png 
