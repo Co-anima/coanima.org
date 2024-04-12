@@ -113,9 +113,13 @@ fr: &DEFAULT_FR
         logo: assets/img/clients/villemtp.png
         role: EAS école, lycée
       - title: "Préfecture de l'Hérault"
-        url: https://thais-pms.com/
+        url: https://www.herault.gouv.fr/
         logo: assets/img/clients/prefet.png 
         role: Agent.e de la préfecture
+      - title: "Académie"
+        url: https://www.ac-montpellier.fr/
+        logo: assets/img/clients/académie.png 
+        role: EAS école
       - title: "CAFOC"
         url: https://maforpro-occitanie.fr/actualites/la-formation-rpif-du-cafoc
         logo: assets/img/clients/cafoc.png 
