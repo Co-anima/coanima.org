@@ -128,7 +128,7 @@ fr: &DEFAULT_FR
         url: https://afev.org/
         logo: assets/img/clients/afev.png  
         role: Service civique, kapseurs 
-        - title: "OVFF"
+      - title: "OVFF"
         url: https://www.ovff34.fr/
         logo: assets/img/clients/ovff.png  
         role: Réseaux violences filles 
