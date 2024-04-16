@@ -106,7 +106,7 @@ fr: &DEFAULT_FR
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "yes" #"yes/no"
+    horizontal-scrolling: "no" #"yes/no"
     list:
       - title: "Ville de Montpellier"
         url: https://www.montpellier.fr/3843-solidarite.htm
