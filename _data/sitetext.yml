@@ -11,7 +11,7 @@
 # -----------------
 fr: &DEFAULT_FR
   header:
-    title: Libérer les singularités
+    title: Libérez les singularités
     text: Coanima 
     button: Dites m'en plus
     buttonlink: "#portfolio"
@@ -91,11 +91,11 @@ fr: &DEFAULT_FR
       - title: "Âme graphiste"
         url: https://ame-graphiste.fr/
         logo: assets/img/clients/ame-graphiste.png
-        role: conception logo
+        role: Conception du logo
       - title: "THAÏS"
         url: https://thais-pms.com/
         logo: assets/img/clients/thais.png 
-        role: prêt des locaux
+        role: Prêt des locaux
       - title: ""
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: 
