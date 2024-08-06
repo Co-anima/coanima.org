@@ -113,8 +113,20 @@ ul.left-align {
     max-width: 50%;
     height: auto;
 }
+/* PORTFOLIO */
+/* Assurer que les images sont bien dimensionnées */
 
 
+  /* Style du caption pour centrer le texte et ajuster la taille */
+  .portfolio-caption {
+    padding: 15px;
+    height: 120px; /* Définir une hauteur fixe pour les captions */
+    flex-direction: column;
+    justify-content: center; /* Centrer verticalement le contenu */
+  }
+  
+
+  
 /* Styles spécifiques pour les écrans de petite taille (par exemple, téléphone) */
 
 @media (max-width: 767px) {
