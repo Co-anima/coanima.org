@@ -158,8 +158,7 @@ background: grey
   </div>
 </div>
 
-<h1 class="equipe">L'équipe de COANIMA</h1>
-<p class="text-center closer-link"><a href="/organigramme">Voir notre organirgamme</a></p>
+<div style="height: 75px;"></div>
 
 <h2>Louna</h2>
 
