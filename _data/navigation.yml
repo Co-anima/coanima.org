@@ -19,7 +19,7 @@ fr: &DEFAULT_FR
       section: portfolio
     - title: "Notre posture"
       section: posture
-    - title: "Nous"
+    - title: "L'équipe"
       section: nous
     - title: "Contact"
       section: contact
