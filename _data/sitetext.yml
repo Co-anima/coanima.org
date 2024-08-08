@@ -22,22 +22,23 @@ fr: &DEFAULT_FR
     image:
 
   services:
-    title: "Nos valeurs"
-    text: "Notre travail et notre approche sont définis par quatre piliers fondamentaux : "
+    title: "Nos valeurs et notre posture"
+    text: "Nos valeurs sont les piliers de nos pratiques, elles sont mise en oeuvre à travers nos postures : "
     section: valeurs
     list:
+      - title: "Agilité"
+        desc: "Nous avons une capacité d'**adaptabilité** et de **réactivité**, nous préférons toujours le **sur-mesure** dans la construction comme dans le face à face. "
+        icon: fas fa-shuffle
       - title: "Egalité"
-        desc: "Croire en une société où chacun a une place égale, qu'importe son origine, genre, orientation sexuelle etc. S’engager pour l’égalité à travers l’équité et la compréhension des privilèges. Lutter contre les inégalités."
-        icon: fas fa-users
+        desc: "Nous nous basons toujours sur **l'intelligence collective**, nous prenons en compte et **valorisons** chacun·e, nous ne hiérarchisons pas la connaissance de l’expérience."
+        icon: fas fa-users-between-lines
       - title: "Empathie"
-        desc: "Cultiver les capacités à s’écouter, se mettre à la place de l’autre et à communiquer ses émotions et ses besoins. Développer l’altruisme pour vivre en confiance, bientraitance et paix."
-        icon: fas fa-heart
+        desc: "Nous créons un **espace sécurisé et sécurisant**, notre posture et nos discours sont fondés sur la bienveillance, **ni à charge ni culpabilisant**, toujours par le **prisme des émotions et des besoins**."
+        icon: fa fa-heart
       - title: "Enthousiasme"
-        desc: "Semer l’espoir et notre motivation à se changer soi et le monde. Prendre du plaisir dans ce qu’on fait. Avoir l’ambition de nos utopies et insuffler cet élan à tous celle et ceux que nous rencontrons."
-        icon: fas fa-fire
-      - title: "Créativité"
-        desc: "Cultiver sa liberté, avoir l’audace d’explorer en redonnant la juste place à l’échec, celle de l’apprentissage. Avoir le courage de dépasser les normes et l'intelligence de l’esprit critique. "
-        icon: fas fa-palette
+        desc: "Notre **dynamisme** est notre force, il naît de notre **joie** d’apprendre et transmettre à chaque occasion."
+        icon: fas fa-battery-full
+      
 
   about:
     title: "Notre Posture"
