@@ -11,7 +11,7 @@
 # -----------------
 fr: &DEFAULT_FR
   header:
-    title: “Pour une culture heureuse du respect de soi et des autres”
+    title: Animer l'égalité
     text: Coanima 
     button: Dites m'en plus
     buttonlink: "#portfolio"
@@ -31,7 +31,7 @@ fr: &DEFAULT_FR
         icon: fas fa-shuffle
       - title: "Egalité"
         desc: "Nous nous basons toujours sur **l'intelligence collective**, nous prenons en compte et **valorisons** chacun·e, nous ne hiérarchisons pas la connaissance de l’expérience."
-        icon: fas fa-users-between-lines
+        icon: fas fa-scale-balanced
       - title: "Empathie"
         desc: "Nous créons un **espace sécurisé et sécurisant**, notre posture et nos discours sont fondés sur la bienveillance, **ni à charge ni culpabilisant**, toujours par le **prisme des émotions et des besoins**."
         icon: fa fa-heart
@@ -200,8 +200,8 @@ fr: &DEFAULT_FR
 
   team:
     title: "L'équipe"
-    text: ""
-    subtext: 
+    text: "Une équipe aux valeurs communes et aux compétences complémentaires. "
+    subtext: Nous coanimons, lors de nos ateliers, vous nous verrez toujours en binôme ! 
     section: nous
     people:
       - name: "Louna Langlois"
