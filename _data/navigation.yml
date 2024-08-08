@@ -15,7 +15,7 @@ fr: &DEFAULT_FR
       section: pitch
     - title: "Nos valeurs"
       section: valeurs
-    - title: "Ateliers & Formations"
+    - title: "Nos thèmes"
       section: portfolio
     - title: "Le chemin"
       section: chemin
