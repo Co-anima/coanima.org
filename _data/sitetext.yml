@@ -46,7 +46,7 @@ fr: &DEFAULT_FR
     section: posture
 
   portfolio:
-    title: "Formations & sensibilisations"
+    title: "Ateliers & Formations"
     text: "À destination des : **Espaces éducatifs et de loisirs**, dès 6 ans (établissements scolaires, ACM, maison pour tous, ITEP, MECS, AFPA, PJJ…) <br/> ainsi que les **professionnel·les**, **bénévoles** ou **volontaires** de l’associatif, du service public ou du privé. <br/> <br/> Sur **Montpellier**, **Hérault**, **Gard**, **Occitanie**, peut-être **PACA**, et même le **monde** qui sait ..."
     closebutton: "Les autres thèmes"
 

@@ -15,10 +15,12 @@ fr: &DEFAULT_FR
       section: pitch
     - title: "Nos valeurs"
       section: valeurs
-    - title: "Formations & sensibilisations"
+    - title: "Ateliers & Formations"
       section: portfolio
     - title: "Notre posture"
       section: posture
+    - title: "Le chemin"
+      section: chemin
     - title: "L'équipe"
       section: nous
     - title: "Contact"
