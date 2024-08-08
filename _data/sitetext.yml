@@ -11,7 +11,7 @@
 # -----------------
 fr: &DEFAULT_FR
   header:
-    title: Animer l'égalité
+    title: “Pour une culture heureuse du respect de soi et des autres”
     text: Coanima 
     button: Dites m'en plus
     buttonlink: "#portfolio"
