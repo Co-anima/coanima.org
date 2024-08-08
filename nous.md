@@ -119,6 +119,8 @@ background: grey
       font-size:40px
   }
 
+
+
 </style>
 
 <head>
@@ -159,6 +161,7 @@ background: grey
 </div>
 
 <div style="height: 75px;"></div>
+
 
 <h2>Louna</h2>
 
@@ -262,3 +265,5 @@ background: grey
     <span>Esprit Critique</span>
   </div>
 </div>
+
+{% include about.html %}

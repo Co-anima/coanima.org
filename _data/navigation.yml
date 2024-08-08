@@ -17,8 +17,6 @@ fr: &DEFAULT_FR
       section: valeurs
     - title: "Ateliers & Formations"
       section: portfolio
-    - title: "Notre posture"
-      section: posture
     - title: "Le chemin"
       section: chemin
     - title: "L'équipe"
