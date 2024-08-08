@@ -83,6 +83,39 @@ fr: &DEFAULT_FR
         image: assets/img/logo.jpg
         alt: image alt text
 
+  chemin:
+    title: "Notre histoire"
+    text: "Notre parcours associatif débute pour toustes par une mission de service civique au sein de la même structure de lutte contre les discriminations, <br/> mais à des époques différentes."
+    section: histoire
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Manon & Louna : <br> Une première rencontre"
+        year: "Septembre 2017"
+        desc: "Au détour d’un café, Manon propose à Louna de venir travailler avec elle. Elle la forme et, devenant responsable de service, lui propose son poste d’animatrice réseau."
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Audric & Louna : <br> Un jolie coup de main"
+        year: "Septembre 2020"
+        desc: "Lorsque Manon s’absente pour son congé parental, Louna propose à Audric de le former et de venir l'épauler dans cette structure."
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Manon, Louna & Audric : <br> On quitte le navire"
+        year: "Début 2022"
+        desc: "Fatigué·e·s de travailler pour une structure qui ne respecte pas nos valeurs, nous la quittons, priorisant notre bien-être."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Audric & Manon : <br> Une opportunité"
+        year: "En 2022"
+        desc: "Fâce à une belle opportunité Manon et Audric découvrent une nouvelle association, mais les difficultés de gestion les empêchent de s’y épanouir"
+        image: assets/img/timeline/4.jpg
+        alt: 
+      - title: "Coanima"
+        year: "2023"
+        desc: "Enfin libre, ces expériences nous ont amenés à imaginer la structure idéale, cette utopie nous en avons fait une réalité : elle s’appelle COANIMA."
+        image: assets/img/logo.jpg
+        alt: image alt text
+        
   bienfaiteurs:
     section: bienfaiteurs
     max-height: 100px
@@ -106,36 +139,63 @@ fr: &DEFAULT_FR
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "no" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "Ville de Montpellier"
         url: https://www.montpellier.fr/3843-solidarite.htm
         logo: assets/img/clients/villemtp.png
         role: EAS école, lycée
+
       - title: "Préfecture de l'Hérault"
         url: https://www.herault.gouv.fr/
         logo: assets/img/clients/prefet.png 
         role: Agent.e de la préfecture
+
       - title: "Académie"
         url: https://www.ac-montpellier.fr/
-        logo: assets/img/clients/académie.png 
+        logo: assets/img/clients/académiemtp.png  
+        role: Professeur•se•s
+
+      - title: "Service éducatif direction départementale"
+        url: https://www.ac-montpellier.fr/
+        logo: assets/img/clients/serviceeducatif.png 
         role: EAS école primaire
+
       - title: "CAFOC"
         url: https://maforpro-occitanie.fr/actualites/la-formation-rpif-du-cafoc
         logo: assets/img/clients/cafoc.png 
         role: RPIF
+
+      - title: "OVFF"
+        url: https://www.ovff34.fr/
+        logo: assets/img/clients/ovff34.png  
+        role: Réseaux violences filles 
+
+      - title: "Keyce"
+        url: https://keyce-academy.fr/campus-montpellier/
+        logo: assets/img/clients/keyce.png  
+        role: Jury RSE
+
+      - title: "IRTS"
+        url: https://www.faire-ess.fr/fr/nous-connaitre/irts-montpellier
+        logo: assets/img/clients/irts.png  
+        role: VRL 
+
       - title: "CEMEA"
         url: https://www.cemea-occitanie.org/
         logo: assets/img/clients/cemea.png 
-        role: DEJEPS
+        role: DEJEPS et VRL
+
       - title: "AFEV"
         url: https://afev.org/
         logo: assets/img/clients/afev.png  
         role: Service civique, kapseurs 
-      - title: "OVFF"
-        url: https://www.ovff34.fr/
-        logo: assets/img/clients/ovff.png  
-        role: Réseaux violences filles 
+
+      - title: "La CASE"
+        url: https://www.facebook.com/lacase34/?locale=fr_FR
+        logo: assets/img/clients/lacase.png  
+        role: Forum Ouvert 
+
 
   team:
     title: "L'équipe"
