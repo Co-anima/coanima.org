@@ -37,7 +37,7 @@ fr: &DEFAULT_FR
         icon: fa fa-heart
       - title: "Enthousiasme"
         desc: "Notre **dynamisme** est notre force, il naît de notre **joie** d’apprendre et transmettre à chaque occasion."
-        icon: fas fa-battery-full
+        icon: fas fa-fire
       
 
   about:
