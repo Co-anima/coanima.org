@@ -28,7 +28,7 @@ fr: &DEFAULT_FR
     list:
       - title: "Agilité"
         desc: "Nous avons une capacité d'**adaptabilité** et de **réactivité**, nous préférons toujours le **sur-mesure** dans la construction comme dans le face à face. "
-        icon: fas fa-shuffle
+        icon: fas fa-arrows-rotate
       - title: "Egalité"
         desc: "Nous nous basons toujours sur **l'intelligence collective**, nous prenons en compte et **valorisons** chacun·e, nous ne hiérarchisons pas la connaissance de l’expérience."
         icon: fas fa-scale-balanced
