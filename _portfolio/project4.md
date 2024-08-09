@@ -7,7 +7,7 @@ alt:
 caption:
   title: Empathie & Communication 
   subtitle: Se vivre soi et les autres
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
 <p style="text-align: justify;"><em><strong>Mots clés :</strong> accueil des émotions ; besoins humains ; communication ; empathie ; compétences psychosociales (sociales, émotionnelles, cognitives) ; acceptation de soi ; justice restauratrice ; résolution de problème ; médiation ; gestion de conflit ; conscience de soi ; gestion du stress ; violences éducatives ordinaires.</em></p>
 

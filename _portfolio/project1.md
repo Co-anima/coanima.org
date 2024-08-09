@@ -1,19 +1,20 @@
 ---
-title: Préjugé & Discriminations
-subtitle: Les singularités comme richesse
-image: assets/img/portfolio/01-thumbnail.jpg
-alt: 
+title: Sexisme & Genre
+subtitle: S'épanouir ensemble
+image: assets/img/portfolio/02-thumbnail.jpg
+alt: Keep Exploring
 
 caption:
-  title: Préjugé & Discrimination
-  subtitle:  Les singularités comme richesse
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Sexisme & <br> Genre
+  subtitle: S'épanouir ensemble
+  thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-<p style="text-align: justify;"><em><strong>Mots clés :</strong> stéréotype ; mécanisme d’exclusion ; inclusion ; rejet ; lois ; laïcité ; critères ; traitement inégal ; travail / emploi / logement ; xénophobie ; racisme ; migrations humaines ; catégorisation ; essentialisation ; privilèges ; intersectionnalité ; normes</em></p>
+<p style="text-align: justify;"><em><strong>Mots clés :</strong> stéréotype de genre ; préjugés ; comportements attendus ; injonctions ; féminisme ; masculinités ; lgbtqia+phobie ; inégalités ; domination/ patriarcat ; corps/ normes/ vêtements ; sexe biologique/ orientation sexuelle/ identité de genre ; éducation ; humour ; publicité ; langage ; violences : sexuelles/conjugale ; me-too / balance ton porc ; culture du viol ; estime de soi ; leadership.</em></p>
 
-<p style="text-align: justify;">Nous explorons les mécanismes complexes de la catégorisation, qui ont tendance à attribuer des étiquettes aux individu·e·s pouvant se cumuler et renforcer les difficultés. Comprendre cette mécanique interne permet de prendre du recul, de travailler sur nos propres représentations et d'appréhender la réalité sous de nouvelles perspectives. Cultiver une connaissance approfondie de ces thématiques c’est œuvrer pour une société plus inclusive : les singularités ne s'effacent pas, elles constituent la véritable richesse de la diversité humaine. </p> 
 
-<p style="text-align: justify;">Nous sommes persuadé·e·s que la compréhension de ces mécanismes nous rend plus attentifs.ves à nos propres biais, renforce notre confiance et notre capacité de réaction face aux discriminations, que nous en soyons victimes ou témoins.</p> 
+<p style="text-align: justify;">Nous explorons les questions liées aux inégalités de genre, en mettant en lumière les mécanismes d'éducation qui enferment souvent les individu·e·s dans des rôles de genre stéréotypés. Le sexe attribué à la naissance ainsi que le genre et son expression exercent une influence majeure sur la façon dont les individu·e·s sont traité·e·s. Les femmes et les personnes appartenant aux minorités de genre continuent de faire face à un système patriarcal. Le sexisme est l’un des plus grands fléaux de cette société inégalitaire. En plus des conséquences individuelles, parfois très graves, cela prive le monde de tant de talents potentiels. </p> 
+
+<p style="text-align: justify;">Nous sommes persuadé·e·s qu’éduquer, dès le plus jeune âge, à la liberté d'être soi-même et à la reconnaissance de cette cette liberté chez l’autre est essentiel. C’est le premier pas vers la construction d’une société plus égalitaire où chacun·e peut s'épanouir.</p> 
 
 
 [Les formats proposés sont :](/formats)<br/>
@@ -24,7 +25,5 @@ caption:
 
 
 
-
-
-
 <a class="nav-link js-scroll-trigger active" href="index.html#contact">Contactez-nous pour composer votre intervention/formation idéale.</a>
+
