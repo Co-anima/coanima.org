@@ -26,18 +26,18 @@ fr: &DEFAULT_FR
     text: "Nos valeurs sont les piliers de nos pratiques, elles sont mise en oeuvre à travers nos postures : "
     section: valeurs
     list:
-      - title: "Agilité"
-        desc: "Nous avons une capacité d'**adaptabilité** et de **réactivité**, nous préférons toujours le **sur-mesure** dans la construction comme dans le face à face. "
-        icon: fas fa-arrows-rotate
-      - title: "Egalité"
-        desc: "Nous nous basons toujours sur **l'intelligence collective**, nous prenons en compte et **valorisons** chacun·e, nous ne hiérarchisons pas la connaissance de l’expérience."
-        icon: fas fa-scale-balanced
-      - title: "Empathie"
-        desc: "Nous créons un **espace sécurisé et sécurisant**, notre posture et nos discours sont fondés sur la bienveillance, **ni à charge ni culpabilisant**, toujours par le **prisme des émotions et des besoins**."
-        icon: fa fa-heart
-      - title: "Enthousiasme"
-        desc: "Notre **dynamisme** est notre force, il naît de notre **joie** d’apprendre et transmettre à chaque occasion."
-        icon: fas fa-fire
+     - title: "Agilité"
+       desc: " Nous avons une capacité d'**adaptabilité** et de **réactivité**, nous préférons toujours le **sur-mesure** dans la construction comme dans le face à face."
+       icon: fas fa-rotate
+     - title: "Égalité"
+       desc: "Nous nous basons toujours sur **l'intelligence collective**, nous prenons en compte et **valorisons** chacun·e, nous ne hiérarchisons pas la connaissance de l’expérience."
+       icon: fas fa-scale-balanced
+     - title: "Empathie"
+       desc: "Nous créons un **espace sécurisé et sécurisant**, posture et discours bienveillants, **ni à charge ni culpabilisant**, le **prisme des émotions et des besoins** comme boussole."
+       icon: fa fa-heart
+     - title: "Enthousiasme"
+       desc: "Notre **dynamisme** est notre force, il naît de notre **joie** d’apprendre et transmettre à toutes les interventions. Nous offrons **vitalité, humour et légèreté** à chaque occasion."
+       icon: fas fa-fire
       
 
   about:
@@ -48,7 +48,7 @@ fr: &DEFAULT_FR
 
   portfolio:
     title: "Nos thèmes"
-    text: "À destination des : **Espaces éducatifs et de loisirs**, dès 6 ans (établissements scolaires, ACM, maison pour tous, ITEP, MECS, AFPA, PJJ…) <br/> ainsi que les **professionnel·les**, **bénévoles** ou **volontaires** de l’associatif, du service public ou du privé. <br/> <br/> Sur **Montpellier**, **Hérault**, **Gard**, **Occitanie**, peut-être **PACA**, et même le **monde** qui sait ..."
+    text: "Afin de faciliter la solidarité, l’altérité, la compréhension de soi, des autres et du monde, <br> nous avons choisi de nous focaliser sur **4 grandes thématiques** primordiales à nos yeux. <br> **Les enjeux sont grands, notre ambition aussi.**"
     closebutton: "Les autres thèmes"
 
   timeline:

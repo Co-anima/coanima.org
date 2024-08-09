@@ -13,11 +13,13 @@ fr: &DEFAULT_FR
   nav:
     - title: "COA ?"
       section: pitch
-    - title: "Nos valeurs"
+    - title: "Valeurs"
       section: valeurs
-    - title: "Nos thèmes"
+    - title: "Méthodes"
+      section : méthodes
+    - title: "Thèmes"
       section: portfolio
-    - title: "Le chemin"
+    - title: "Itinéraire"
       section: chemin
     - title: "L'équipe"
       section: nous
