@@ -16,7 +16,7 @@ fr: &DEFAULT_FR
     - title: "Valeurs"
       section: valeurs
     - title: "Méthodes"
-      section : méthodes
+      section : methodes
     - title: "Thèmes"
       section: portfolio
     - title: "Itinéraire"
