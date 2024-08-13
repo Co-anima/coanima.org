@@ -226,7 +226,8 @@ fr: &DEFAULT_FR
     buttonlink: "/nous"
 
   contact:
-    title: "Contactez-nous : bonjour@coanima.org"
+    title_part1: "Contactez-nous :"
+    title_part2: "<a href='mailto:bonjour@coanima.org'><br>bonjour@coanima.org</a>"
     text: "Vous pouvez aussi nous laisser un message :"
     section: contact
     name: "Nom*"
