@@ -17,6 +17,6 @@ background: grey
 </section>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="assets/img/budget2024.png" alt="Budget" style="max-width: 100%">
+  <img src="assets/img/budget2024.jpg" alt="Budget" style="max-width: 100%">
 </div>
 <div style="height: 75px;"></div>
