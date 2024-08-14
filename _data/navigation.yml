@@ -15,10 +15,10 @@ fr: &DEFAULT_FR
       section: pitch
     - title: "Valeurs"
       section: valeurs
-    - title: "Méthodes"
-      section : methodes
     - title: "Thèmes"
       section: portfolio
+    - title: "Méthodes"
+      section : methodes
     - title: "Itinéraire"
       section: chemin
     - title: "L'équipe"
