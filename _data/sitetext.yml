@@ -39,7 +39,6 @@ fr: &DEFAULT_FR
        desc: "Notre **dynamisme** est notre force, il naît de notre **joie** d’apprendre et transmettre à toutes les interventions. Nous offrons **vitalité, humour et légèreté** à chaque occasion."
        icon: fas fa-fire
       
-
   about:
     title: "Notre Posture"
     text: "L'éducation populaire"
@@ -197,6 +196,14 @@ fr: &DEFAULT_FR
         logo: assets/img/clients/lacase.png  
         role: Forum Ouvert 
 
+  verbatim:
+    quotes: 
+      - who: "Plop"
+        text: "Pif, Paf, Pouf"
+      - who: "Ma Tante"
+        text: "Pouch, Paf, Pouf"
+      - who: "Yalin"
+        text: "Pif, Paf, Pouf"
 
   team:
     title: "L'équipe"
