@@ -1,121 +1,88 @@
-<!-- About -->
-{% if site.locale and site.locale != "" and site.locale != nil %}
-  <section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].chemin.section | default: "about" }}">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].chemin.title | markdownify | default: "About" }}</h2>
-          <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].chemin.text | default: "chemin"}}</h3>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-12">
-          <ul class="chemin">
-      {%- assign align = site.data.sitetext[site.locale].chemin.start_align -%}
-      {%- for event in site.data.sitetext[site.locale].chemin.events -%}
-            {%- if align == "right" -%}
-              {%- if event.align and event.align == "left" -%}
-                {%- assign align = "right" -%}
-                <li>
-              {%- else -%}
-                {%- assign align = "left" %}
-                <li class="chemin-inverted">
-              {% endif %}
-            {% else %}
-              {%- if event.align and event.align == "right" -%}
-                {%- assign align = "left" -%}
-                <li class="chemin-inverted">
-              {%- else -%}
-                {%- assign align = "right" %}
-                <li>
-              {% endif %}
-            {%- endif -%}
-              <div class="chemin-image">
-                <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
-              </div>
-              <div class="chemin-panel">
-                <div class="chemin-heading">
-                  <h4>{{ event.year | markdownify }}</h4>
-                  <h4 class="subheading">{{ event.title }}</h4>
-                </div>
-                <div class="chemin-body">
-                  <div class="text-muted">{{ event.desc | markdownify }}</div>
-                </div>
-              </div>
-            </li>
-          {% endfor %} 
-            
-          {% if site.data.sitetext[site.locale].chemin.end %} 
-            <li class="chemin-inverted">
-              <div class="chemin-image">
-                <h4>{{ site.data.sitetext[site.locale].chemin.end }}</h4>
-              </div>
-            </li>
-          {% endif %}
-
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
-{% else %}
-<section class="bg-light page-section" id="{{ site.data.sitetext.chemin.section | default: "about" }}">
+<!-- Chemin -->
+<section class="bg-light page-section" id="chemin">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.chemin.title | markdownify | default: "About" }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext.chemin.text | default: "chemin"}}</h3>
+        <h2 class="section-heading text-uppercase">Itinéraire d'une formation :</h2>
+        <h3 class="section-subheading text-muted">Avant de commander une intervention, voici les questions essentielles à considérer :</h3>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-12">
         <ul class="chemin">
-    {%- assign align = site.data.sitetext.chemin.start_align -%}
-    {%- for event in site.data.sitetext.chemin.events -%}
-          {%- if align == "right" -%}
-            {%- if event.align and event.align == "left" -%}
-              {%- assign align = "right" -%}
-              <li>
-            {%- else -%}
-              {%- assign align = "left" %}
-              <li class="chemin-inverted">
-            {% endif %}
-          {% else %}
-            {%- if event.align and event.align == "right" -%}
-              {%- assign align = "left" -%}
-              <li class="chemin-inverted">
-            {%- else -%}
-              {%- assign align = "right" %}
-              <li>
-            {% endif %}
-          {%- endif -%}
+          <li class="chemin-inverted">
             <div class="chemin-image">
-              <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
+              <h4>1. Diagnostic</h4>
             </div>
             <div class="chemin-panel">
               <div class="chemin-heading">
-                <h4>{{ event.year | markdownify }}</h4>
-                <h4 class="subheading">{{ event.title }}</h4>
+                <h4>Diagnostic</h4>
+                <p class="text-muted"><i>Quel est le besoin spécifique ?</i></p>
               </div>
               <div class="chemin-body">
-                <div class="text-muted">{{ event.desc | markdownify }}</div>
+                <div class="text-muted">Identifiez le problème ou l’objectif de la formation pour garantir que l’intervention répondra parfaitement à vos attentes.</div>
               </div>
             </div>
           </li>
-    {% endfor %} 
-          
-    {% if site.data.sitetext.chemin.end %}  
-    <li class="chemin-inverted">
+          <li>
             <div class="chemin-image">
-              <h4>{{ site.data.sitetext.chemin.end }}</h4>
+              <h4>2. Public</h4>
+            </div>
+            <div class="chemin-panel">
+              <div class="chemin-heading">
+                <h4>Public</h4>
+                <p class="text-muted"><i>Qui est le public cible ? Quel est son niveau et combien de personnes seront présentes ?</i></p>
+              </div>
+              <div class="chemin-body">
+                <div class="text-muted">Définissez le groupe concerné, son niveau de compétence, et le nombre de participants pour personnaliser le contenu et la méthode de la formation.</div>
+              </div>
             </div>
           </li>
-    {% endif %}
-
+          <li class="chemin-inverted">
+            <div class="chemin-image">
+              <h4>3. Format</h4>
+            </div>
+            <div class="chemin-panel">
+              <div class="chemin-heading">
+                <h4>Format</h4>
+                <p class="text-muted"><i>Quel format convient le mieux ? Quelle est la durée de la formation ? Quel est le budget disponible ?</i></p>
+              </div>
+              <div class="chemin-body">
+                <div class="text-muted">Choisissez le format (présentiel, à distance, hybride), déterminez la durée, estimez le budget, et décidez si la formation sera axée sur l’apprentissage ou la sensibilisation.</div>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="chemin-image">
+              <h4>4. Référent</h4>
+            </div>
+            <div class="chemin-panel">
+              <div class="chemin-heading">
+                <h4>Référent</h4>
+                <p class="text-muted"><i>Qui sera le contact principal pour ce projet ? Qui sera responsable avant, pendant, et après la formation ?</i></p>
+              </div>
+              <div class="chemin-body">
+                <div class="text-muted">Désignez une personne de contact qui coordonnera le projet et sera disponible à chaque étape de l’intervention.</div>
+              </div>
+            </div>
+          </li>
+          <li class="chemin-inverted">
+            <div class="chemin-image">
+              <h4>5. Contactez-nous</h4>
+            </div>
+            <div class="chemin-panel">
+              <div class="chemin-heading">
+                <h4>Contactez-nous</h4>
+                <p class="text-muted"><i>Quand vous avez les réponses à ces questions, contactez-nous pour recevoir une proposition adaptée.</i></p>
+              </div>
+              <div class="chemin-body">
+                <div class="text-muted">Nous sommes prêts à vous aider à tout moment. Envoyez-nous vos réponses pour obtenir une offre personnalisée et détaillée.</div>
+              </div>
+            </div>
+          </li>
         </ul>
       </div>
     </div>
   </div>
 </section>
-{% endif %}
-<!-- End About -->
+<!-- End Chemin -->
