@@ -44,7 +44,6 @@
 }
 
 
-
 /* Styles spécifiques au bouton du formulaire de contact */
 
 .team-btn {
@@ -73,11 +72,13 @@ ul.left-align {
 
 
 /* Styles pour la section chemin */
+
 .chemin {
     position: relative;
     padding: 0;
     list-style: none;
 }
+
 .chemin:before {
     position: absolute;
     top: 0;
@@ -86,21 +87,26 @@ ul.left-align {
     width: 2px;
     margin-left: -1.5px;
     content: "";
-    background-color: #e9ecef; /* Replace $gray-200 */
+    background-color: #e9ecef;
+    /* Replace $gray-200 */
 }
-.chemin > li {
+
+.chemin>li {
     position: relative;
     min-height: 50px;
     margin-bottom: 50px;
 }
-.chemin > li:after,
-.chemin > li:before {
+
+.chemin>li:after,
+.chemin>li:before {
     display: table;
     content: " ";
 }
-.chemin > li:after {
+
+.chemin>li:after {
     clear: both;
 }
+
 .chemin .chemin-panel {
     position: relative;
     float: right;
@@ -108,18 +114,21 @@ ul.left-align {
     padding: 0 20px 0 100px;
     text-align: left;
 }
+
 .chemin .chemin-panel:before {
     right: auto;
     left: -15px;
     border-right-width: 15px;
     border-left-width: 0;
 }
+
 .chemin .chemin-panel:after {
     right: auto;
     left: -14px;
     border-right-width: 14px;
     border-left-width: 0;
 }
+
 .chemin .chemin-image {
     position: absolute;
     z-index: 100;
@@ -129,44 +138,54 @@ ul.left-align {
     margin-left: 0;
     text-align: center;
     color: white;
-    border: 7px solid #e9ecef; /* Replace $gray-200 */
+    border: 7px solid #e9ecef;
+    /* Replace $gray-200 */
     border-radius: 100%;
-    background-color: #007bff; /* Replace $primary */
+    background-color: #007bff;
+    /* Replace $primary */
 }
+
 .chemin .chemin-image h4 {
     font-size: 10px;
     line-height: 14px;
     margin-top: 12px;
 }
-.chemin .chemin-inverted > .chemin-panel {
+
+.chemin .chemin-inverted>.chemin-panel {
     float: right;
     padding: 0 20px 0 100px;
     text-align: left;
 }
-.chemin .chemin-inverted > .chemin-panel:before {
+
+.chemin .chemin-inverted>.chemin-panel:before {
     right: auto;
     left: -15px;
     border-right-width: 15px;
     border-left-width: 0;
 }
-.chemin .chemin-inverted > .chemin-panel:after {
+
+.chemin .chemin-inverted>.chemin-panel:after {
     right: auto;
     left: -14px;
     border-right-width: 14px;
     border-left-width: 0;
 }
-.chemin > li:last-child {
+
+.chemin>li:last-child {
     margin-bottom: 0;
 }
+
 .chemin .chemin-heading h4 {
     margin-top: 0;
     color: inherit;
 }
+
 .chemin .chemin-heading h4.subheading {
     text-transform: none;
 }
-.chemin .chemin-body > ul,
-.chemin .chemin-body > p {
+
+.chemin .chemin-body>ul,
+.chemin .chemin-body>p {
     margin-bottom: 0;
 }
 
@@ -174,7 +193,7 @@ ul.left-align {
     .chemin:before {
         left: 50%;
     }
-    .chemin > li {
+    .chemin>li {
         min-height: 100px;
         margin-bottom: 100px;
     }
@@ -195,7 +214,7 @@ ul.left-align {
         line-height: 18px;
         margin-top: 16px;
     }
-    .chemin .chemin-inverted > .chemin-panel {
+    .chemin .chemin-inverted>.chemin-panel {
         float: right;
         padding: 0 30px 20px 20px;
         text-align: left;
@@ -203,7 +222,7 @@ ul.left-align {
 }
 
 @media (min-width: 992px) {
-    .chemin > li {
+    .chemin>li {
         min-height: 150px;
     }
     .chemin .chemin-panel {
@@ -219,13 +238,13 @@ ul.left-align {
         line-height: 26px;
         margin-top: 30px;
     }
-    .chemin .chemin-inverted > .chemin-panel {
+    .chemin .chemin-inverted>.chemin-panel {
         padding: 0 20px 20px;
     }
 }
 
 @media (min-width: 1200px) {
-    .chemin > li {
+    .chemin>li {
         min-height: 170px;
     }
     .chemin .chemin-panel {
@@ -239,7 +258,7 @@ ul.left-align {
     .chemin .chemin-image h4 {
         margin-top: 40px;
     }
-    .chemin .chemin-inverted > .chemin-panel {
+    .chemin .chemin-inverted>.chemin-panel {
         padding: 0 100px 20px 20px;
     }
 }
@@ -284,20 +303,26 @@ ul.left-align {
     max-width: 50%;
     height: auto;
 }
+
+
 /* PORTFOLIO */
+
+
 /* Assurer que les images sont bien dimensionnées */
 
 
-  /* Style du caption pour centrer le texte et ajuster la taille */
-  .portfolio-caption {
-    padding: 15px;
-    height: 120px; /* Définir une hauteur fixe pour les captions */
-    flex-direction: column;
-    justify-content: center; /* Centrer verticalement le contenu */
-  }
-  
+/* Style du caption pour centrer le texte et ajuster la taille */
 
-  
+.portfolio-caption {
+    padding: 15px;
+    height: 120px;
+    /* Définir une hauteur fixe pour les captions */
+    flex-direction: column;
+    justify-content: center;
+    /* Centrer verticalement le contenu */
+}
+
+
 /* Styles spécifiques pour les écrans de petite taille (par exemple, téléphone) */
 
 @media (max-width: 767px) {
@@ -321,16 +346,17 @@ ul.left-align {
 @media (max-width: 768px) {
     .navbar-brand img {
         height: 50px;
-        
         /* Ajustez la taille du logo pour les petits écrans */
     }
 }
 
 @media (max-width: 768px) {
     h2 {
-      font-size: 26px !important; /* Taille réduite pour les téléphones */
+        font-size: 26px !important;
+        /* Taille réduite pour les téléphones */
     }
-  }
+}
+
 
 /* Styles spécifiques pour les boutons sur les appareils mobiles */
 
@@ -348,4 +374,90 @@ ul.left-align {
             /* Ajustez la marge supérieure pour déplacer le texte vers le haut */
         }
     }
+}
+
+
+/* Verbatim */
+
+.content-slider {
+    width: 100%;
+    height: 360px;
+}
+
+.slider {
+    height: 320px;
+    width: 680px;
+    margin: 40px auto 0;
+    overflow: visible;
+    position: relative;
+}
+
+.mask {
+    overflow: hidden;
+    height: 320px;
+}
+
+.slider ul {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.slider li {
+    width: 680px;
+    height: 320px;
+    position: absolute;
+    top: -325px;
+    list-style: none;
+    opacity: 0;
+}
+
+.slider .quote {
+    font-size: 40px;
+    font-style: italic;
+}
+
+.slider .source {
+    font-size: 20px;
+    text-align: right;
+}
+
+.slider li {
+    animation: cycle 15s linear infinite;
+}
+
+.slider li:nth-child(2) {
+    animation-delay: 5s;
+}
+
+.slider li:nth-child(3) {
+    animation-delay: 10s;
+}
+
+
+/* Add more rules if there are more than 3 quotes, or use larger delays if the number varies significantly */
+
+@keyframes cycle {
+    0,
+    100% {
+        top: -325px;
+        opacity: 0;
+        z-index: -1;
+    }
+    5%,
+    25% {
+        top: 0;
+        opacity: 1;
+        z-index: 0;
+    }
+    30%,
+    100% {
+        top: 325px;
+        opacity: 0;
+        z-index: -1;
+    }
+}
+
+.slider:hover li {
+    animation-play-state: paused;
 }
