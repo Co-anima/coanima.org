@@ -196,15 +196,6 @@ fr: &DEFAULT_FR
         logo: assets/img/clients/lacase.png  
         role: Forum Ouvert 
 
-  verbatim:
-    quotes: 
-      - who: "Plop"
-        text: "Pif, Paf, Pouf"
-      - who: "Ma Tante"
-        text: "Pouch, Paf, Pouf"
-      - who: "Yalin"
-        text: "Pif, Paf, Pouf"
-
   team:
     title: "L'équipe"
     text: "Une équipe aux valeurs communes et aux compétences complémentaires. "
