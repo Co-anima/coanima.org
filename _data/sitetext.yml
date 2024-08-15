@@ -49,6 +49,13 @@ fr: &DEFAULT_FR
     title: "Nos thèmes"
     text: "Afin de faciliter la solidarité, l’altérité, la compréhension de soi, des autres et du monde, <br> nous avons choisi de nous focaliser sur **4 grandes thématiques** primordiales à nos yeux. <br> **Les enjeux sont grands, notre ambition aussi.**"
     closebutton: "Les autres thèmes"
+    section: portfolio
+
+  outils:
+    title: "Nos outils"
+    text: "Découvrez nos outils, faites votre choix et on en parle !"
+    closebutton: "Les autres outils"
+    section: outils
 
   timeline:
     title: "Notre histoire"
