@@ -1,2 +1,40 @@
 titre: "Itinéraire d'une formation :"
 sous-titre: "Avant de commander une intervention, voici les questions essentielles à considérer :"
+etapes:
+  - titre: Objectif
+    sous-titre: Quel est le besoin spécifique ?
+    texte:
+      Identifiez la problématique, [le thème](#portfolio), votre [volonté pédagogique](/formats), et l’objectif de la formation pour nous permettre de répondre parfaitement à vos attentes.
+      <br><br>  
+      [N'hésitez pas à nous contacter](#contact) pour toute question.
+    image: diagnostic.png
+  - titre: Public
+    sous-titre: Qui est le public ? Quel est son niveau ?
+    texte:
+      Définissez le nombre de groupes et le nombre de participant.e.s. <br> Pour adapter le contenu et
+      [nos méthodes](#methodes), nous pouvons vous accompagner pour réaliser un [auto-diagnostic](/formats), ou vous pouvez le réaliser vous-même.
+      <br><br>
+      [Nous contacter](#contact) pour toute question.
+    image: public.png
+  - titre: Format
+    sous-titre: Avez-vous estimé vos moyens ?
+    texte:
+    image: format.png
+  - titre: Référent.e
+    sous-titre: Qui sera le contact principal pour ce projet ?
+    texte:
+      Disposez-vous d’une salle adaptée ? Quels sont ses équipements ? Quel est votre budget ? Vous pouvez consulter [nos formats](/formats)
+      standards et leur [tarif](/formats), mais nous pouvons en créer sur mesure.
+      <br><br>
+      [Nous contacter](#contact) pour toute question.
+    image: referent.png
+  - titre: Contact
+    sous-titre: Quand vous avez les réponses à ces questions, contactez-nous pour recevoir une proposition adaptée.
+    texte: 
+      Nous sommes prêts à vous aider à tout moment. Envoyez-nous vos réponses pour obtenir une offre personnalisée et détaillée.
+      <br><br>
+      [Nous contacter](#contact) pour toute question.
+    image: format.png
+    
+
+  
