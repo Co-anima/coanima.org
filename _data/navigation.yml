@@ -20,7 +20,7 @@ fr: &DEFAULT_FR
     - title: "Méthodes"
       section : methodes
     - title: "Itinéraire"
-      section: chemin
+      section: itineraire
     - title: "L'équipe"
       section: nous
     - title: "Contact"

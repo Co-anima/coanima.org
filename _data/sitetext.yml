@@ -83,10 +83,10 @@ fr: &DEFAULT_FR
         image: assets/img/logo.jpg
         alt: image alt text
 
-  chemin:
+  itineraire:
     title: "Notre histoire"
     text: "Notre parcours associatif débute pour toustes par une mission de service civique au sein de la même structure de lutte contre les discriminations, <br/> mais à des époques différentes."
-    section: chemin
+    section: itineraire
     # left is the default
     #start_align: "left"
     events:

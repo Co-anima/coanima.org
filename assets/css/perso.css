@@ -71,15 +71,15 @@ ul.left-align {
 }
 
 
-/* Styles pour la section chemin */
+/* Styles pour la section itineraire */
 
-.chemin {
+.itineraire {
     position: relative;
     padding: 0;
     list-style: none;
 }
 
-.chemin:before {
+.itineraire:before {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -91,23 +91,23 @@ ul.left-align {
     /* Replace $gray-200 */
 }
 
-.chemin>li {
+.itineraire>li {
     position: relative;
     min-height: 50px;
     margin-bottom: 50px;
 }
 
-.chemin>li:after,
-.chemin>li:before {
+.itineraire>li:after,
+.itineraire>li:before {
     display: table;
     content: " ";
 }
 
-.chemin>li:after {
+.itineraire>li:after {
     clear: both;
 }
 
-.chemin .chemin-panel {
+.itineraire .itineraire-panel {
     position: relative;
     float: right;
     width: 100%;
@@ -115,21 +115,21 @@ ul.left-align {
     text-align: left;
 }
 
-.chemin .chemin-panel:before {
+.itineraire .itineraire-panel:before {
     right: auto;
     left: -15px;
     border-right-width: 15px;
     border-left-width: 0;
 }
 
-.chemin .chemin-panel:after {
+.itineraire .itineraire-panel:after {
     right: auto;
     left: -14px;
     border-right-width: 14px;
     border-left-width: 0;
 }
 
-.chemin .chemin-image {
+.itineraire .itineraire-image {
     position: absolute;
     z-index: 100;
     left: 0;
@@ -145,76 +145,76 @@ ul.left-align {
     /* Replace $primary */
 }
 
-.chemin .chemin-image h4 {
+.itineraire .itineraire-image h4 {
     font-size: 10px;
     line-height: 14px;
     margin-top: 12px;
 }
 
-.chemin .chemin-inverted>.chemin-panel {
+.itineraire .itineraire-inverted>.itineraire-panel {
     float: right;
     padding: 0 20px 0 100px;
     text-align: left;
 }
 
-.chemin .chemin-inverted>.chemin-panel:before {
+.itineraire .itineraire-inverted>.itineraire-panel:before {
     right: auto;
     left: -15px;
     border-right-width: 15px;
     border-left-width: 0;
 }
 
-.chemin .chemin-inverted>.chemin-panel:after {
+.itineraire .itineraire-inverted>.itineraire-panel:after {
     right: auto;
     left: -14px;
     border-right-width: 14px;
     border-left-width: 0;
 }
 
-.chemin>li:last-child {
+.itineraire>li:last-child {
     margin-bottom: 0;
 }
 
-.chemin .chemin-heading h4 {
+.itineraire .itineraire-heading h4 {
     margin-top: 0;
     color: inherit;
 }
 
-.chemin .chemin-heading h4.subheading {
+.itineraire .itineraire-heading h4.subheading {
     text-transform: none;
 }
 
-.chemin .chemin-body>ul,
-.chemin .chemin-body>p {
+.itineraire .itineraire-body>ul,
+.itineraire .itineraire-body>p {
     margin-bottom: 0;
 }
 
 @media (min-width: 768px) {
-    .chemin:before {
+    .itineraire:before {
         left: 50%;
     }
-    .chemin>li {
+    .itineraire>li {
         min-height: 100px;
         margin-bottom: 100px;
     }
-    .chemin .chemin-panel {
+    .itineraire .itineraire-panel {
         float: left;
         width: 41%;
         padding: 0 20px 20px 30px;
         text-align: right;
     }
-    .chemin .chemin-image {
+    .itineraire .itineraire-image {
         left: 50%;
         width: 100px;
         height: 100px;
         margin-left: -50px;
     }
-    .chemin .chemin-image h4 {
+    .itineraire .itineraire-image h4 {
         font-size: 13px;
         line-height: 18px;
         margin-top: 16px;
     }
-    .chemin .chemin-inverted>.chemin-panel {
+    .itineraire .itineraire-inverted>.itineraire-panel {
         float: right;
         padding: 0 30px 20px 20px;
         text-align: left;
@@ -222,43 +222,43 @@ ul.left-align {
 }
 
 @media (min-width: 992px) {
-    .chemin>li {
+    .itineraire>li {
         min-height: 150px;
     }
-    .chemin .chemin-panel {
+    .itineraire .itineraire-panel {
         padding: 0 20px 20px;
     }
-    .chemin .chemin-image {
+    .itineraire .itineraire-image {
         width: 150px;
         height: 150px;
         margin-left: -75px;
     }
-    .chemin .chemin-image h4 {
+    .itineraire .itineraire-image h4 {
         font-size: 18px;
         line-height: 26px;
         margin-top: 30px;
     }
-    .chemin .chemin-inverted>.chemin-panel {
+    .itineraire .itineraire-inverted>.itineraire-panel {
         padding: 0 20px 20px;
     }
 }
 
 @media (min-width: 1200px) {
-    .chemin>li {
+    .itineraire>li {
         min-height: 170px;
     }
-    .chemin .chemin-panel {
+    .itineraire .itineraire-panel {
         padding: 0 20px 20px 100px;
     }
-    .chemin .chemin-image {
+    .itineraire .itineraire-image {
         width: 170px;
         height: 170px;
         margin-left: -85px;
     }
-    .chemin .chemin-image h4 {
+    .itineraire .itineraire-image h4 {
         margin-top: 40px;
     }
-    .chemin .chemin-inverted>.chemin-panel {
+    .itineraire .itineraire-inverted>.itineraire-panel {
         padding: 0 100px 20px 20px;
     }
 }
