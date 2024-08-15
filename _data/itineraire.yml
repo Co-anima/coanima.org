@@ -19,12 +19,15 @@ etapes:
   - titre: Format
     sous-titre: Avez-vous estimé vos moyens ?
     texte:
+      Disposez-vous d’une salle adaptée ? Quels sont ses équipements ? Quel est votre budget ? Vous pouvez consulter [nos formats](/formats)
+      standards et leur [tarif](/formats), mais nous pouvons en créer sur mesure.
+      <br><br>
+      [Nous contacter](#contact) pour toute question.
     image: format.png
   - titre: Référent.e
     sous-titre: Qui sera le contact principal pour ce projet ?
     texte:
-      Disposez-vous d’une salle adaptée ? Quels sont ses équipements ? Quel est votre budget ? Vous pouvez consulter [nos formats](/formats)
-      standards et leur [tarif](/formats), mais nous pouvons en créer sur mesure.
+      Désignez une personne avec qui nous pourrons être en contact tout au long de la création, de la mise en œuvre, et également après la réalisation, notamment pour réaliser le bilan.
       <br><br>
       [Nous contacter](#contact) pour toute question.
     image: referent.png
