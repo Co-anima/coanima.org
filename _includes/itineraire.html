@@ -10,7 +10,6 @@
     <div class="row">
       <div class="col-lg-12">
         <ul class="itineraire">
-          {% assign counter = 1 %}
           {% for etape in site.data.itineraire.etapes %}
             <li class="{% cycle 'itineraire-inverted', '' %}">
               <div class="itineraire-image">
@@ -31,7 +30,6 @@
                 </div>
               </div>
             </li>
-            {% assign counter = counter | plus: 1 %}
           {% endfor %}
         </ul>
       </div>
