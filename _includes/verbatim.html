@@ -1,11 +1,11 @@
 <style>
   /* Delay for each item */
   {% assign num_quotes = site.data.verbatim.quotes.size %}
-  {% assign delay_step = 25 | divided_by: num_quotes %}
+  {% assign delay_step = 30 | divided_by: num_quotes %}
 
   {% for i in (1..num_quotes) %}
     .slider li.anim{{ i }} {
-      animation-delay: calc({{ delay_step | times: i }}s - 25s);
+      animation-delay: calc({{ delay_step | times: i }}s - 30s);
     }
   {% endfor %}
 </style>

@@ -378,6 +378,7 @@ ul.left-align {
 
 
 /* Verbatim */
+
 .content-slider {
     width: 100%;
     height: 360px;
@@ -385,7 +386,8 @@ ul.left-align {
 
 .slider {
     height: 320px;
-    width: 680px;
+    width: 100%;
+    max-width: 680px;
     margin: 40px auto 0;
     overflow: visible;
     position: relative;
@@ -393,7 +395,7 @@ ul.left-align {
 
 .mask {
     overflow: hidden;
-    height: 320px;
+    height: 100%;
 }
 
 .slider ul {
@@ -403,8 +405,9 @@ ul.left-align {
 }
 
 .slider li {
-    width: 680px;
-    height: 320px;
+    width: 100%;
+    max-width: 680px;
+    height: 100%;
     position: absolute;
     top: -325px;
     list-style: none;
@@ -412,27 +415,31 @@ ul.left-align {
 }
 
 .slider .quote {
-    font-size: 40px;
+    font-size: 2.5vw;
     font-style: italic;
 }
 
 .slider .source {
-    font-size: 20px;
+    font-size: 1vw;
     text-align: right;
 }
 
+
 /* Main animation for all items */
+
 .slider li {
-    animation: cycle 25s linear infinite;
+    animation: cycle 30s linear infinite;
 }
 
 @keyframes cycle {
-    0%, 10% {
+    0%,
+    12% {
         top: 0;
         opacity: 1;
         z-index: 0;
     }
-    15%, 100% {
+    17%,
+    100% {
         top: -325px;
         opacity: 0;
         z-index: -1;
@@ -443,3 +450,30 @@ ul.left-align {
     animation-play-state: paused;
 }
 
+
+/* Responsive Styles */
+
+@media (max-width: 768px) {
+    .slider {
+        height: auto;
+    }
+    .slider li {
+        height: auto;
+        position: static;
+    }
+    .slider .quote {
+        font-size: 6vw;
+    }
+    .slider .source {
+        font-size: 4vw;
+    }
+}
+
+@media (max-width: 480px) {
+    .slider .quote {
+        font-size: 6vw;
+    }
+    .slider .source {
+        font-size: 4vw;
+    }
+}
