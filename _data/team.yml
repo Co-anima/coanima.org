@@ -1,0 +1,25 @@
+title: "L'équipe"
+text: "Une équipe aux valeurs communes et aux compétences complémentaires. "
+subtext: Nous coanimons, lors de nos ateliers, vous nous verrez toujours en binôme ! 
+section: nous
+people:
+  - name: "Louna Langlois"
+    role: "Coanimatrice"
+    image: assets/img/team/louna.jpg
+    social:
+      - url: https://www.linkedin.com/in/louna-langlois-880937210/
+        icon: fab fa-linkedin-in
+  - name: "Audric Vilatte"
+    role: "Coanimateur"
+    image: assets/img/team/audric.jpg
+    social:
+      - url: https://linkedin.com
+        icon: fab fa-linkedin-in
+  - name: "Manon Melendez"
+    role: "Coanimatrice"
+    image: assets/img/team/manon.jpg
+    social:
+      - url: https://linkedin.com/in/manon-melendez-14a49b57/
+        icon: fab fa-linkedin-in
+button: En savoir +
+buttonlink: "/nous"

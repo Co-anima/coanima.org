@@ -2,14 +2,14 @@
 <div class="title-container">
   <h2 class="custom-title">Nous avons leur confiance :</h2>
 </div>
-<section class="py-5" id="{{ site.data.sitetext[site.locale].clients.section | default: "clients" }}">
+<section class="py-5" id="{{ site.data.clients.section | default: "clients" }}">
   <div class="container">
     <div
       class="row"
-      {% if site.data.sitetext[site.locale].clients.horizontal-scrolling == "yes" %}
+      {% if site.data.clients.horizontal-scrolling == "yes" %}
       id="scrolling-clients"
       {% endif %}>
-      {% for client in site.data.sitetext[site.locale].clients.list %}
+      {% for client in site.data.clients.list %}
         <div class="col-md-3 col-sm-6">
           <a href="{{ client.url }}">
             <img
@@ -17,7 +17,7 @@
               src="{{ client.logo }}"
               alt="{{ client.title }}"
               style="max-height: 100px"
-              {{ site.data.sitetext[site.locale].clients.max-height | default: "100px" }}
+              {{ site.data.clients.max-height | default: "100px" }}
               ">
           </a>
           <p style="text-align: center; font-size: 14px; color: grey;">{{ client.role }}</p>

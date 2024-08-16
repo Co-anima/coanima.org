@@ -1,0 +1,12 @@
+mentions-legales: "Mentions légales"
+statuts: "Statuts"
+budget : "Budget"
+social:
+  - url: https://facebook.com/COANIMA.mtp
+    icon: "fab fa-facebook-f"
+  - url: https://www.linkedin.com/company/99870297/
+    icon: "fab fa-linkedin-in"
+  - url: https://github.com/Co-anima
+    icon: "fab fa-github"
+  - url: https://www.instagram.com/coanima_/
+    icon: "fab fa-instagram"
