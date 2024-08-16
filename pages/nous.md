@@ -46,7 +46,7 @@ permalink: nous
 
 <h2>Louna</h2>
 
-<img class="photo-equipe" src="assets/img/team/photo-louna-500x500.jpg" alt="Louna" />
+<img class="photo-equipe" src="assets/img/team/louna.jpg" alt="Louna" />
 
 <!-- Informations de contact de Louna -->
 <div class="contact-info">
@@ -79,7 +79,7 @@ permalink: nous
 
 <h2>Manon</h2>
 
-  <img src="assets/img/team/photo-manon-500x500.jpg" class="photo-equipe" alt="Manon" />
+  <img src="assets/img/team/manon.jpg" class="photo-equipe" alt="Manon" />
 
 <!-- Informations de contact de Manon -->
 <div class="contact-info">
@@ -114,7 +114,7 @@ permalink: nous
 
 <h2>Audric</h2>
 
-<img src="assets/img/team/photo-audric-500x500.jpg" class="photo-equipe" alt="Audric" />
+<img src="assets/img/team/audric.jpg" class="photo-equipe" alt="Audric" />
 
 <!-- Informations de contact de Audric -->
 <div class="contact-info">

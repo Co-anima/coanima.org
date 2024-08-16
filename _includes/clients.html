@@ -2,35 +2,27 @@
 <div class="title-container">
   <h2 class="custom-title">Nous avons leur confiance :</h2>
 </div>
-{% if site.locale and site.locale != "" and site.locale != nil %}
-  <section class="py-5" id="{{ site.data.sitetext[site.locale].clients.section | default: "clients" }}">
-    <div class="container">
-      <div class="row" {% if site.data.sitetext[site.locale].clients.horizontal-scrolling == "yes" %} id="scrolling-clients" {% endif %}>
-        {% for client in site.data.sitetext[site.locale].clients.list %}
+<section class="py-5" id="{{ site.data.sitetext[site.locale].clients.section | default: "clients" }}">
+  <div class="container">
+    <div
+      class="row"
+      {% if site.data.sitetext[site.locale].clients.horizontal-scrolling == "yes" %}
+      id="scrolling-clients"
+      {% endif %}>
+      {% for client in site.data.sitetext[site.locale].clients.list %}
         <div class="col-md-3 col-sm-6">
           <a href="{{ client.url }}">
-            <img class="img-fluid d-block mx-auto" src="{{ client.logo }}" alt="{{ client.title }}" style="max-height: 100px" {{ site.data.sitetext[site.locale].clients.max-height | default: "100px" }}">
+            <img
+              class="img-fluid d-block mx-auto"
+              src="{{ client.logo }}"
+              alt="{{ client.title }}"
+              style="max-height: 100px"
+              {{ site.data.sitetext[site.locale].clients.max-height | default: "100px" }}
+              ">
           </a>
-          <p style="text-align: center; font-size: 14px; color: grey;">{{ client.role }}</p> 
+          <p style="text-align: center; font-size: 14px; color: grey;">{{ client.role }}</p>
         </div>
-        {% endfor %}
-      </div>
-    </div>
-  </section>
-{% else %}
-<section class="py-5" id="{{ site.data.sitetext.clients.section | default: "clients" }}">
-  <div class="container">
-    <div class="row" {% if site.data.sitetext.clients.horizontal-scrolling == "yes" %} id="scrolling-clients" {% endif %}>
-    {% for client in site.data.sitetext.clients.list %}
-      <div class="col-md-3 col-sm-6">
-        <a href="{{ client.url }}">
-          <img class="img-fluid d-block mx-auto" src="{{ client.logo }}" alt="{{ client.title }}" style="max-height: 100px" {{ site.data.sitetext.clients.max-height | default: "100px" }}">
-        </a>
-        <p style="text-align: center; font-size: 14px; color: grey;">{{ client.role }}</p> 
-      </div>
-    {% endfor %}
+      {% endfor %}
     </div>
   </div>
 </section>
-{% endif %}
-

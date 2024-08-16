@@ -2,7 +2,6 @@
 <div class="title-container">
     <h2 class="custom-title">Nos bienfaiteurs & bienfaitrices :</h2>
   </div>
-  {% if site.locale and site.locale != "" and site.locale != nil %}
     <section class="py-5" id="{{ site.data.sitetext[site.locale].bienfaiteurs.section | default: "bienfaiteurs" }}">
       <div class="container">
         <div class="row" {% if site.data.sitetext[site.locale].bienfaiteurs.horizontal-scrolling == "yes" %} id="scrolling-bienfaiteurs" {% endif %}>
@@ -17,21 +16,5 @@
         </div>
       </div>
     </section>
-  {% else %}
-  <section class="py-5" id="{{ site.data.sitetext.bienfaiteurs.section | default: "bienfaiteurs" }}">
-    <div class="container">
-      <div class="row" {% if site.data.sitetext.bienfaiteurs.horizontal-scrolling == "yes" %} id="scrolling-bienfaiteurs" {% endif %}>
-      {% for bienfaiteurs in site.data.sitetext.bienfaiteurs.list %}
-        <div class="col-md-3 col-sm-6">
-          <a href="{{ bienfaiteurs.url }}">
-            <img class="img-fluid d-block mx-auto" src="{{ bienfaiteurs.logo }}" alt="{{ bienfaiteurs.title }}" style="max-height: 100px" {{ site.data.sitetext.bienfaiteurs.max-height | default: "100px" }}">
-          </a>
-          <p style="text-align: center; font-size: 14px; color: grey;">{{ bienfaiteurs.role }}</p> 
-        </div>
-      {% endfor %}
-      </div>
-    </div>
-  </section>
-  {% endif %}
   
   <p class="text-center closer-link"><a href="https://www.helloasso.com/associations/coanima/adhesions/adhesion-coanima">Devenez adhérent·e·s<a/> ou <a href="https://www.gofundme.com/f/aider-nous-a-exister?utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all&utm_source=customer">faites un don</a></p>

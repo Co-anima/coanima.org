@@ -168,6 +168,25 @@ ul.left-align {
     justify-content: center;
 }
 
+.form-group input,
+.form-group textarea {
+    background-color: rgba(255, 255, 255, 0.7);
+    /* Fond légèrement opaque */
+    border: 1px solid #ccc;
+    /* Bordure pour plus de visibilité */
+}
+
+
+/* contact */
+
+.form-group input::placeholder,
+.form-group textarea::placeholder {
+    opacity: 1;
+    /* Ajustez l'opacité du texte de l'indication (placeholder) */
+    color: blue;
+    /* Couleur du texte d'indication en noir */
+}
+
 
 /* Itineraire Section */
 
@@ -271,7 +290,7 @@ ul.left-align {
 .nous-section {
     background-color: grey;
     position: relative;
-    background-image: url('assets/img/nous_3.jpg');
+    background-image: url('/assets/img/nous_3.jpg');
     background-size: contain;
     background-position: center;
     height: 500px;
