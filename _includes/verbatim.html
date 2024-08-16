@@ -1,15 +1,22 @@
-<style>
-  /* Delay for each item */
-  {% assign num_quotes = site.data.verbatim.quotes.size %}
-  {% assign delay_step = 30 | divided_by: num_quotes %}
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+  const quotes = document.querySelectorAll('.slider ul li');
+  let currentIndex = 0;
+  const totalQuotes = quotes.length;
 
-  {% for i in (1..num_quotes) %}
-    .slider li.anim{{ i }} {
-      animation-delay: calc({{ delay_step | times: i }}s - 30s);
-    }
-  {% endfor %}
-</style>
+  function showNextQuote() {
+    quotes[currentIndex].classList.remove('active');
+    currentIndex = (currentIndex + 1) % totalQuotes;
+    quotes[currentIndex].classList.add('active');
+  }
 
+  // Set the first quote to be visible
+  quotes[currentIndex].classList.add('active');
+
+  // Change quote every 5 seconds
+  setInterval(showNextQuote, 5000);
+  });
+</script>
 <section class="page-section bg-light" id="verbatim">
   <div class="container">
     <div class="row">
@@ -21,13 +28,11 @@
         <div class="slider">
           <div class="mask">
             <ul>
-              {% assign counter = 1 %}
               {% for quote in site.data.verbatim.quotes %}
-                <li class="anim{{ counter }}">
+                <li>
                   <div class="quote">{{ quote.text }}</div>
                   <div class="source">- {{ quote.who }}</div>
                 </li>
-                {% assign counter = counter | plus: 1 %}
               {% endfor %}
             </ul>
           </div>
