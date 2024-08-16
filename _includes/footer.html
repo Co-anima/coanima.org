@@ -1,79 +1,88 @@
 <!-- Footer -->
-<footer class="footer" id="footer" style="background-color: white">
-    <div class="container">
-        {% if site.locale and site.locale != "" and site.locale != nil %}
-        <div class="row align-items-center">
-            <div class="col-md-4">
-                <span class="copyright"> &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
-            </div>
-            <!-- Social Media -->
-            <div class="col-md-4">
-                <ul class="list-inline social-buttons">
-                    {% for link in site.data.sitetext[site.locale].footer.social %}
-                    <li class="list-inline-item">
-                        {% if link.url %}
-                        <a href="{{ link.url }}">
-                            {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
-                        </a>
-                        {% endif %}
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            <!-- Statuts, Budget, and Legal -->
-            <div class="col-md-4">
-                <ul class="list-inline quicklinks">
-                    <li class="list-inline-item">
-                        <a href="statuts">{{ site.data.sitetext[site.locale].footer.statuts | default: "Statuts" }}</a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a href="budget">Budget</a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a href="mentions-legales">Mentions Légales</a>
-                    </li>
-                </ul>
-            </div>
+<footer
+  class="footer"
+  id="footer"
+  style="background-color: white">
+  <div class="container">
+    {% if site.locale and site.locale != "" and site.locale != nil %}
+      <div class="row align-items-center">
+        <div class="col-md-4">
+          <span class="copyright">
+            &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
         </div>
-        {% else %}
-        <div class="row align-items-center">
-            <div class="col-md-4">
-                <span class="copyright"> &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
-            </div>
-            <!-- Social Media -->
-            <div class="col-md-4">
-                <ul class="list-inline social-buttons">
-                    {% for link in site.data.sitetext.footer.social %}
-                    <li class="list-inline-item">
-                        {% if link.url %}
-                        <a href="{{ link.url }}">
-                            {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
-                        </a>
-                        {% endif %}
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            <!-- Statuts, Budget, and Legal -->
-            <div class="col-md-4">
-                <ul class="list-inline quicklinks">
-                    <li class="list-inline-item">
-                        <a href="statuts">{{ site.data.sitetext.footer.statuts | default: "Statuts" }}</a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a href="budget">Budget</a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a href="mentions-legales">Mentions Légales</a>
-                    </li>
-                </ul>
-            </div>
+        <!-- Social Media -->
+        <div class="col-md-4">
+          <ul class="list-inline social-buttons">
+            {% for link in site.data.sitetext[site.locale].footer.social %}
+              <li class="list-inline-item">
+                {% if link.url %}
+                  <a href="{{ link.url }}">
+                    {% if link.icon %}
+                      <i class="{{ link.icon }}"></i>
+                    {% endif %}
+                  </a>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
         </div>
-        {% endif %}
-    </div>
+        <!-- Statuts, Budget, and Legal -->
+        <div class="col-md-4">
+          <ul class="list-inline quicklinks">
+            <li class="list-inline-item">
+              <a href="statuts">{{ site.data.sitetext[site.locale].footer.statuts | default: "Statuts" }}</a>
+            </li>
+            <li class="list-inline-item">
+              <a href="budget">Budget</a>
+            </li>
+            <li class="list-inline-item">
+              <a href="mentions-legales">Mentions Légales</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    {% else %}
+      <div class="row align-items-center">
+        <div class="col-md-4">
+          <span class="licence">
+            Licence CC0 1.0 Universal {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+        </div>
+        <!-- Social Media -->
+        <div class="col-md-4">
+          <ul class="list-inline social-buttons">
+            {% for link in site.data.sitetext.footer.social %}
+              <li class="list-inline-item">
+                {% if link.url %}
+                  <a href="{{ link.url }}">
+                    {% if link.icon %}
+                      <i class="{{ link.icon }}"></i>
+                    {% endif %}
+                  </a>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+        <!-- Statuts, Budget, and Legal -->
+        <div class="col-md-4">
+          <ul class="list-inline quicklinks">
+            <li class="list-inline-item">
+              <a href="statuts">{{ site.data.sitetext.footer.statuts | default: "Statuts" }}</a>
+            </li>
+            <li class="list-inline-item">
+              <a href="budget">Budget</a>
+            </li>
+            <li class="list-inline-item">
+              <a href="mentions-legales">Mentions Légales</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    {% endif %}
+  </div>
 </footer>
 {% if page.layout == "page" %}
-<script>
+  <script>
     fixPageShort();
     function fixPageShort() {
         if (window.innerHeight > document.body.offsetHeight) {
@@ -84,6 +93,6 @@
             document.getElementById("footer").style.width = "100%";
         }
     }
-</script>
+  </script>
 {% endif %}
 <!-- End Footer -->
