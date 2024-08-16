@@ -1,0 +1,48 @@
+produits:
+  - name: "Petit Atelier Ludique"
+    volonte_pedagogique: "Pour une première approche d'un sujet en 3h."
+    centre_sur: "société/débat d'idées"
+    autodiagnostic: false
+    auto_evaluation: false
+    compatible_atelier_enquete: true
+    acces_espace_ressources: false
+    participants: "6-30"
+    prix: "390€ les 3h"
+    lieux: "Hérault, Gard, <a href='/#contact'>ou à discuter...</a>"
+    besoin: "Aborder un sujet"
+
+  - name: "Les 3 A"
+    volonte_pedagogique: "L'<strong>A</strong>utodiagnostic (fournis) que nous analysons pour adapter l'<strong>A</strong>telier ludique de 3h puis l'<strong>A</strong>pprofondissement de 2h quelques semaines après."
+    centre_sur: "société/débat d'idées"
+    autodiagnostic: true
+    auto_evaluation: true
+    compatible_atelier_enquete: true
+    acces_espace_ressources: true
+    participants: "6-30"
+    prix: "690€ les 6h"
+    lieux: "Occitanie, PACA, <a href='/#contact'>ou à discuter...</a>"
+    besoin: "Approfondir un sujet"
+
+  - name: "Formation 2 jours"
+    volonte_pedagogique: "Alternance entre théorie et mises en pratiques pour acquérir des réflexes, connaissances et compétences. Minimum 2 jours (12h), consécutifs ou non. Parcours multimodals possible."
+    centre_sur: "histoires personnelles société/débat d'idées"
+    autodiagnostic: true
+    auto_evaluation: true
+    compatible_atelier_enquete: true
+    acces_espace_ressources: true
+    participants: "8-20"
+    prix: "2850€ les 12h (intra)<br><a href='/#contact'>contactez-nous pour plus</a>"
+    lieux: "Occitanie, PACA, <a href='/#contact'>ou à discuter...</a>"
+    besoin: "Monter en compétences"
+
+  - name: "Cercle de Parole"
+    volonte_pedagogique: "Partage d'expériences et renforcement des relations interpersonnelles. En mixité, non-mixité, alternance des 2. 10 séances d’1h15. Pour les adultes."
+    centre_sur: "histoires personnelles"
+    autodiagnostic: true
+    auto_evaluation: true
+    compatible_atelier_enquete: false
+    acces_espace_ressources: false
+    participants: "6-15"
+    prix: "1500€ les 12h30"
+    lieux: "Montpellier (10km), <a href='/#contact'>ou à discuter...</a>"
+    besoin: "Accompagner un groupe"

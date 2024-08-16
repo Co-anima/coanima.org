@@ -4,6 +4,89 @@ body {
     font-family: 'Droid Serif', serif;
 }
 
+table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+th {
+    background-color: #49A695;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #dddddd;
+}
+
+td {
+    text-align: justify;
+}
+
+td {
+    text-align: center;
+}
+
+td.left {
+    text-align: left;
+}
+
+
+/* Colonne "Vous avez besoin de :" */
+
+th:nth-child(1),
+td:nth-child(1) {
+    width: 5%;
+    /* Largeur de la première colonne (par exemple, 20%) */
+}
+
+
+/* Colonne "Sensibiliser" */
+
+th:nth-child(2),
+td:nth-child(2) {
+    width: 15%;
+    /* Largeur de la deuxième colonne (par exemple, 20%) */
+}
+
+
+/* Colonne "Approfondir" */
+
+th:nth-child(3),
+td:nth-child(3) {
+    width: 20%;
+    /* Largeur de la troisième colonne (par exemple, 20%) */
+}
+
+
+/* Colonne "Libérer la parole" */
+
+th:nth-child(4),
+td:nth-child(4) {
+    width: 15%;
+    /* Largeur de la quatrième colonne (par exemple, 20%) */
+}
+
+
+/* Colonne "Monter en compétences" */
+
+th:nth-child(5),
+td:nth-child(5) {
+    width: 17%;
+    /* Largeur de la cinquième colonne (par exemple, 20%) */
+}
+
 
 /* Navbar Styles */
 
@@ -366,6 +449,33 @@ ul.left-align {
 }
 
 @media (max-width: 600px) {
+    .table-container {
+        width: auto;
+        /* Réglez la largeur de la table sur auto pour qu'elle soit responsive */
+        overflow-x: auto;
+        /* Ajoutez une barre de défilement horizontale si nécessaire */
+    }
+    th,
+    td {
+        white-space: nowrap;
+        /* Empêchez le texte de se retourner sur une nouvelle ligne */
+    }
+    th:first-child,
+    td:first-child {
+        position: sticky;
+        left: 0;
+        background-color: #f2f2f2;
+        /* Pour éviter que le texte ne se mélange avec l'arrière-plan */
+        max-width: 120px;
+        /* Ajustez la largeur maximale selon vos besoins */
+    }
+    th,
+    td {
+        overflow-wrap: break-word;
+        /* Permet au texte de passer à la ligne si nécessaire */
+        font-size: 11px;
+        /* Ajustez la taille du texte selon vos besoins */
+    }
     .contact-info {
         float: none;
         margin: 0;
