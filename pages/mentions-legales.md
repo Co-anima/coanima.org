@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mentions Légales
+permalink: mentions-legales
 ---
 
 <div class="col-lg-12 text-center">

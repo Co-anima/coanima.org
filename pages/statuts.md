@@ -2,22 +2,14 @@
 layout: page
 title: Statuts
 background: grey
-style: |
-  .justified-text {
-    text-align: justify;
-    margin: 0 10%;
-  }
-  h2 {
-    text-align: center;
-  }
+permalink: statuts
 ---
-
  <section class="page-section">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase">STATUTS DE L’ASSOCIATION : COANIMA</h2>
-        <h3 class="section-subheading text-muted"><a href="Statuts-COANIMA.pdf" target="_blank">Cliquez ici pour télécharger les statuts de l'association</a></h3>
+        <h3 class="section-subheading text-muted"><a href="assets/pdf/statuts-COANIMA.pdf" target="_blank">Cliquez ici pour télécharger les statuts de l'association</a></h3>
         <p>Par application de la loi du 1er juillet 1901 et du décret du 16 août 1901.</p>
       </div>
     </div>

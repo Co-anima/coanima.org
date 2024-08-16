@@ -2,6 +2,7 @@
 layout: page
 title: nous
 background: grey
+permalink: nous
 ---
 
 <style>
