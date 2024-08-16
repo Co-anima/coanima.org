@@ -1,13 +1,12 @@
 ---
 title: La Malle aux Jouets
 subtitle: Sexisme
-image: assets/img/outils/Malle aux jouets.png
+image: malle-aux-jouets.png
 alt: Keep Exploring
 
 caption:
   title: La Malle aux Jouets
   subtitle: Sexisme
-  thumbnail: assets/img/outils/Malle aux jouets.png
 ---
 # La Malle aux Jouets
 **Durée :** 30 minutes à 1h  

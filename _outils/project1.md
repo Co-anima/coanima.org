@@ -1,13 +1,12 @@
 ---
 title: Mur des insultes
 subtitle: Discriminations
-image: assets/img/outils/Mur des insultes.png
+image: mur-des-insultes.png
 alt: Keep Exploring
 
 caption:
   title: Mur des insultes
   subtitle: Discriminations
-  thumbnail: assets/img/outils/Mur des insultes.png
 ---
 # Le Mur des insultes 
 **Durée :** 30 minutes à 1h  

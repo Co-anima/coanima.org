@@ -1,13 +1,12 @@
 ---
 title: OSBD
 subtitle: Discriminations
-image: assets/img/outils/osbd.png
+image: osbd.png
 alt: Keep Exploring
 
 caption:
   title: OSBD
   subtitle: Discriminations
-  thumbnail: assets/img/outils/osbd.png
 ---
 # OSBD
 **Durée :** 30 minutes à 1h  

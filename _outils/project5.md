@@ -1,13 +1,12 @@
 ---
 title: Le mécanisme des discriminations
 subtitle: Discriminations
-image: assets/img/outils/mecanisme.png
+image: mecanisme.png
 alt: Keep Exploring
 
 caption:
   title: Le mécanisme des discriminations
   subtitle: Discriminations
-  thumbnail: assets/img/outils/mecanisme.png
 ---
 # Le mécanisme des discriminations
 **Durée :** 1h à 2h  

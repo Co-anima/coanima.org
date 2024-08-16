@@ -1,13 +1,12 @@
 ---
 title: Tamisée
 subtitle: Consentement
-image: assets/img/outils/tamisee.png
+image: tamisee.png
 alt: Keep Exploring
 
 caption:
   title: Tamisée
   subtitle: Consentement
-  thumbnail: assets/img/outils/tamisee.png
 ---
 # Tamisée
 **Durée :** 30 minutes à 1h  
