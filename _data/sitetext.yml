@@ -136,12 +136,14 @@ fr: &DEFAULT_FR
         url: https://thais-pms.com/
         logo: assets/img/clients/thais.png 
         role: Prêt des locaux
+      - title: "Hello Asso"
+        url: https://www.helloasso.com/associations/coanima/adhesions/adhesion-coanima
+        logo: assets/img/clients/adherent.png 
+        role: Adhérent•e
       - title: ""
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: 
-      - title: ""
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: 
+      
 
   clients:
     section: clients
