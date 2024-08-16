@@ -31,7 +31,7 @@ analytics:
   google: G-W6SMC13XJB
 
 collections:
-  portfolio:
+  themes:
   outils:
 
 markdown: kramdown

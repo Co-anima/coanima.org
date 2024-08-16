@@ -1,7 +1,7 @@
 ---
 title: Le mécanisme des discriminations
 subtitle: Discriminations
-image: mecanisme.png
+image: outils/mecanisme.png
 alt: Keep Exploring
 
 caption:

@@ -1,13 +1,12 @@
 ---
 title: Relation & Consentement
 subtitle: Sex’primer, s’écouter
-image: assets/img/portfolio/02-thumbnail.jpg
+image: themes/02-thumbnail.jpg
 alt: 
 
 caption:
   title: Relation & Consentement
   subtitle: Sex’primer, s’écouter
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
 <p style="text-align: justify;"><em><strong>Mots clés :</strong> consentement ; expression de soi ; écoute de l’autre ; amour/ amitié ; 1ères fois/ découverte ; sexualité ; pornographie ; corps ; abus/ inceste/ violences sexuelles ; relations toxiques: Couple, conflit et communication ; anatomie: clitoris/ pénis ; envie/ plaisir/ désir ; prises de risques ; culture du viol ; négation de soi ; pression sociale.</em></p>
 

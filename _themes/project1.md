@@ -1,13 +1,12 @@
 ---
 title: Sexisme & Genre
 subtitle: S'épanouir ensemble
-image: assets/img/portfolio/01-thumbnail.jpg
+image: themes/01-thumbnail.jpg
 alt: Keep Exploring
 
 caption:
   title: Sexisme & <br> Genre
   subtitle: S'épanouir ensemble
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 <p style="text-align: justify;"><em><strong>Mots clés :</strong> stéréotype de genre ; préjugés ; comportements attendus ; injonctions ; féminisme ; masculinités ; lgbtqia+phobie ; inégalités ; domination/ patriarcat ; corps/ normes/ vêtements ; sexe biologique/ orientation sexuelle/ identité de genre ; éducation ; humour ; publicité ; langage ; violences : sexuelles/conjugale ; me-too / balance ton porc ; culture du viol ; estime de soi ; leadership.</em></p>
 

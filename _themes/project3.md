@@ -1,13 +1,12 @@
 ---
 title: Préjugé & Discriminations
 subtitle: Les singularités comme richesse
-image: assets/img/portfolio/03-thumbnail.jpg
+image: themes/03-thumbnail.jpg
 alt: 
 
 caption:
   title: Préjugé & Discrimination
   subtitle:  Les singularités comme richesse
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 <p style="text-align: justify;"><em><strong>Mots clés :</strong> stéréotype ; mécanisme d’exclusion ; inclusion ; rejet ; lois ; laïcité ; critères ; traitement inégal ; travail / emploi / logement ; xénophobie ; racisme ; migrations humaines ; catégorisation ; essentialisation ; privilèges ; intersectionnalité ; normes</em></p>
 

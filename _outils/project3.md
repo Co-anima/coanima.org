@@ -1,7 +1,7 @@
 ---
 title: Tamisée
 subtitle: Consentement
-image: tamisee.png
+image: outils/tamisee.png
 alt: Keep Exploring
 
 caption:

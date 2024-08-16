@@ -1,5 +1,5 @@
 <!-- Portfolio Grid -->
-<section class="page-section" id="{{ site.data.sitetext.portfolio.section | default: "portfolio" }}">
+<section class="page-section" id="portfolio">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -19,7 +19,7 @@
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
-          <img class="img-fluid" src="assets/img/outils/{{ project.image }}" alt="">
+          <img class="img-fluid" src="assets/img/{{ project.image }}" alt="">
         </a>
         <div class="portfolio-caption">
           <h4>{{ project.caption.title }}</h4>
@@ -30,4 +30,4 @@
     </div>
   </div>
 </section>
-{% include outils_modals.html %}
+{% include portfolio_modals.html projects=site.outils %}

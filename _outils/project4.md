@@ -1,7 +1,7 @@
 ---
 title: OSBD
 subtitle: Discriminations
-image: osbd.png
+image: outils/osbd.png
 alt: Keep Exploring
 
 caption:

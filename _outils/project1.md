@@ -1,7 +1,7 @@
 ---
 title: Mur des insultes
 subtitle: Discriminations
-image: mur-des-insultes.png
+image: outils/mur-des-insultes.png
 alt: Keep Exploring
 
 caption:

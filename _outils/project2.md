@@ -1,7 +1,7 @@
 ---
 title: La Malle aux Jouets
 subtitle: Sexisme
-image: malle-aux-jouets.png
+image: outils/malle-aux-jouets.png
 alt: Keep Exploring
 
 caption:
