@@ -36,7 +36,7 @@ fr: &DEFAULT_FR
        desc: "Nous créons un **espace sécurisé et sécurisant**, posture et discours bienveillants, **ni à charge ni culpabilisant**, le **prisme des émotions et des besoins** comme boussole."
        icon: fa fa-heart
      - title: "Enthousiasme"
-       desc: "Notre **dynamisme** est notre force, il naît de notre **joie** d’apprendre et transmettre à toutes les interventions. Nous offrons **vitalité, humour et légèreté** à chaque occasion."
+       desc: "Notre **dynamisme** est notre force, il naît de notre **joie** d’apprendre et transmettre à toutes les interventions. Nous offrons **vitalité, humour et légèreté** en toute occasion."
        icon: fas fa-fire
       
   about:
@@ -136,12 +136,14 @@ fr: &DEFAULT_FR
         url: https://thais-pms.com/
         logo: assets/img/clients/thais.png 
         role: Prêt des locaux
+      - title: "Hello Asso"
+        url: https://www.helloasso.com/associations/coanima/adhesions/adhesion-coanima
+        logo: assets/img/clients/adherent.png 
+        role: Adhérent•e
       - title: ""
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: 
-      - title: ""
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: 
+      
 
   clients:
     section: clients
