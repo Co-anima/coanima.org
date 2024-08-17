@@ -1,23 +1,10 @@
-<style>
-  .text-muted {
-    text-align: justify;
-  }
-
-  .timeline > li:last-child .timeline-panel {
-    text-align: left;
-    float: none;
-    padding: 1em;
-    margin: 100px auto;
-  }
-</style>
-
-<!-- About -->
-<section class="bg-light page-section" id="{{ site.data.timeline.section | default: "about" }}">
+<!-- timeline -->
+<section class="bg-light page-section" id="{{ site.data.timeline.section }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h1 class="section-heading text-uppercase">{{ site.data.timeline.title | markdownify | default: "About" }}</h1>
-        <h3 class="section-subheading text-muted text-center">{{ site.data.timeline.text | default: "timeline" }}</h3>
+        <h1 class="section-heading text-uppercase">{{ site.data.timeline.title | markdownify }}</h1>
+        <h3 class="section-subheading text-muted text-center">{{ site.data.timeline.text}}</h3>
       </div>
     </div>
     <div class="row">
@@ -28,7 +15,7 @@
           {%- if align == "right" -%}
           {%- if event.align and event.align == "left" -%}
           {%- assign align = "right" -%}
-          <li>
+          <li class="timeline-regular">
             {%- else -%}
             {%- assign align = "left" %}
             <li class="timeline-inverted">
@@ -39,7 +26,7 @@
           <li class="timeline-inverted">
           {%- else -%}
           {%- assign align = "right" %}
-          <li>
+          <li class="timeline-regular">
           {%- endif -%}
           {%- endif -%}
           <div class="timeline-image">
@@ -51,7 +38,7 @@
               <h4 class="subheading">{{ event.title }}</h4>
             </div>
             <div class="timeline-body">
-              <div class="text-muted">{{ event.desc | markdownify }}</div>
+              <div>{{ event.desc | markdownify }}</div>
             </div>
           </div>
           </li>
@@ -67,7 +54,7 @@
                 <h4 class="subheading">{{ site.data.timeline.end.title }}</h4>
               </div>
               <div class="timeline-body">
-                <div class="text-muted">{{ site.data.timeline.end.desc | markdownify }}</div>
+                <div>{{ site.data.timeline.end.desc | markdownify }}</div>
               </div>
             </div>
           </li>
@@ -77,4 +64,4 @@
     </div>
   </div>
 </section>
-<!-- End About -->
+<!-- End timeline -->

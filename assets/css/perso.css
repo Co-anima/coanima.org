@@ -127,7 +127,6 @@ header.masthead .intro-text {
 /* Title and Text Alignment */
 
 .title-container,
-.timeline-body,
 .equipe,
 .ce-que-j-apporte,
 .mes-forces {
@@ -151,6 +150,17 @@ header.masthead .intro-text {
 
 .timeline-body p {
     margin-top: 10px;
+}
+
+.text-muted {
+    text-align: center;
+}
+
+.timeline>li:last-child .timeline-panel {
+    text-align: left;
+    float: none;
+    padding: 1em;
+    margin: 100px auto;
 }
 
 
@@ -228,6 +238,13 @@ ul.left-align {
     float: right;
     width: 100%;
     padding: 0 20px 0 100px;
+}
+
+.itineraire-regular {
+    text-align: right;
+}
+
+.itineraire-inverted {
     text-align: left;
 }
 
@@ -522,7 +539,6 @@ ul.left-align {
         float: left;
         width: 41%;
         padding: 0 20px 20px 30px;
-        text-align: right;
     }
     .itineraire .itineraire-image {
         left: 50%;
@@ -538,7 +554,6 @@ ul.left-align {
     .itineraire .itineraire-inverted>.itineraire-panel {
         float: right;
         padding: 0 30px 20px 20px;
-        text-align: left;
     }
 }
 

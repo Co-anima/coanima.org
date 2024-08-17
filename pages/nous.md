@@ -147,4 +147,4 @@ permalink: nous
   </div>
 </div>
 
-{% include about.html %}
+{% include posture.html %}
