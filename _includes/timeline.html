@@ -12,19 +12,19 @@
 </style>
 
 <!-- About -->
-<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].timeline.section | default: "about" }}">
+<section class="bg-light page-section" id="{{ site.data.timeline.section | default: "about" }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h1 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].timeline.title | markdownify | default: "About" }}</h1>
-        <h3 class="section-subheading text-muted text-center">{{ site.data.sitetext[site.locale].timeline.text | default: "timeline" }}</h3>
+        <h1 class="section-heading text-uppercase">{{ site.data.timeline.title | markdownify | default: "About" }}</h1>
+        <h3 class="section-subheading text-muted text-center">{{ site.data.timeline.text | default: "timeline" }}</h3>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-12">
         <ul class="timeline">
-          {%- assign align = site.data.sitetext[site.locale].timeline.start_align -%}
-          {%- for event in site.data.sitetext[site.locale].timeline.events -%}
+          {%- assign align = site.data.timeline.start_align -%}
+          {%- for event in site.data.timeline.events -%}
           {%- if align == "right" -%}
           {%- if event.align and event.align == "left" -%}
           {%- assign align = "right" -%}
@@ -56,18 +56,18 @@
           </div>
           </li>
           {%- endfor -%}
-          {% if site.data.sitetext[site.locale].timeline.end %}
+          {% if site.data.timeline.end %}
           <li>
             <div class="timeline-image">
-              <img class="rounded-circle img-fluid" src="{{ site.data.sitetext[site.locale].timeline.end.image }}" alt="{{ site.data.sitetext[site.locale].timeline.end.alt | default: "" }}">
+              <img class="rounded-circle img-fluid" src="{{ site.data.timeline.end.image }}" alt="{{ site.data.timeline.end.alt | default: "" }}">
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
-                <h4>{{ site.data.sitetext[site.locale].timeline.end.year | markdownify }}</h4>
-                <h4 class="subheading">{{ site.data.sitetext[site.locale].timeline.end.title }}</h4>
+                <h4>{{ site.data.timeline.end.year | markdownify }}</h4>
+                <h4 class="subheading">{{ site.data.timeline.end.title }}</h4>
               </div>
               <div class="timeline-body">
-                <div class="text-muted">{{ site.data.sitetext[site.locale].timeline.end.desc | markdownify }}</div>
+                <div class="text-muted">{{ site.data.timeline.end.desc | markdownify }}</div>
               </div>
             </div>
           </li>

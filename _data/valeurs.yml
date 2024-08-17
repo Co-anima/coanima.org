@@ -1,0 +1,16 @@
+title: "Nos valeurs et notre posture"
+text: "Nos valeurs sont les piliers de nos pratiques, elles sont mise en oeuvre à travers nos postures : "
+section: valeurs
+list:
+  - title: "Agilité"
+    desc: " Nous avons une capacité d'**adaptabilité** et de **réactivité**, nous préférons toujours le **sur-mesure** dans la construction comme dans le face à face."
+    icon: fas fa-rotate
+  - title: "Égalité"
+    desc: "Nous nous basons toujours sur **l'intelligence collective**, nous prenons en compte et **valorisons** chacun·e, nous ne hiérarchisons pas la connaissance de l’expérience."
+    icon: fas fa-scale-balanced
+  - title: "Empathie"
+    desc: "Nous créons un **espace sécurisé et sécurisant**, posture et discours bienveillants, **ni à charge ni culpabilisant**, le **prisme des émotions et des besoins** comme boussole."
+    icon: fa fa-heart
+  - title: "Enthousiasme"
+    desc: "Notre **dynamisme** est notre force, il naît de notre **joie** d’apprendre et transmettre à toutes les interventions. Nous offrons **vitalité, humour et légèreté** en toute occasion."
+    icon: fas fa-fire

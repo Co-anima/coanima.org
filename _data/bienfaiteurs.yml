@@ -1,0 +1,19 @@
+section: bienfaiteurs
+max-height: 100px
+horizontal-scrolling: "" #"yes/no"
+list:
+  - title: "Âme graphiste"
+    url: https://ame-graphiste.fr/
+    logo: assets/img/clients/ame-graphiste.png
+    role: Conception du logo
+  - title: "THAÏS"
+    url: https://thais-pms.com/
+    logo: assets/img/clients/thais.png 
+    role: Prêt des locaux
+  - title: "Hello Asso"
+    url: https://www.helloasso.com/associations/coanima/adhesions/adhesion-coanima
+    logo: assets/img/clients/adherent.png 
+    role: Adhérent•e
+  - title: ""
+    url: https://github.com/raviriley/agency-jekyll-theme
+    logo:

@@ -42,14 +42,14 @@
 <header class="masthead">
   <div class="container">
     <div class="intro-text">
-      {%- if site.data.sitetext[site.locale].header.title -%}
-        <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
+      {%- if site.data.header.title -%}
+        <div class="intro-lead-in">{{ site.data.header.title | markdownify }}</div>
       {%- endif -%}
-      {%- if site.data.sitetext[site.locale].header.text -%}
-        <div class="intro-heading text-uppercase">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
+      {%- if site.data.header.text -%}
+        <div class="intro-heading text-uppercase">{{ site.data.header.text | markdownify }}</div>
       {%- endif -%}
-      {%- if site.data.sitetext[site.locale].header.button -%}
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger header-btn" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
+      {%- if site.data.header.button -%}
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger header-btn" href="{{ site.data.header.buttonlink }}">{{ site.data.header.button }}</a>
       {%- endif -%}
     </div>
   </div>

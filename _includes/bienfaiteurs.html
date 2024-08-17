@@ -2,13 +2,13 @@
 <div class="title-container">
     <h2 class="custom-title">Nos bienfaiteurs & bienfaitrices :</h2>
   </div>
-    <section class="py-5" id="{{ site.data.sitetext[site.locale].bienfaiteurs.section | default: "bienfaiteurs" }}">
+    <section class="py-5" id="{{ site.data.bienfaiteurs.section | default: "bienfaiteurs" }}">
       <div class="container">
-        <div class="row" {% if site.data.sitetext[site.locale].bienfaiteurs.horizontal-scrolling == "yes" %} id="scrolling-bienfaiteurs" {% endif %}>
-          {% for bienfaiteurs in site.data.sitetext[site.locale].bienfaiteurs.list %}
+        <div class="row" {% if site.data.bienfaiteurs.horizontal-scrolling == "yes" %} id="scrolling-bienfaiteurs" {% endif %}>
+          {% for bienfaiteurs in site.data.bienfaiteurs.list %}
           <div class="col-md-3 col-sm-6">
             <a href="{{ bienfaiteurs.url }}">
-              <img class="img-fluid d-block mx-auto" src="{{ bienfaiteurs.logo }}" alt="{{ bienfaiteurs.title }}" style="max-height: 100px" {{ site.data.sitetext[site.locale].bienfaiteurs.max-height | default: "100px" }}">
+              <img class="img-fluid d-block mx-auto" src="{{ bienfaiteurs.logo }}" alt="{{ bienfaiteurs.title }}" style="max-height: 100px" {{ site.data.bienfaiteurs.max-height | default: "100px" }}">
             </a>
             <p style="text-align: center; font-size: 14px; color: grey;">{{ bienfaiteurs.role }}</p> 
           </div>
