@@ -6,7 +6,7 @@ alt: Keep Exploring
 
 caption:
   title: OSBD
-  subtitle: Communiction
+  subtitle: Communication
 ---
 # OSBD
 **Durée :** 30 minutes à 1h  
