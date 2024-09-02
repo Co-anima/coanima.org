@@ -1,7 +1,7 @@
 ---
 title: Empathie & Communication
 subtitle: Se vivre soi et les autres
-image: themes/01-thumbnail.jpg
+image: themes/04-thumbnail.jpg
 alt: 
 
 caption:
