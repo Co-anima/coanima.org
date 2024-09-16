@@ -65,7 +65,7 @@ permalink: nous
   <h5>Mes forces</h5>
     <div class="force-icon">
       <i class="fa-solid fa-sun fa-3x"></i>
-      <span>Énergique</span>
+      <span>Énergie</span>
     </div>
     <div class="force-icon">
       <i class="fa-regular fa-copyright fa-3x"></i>
@@ -73,7 +73,7 @@ permalink: nous
     </div>
     <div class="force-icon">
       <i class="fa-solid fa-lightbulb fa-3x"></i>
-      <span>Inventive</span>
+      <span>Inventivité</span>
     </div>
 </div>
 
