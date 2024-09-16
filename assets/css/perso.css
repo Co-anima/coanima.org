@@ -442,6 +442,14 @@ ul.left-align {
     opacity: 1;
     z-index: 1;
 }
+/* Methodes */
+
+.text-parle {
+    font-size: 30px;
+    font-style: italic;
+    line-height: 40px;
+    font-family: "Droid Serif", serif;
+}
 
 
 /* Media Queries */
