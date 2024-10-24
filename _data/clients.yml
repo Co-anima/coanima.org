@@ -22,7 +22,7 @@ list:
     logo: assets/img/clients/serviceeducatif.png 
     role: EAS école primaire
 
-     - title: "DILCRAH"
+  - title: "DILCRAH"
     url: https://www.dilcrah.gouv.fr/
     logo: assets/img/clients/dilcrah.png
     role: Lycée
