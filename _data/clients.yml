@@ -22,6 +22,11 @@ list:
     logo: assets/img/clients/serviceeducatif.png 
     role: EAS école primaire
 
+     - title: "DILCRAH"
+    url: https://www.dilcrah.gouv.fr/
+    logo: assets/img/clients/dilcrah.svg 
+    role: Lycée
+
   - title: "CAFOC"
     url: https://maforpro-occitanie.fr/actualites/la-formation-rpif-du-cafoc
     logo: assets/img/clients/cafoc.png 
