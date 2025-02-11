@@ -7,7 +7,7 @@ produits:
     compatible_atelier_enquete: true
     acces_espace_ressources: false
     participants: "6-30"
-    prix: "390€ les 3h"
+    prix: "430€ les 3h"
     lieux: "Hérault, Gard, <a href='/#contact'>ou à discuter...</a>"
     besoin: "Aborder un sujet"
 
@@ -23,15 +23,15 @@ produits:
     lieux: "Occitanie, PACA, <a href='/#contact'>ou à discuter...</a>"
     besoin: "Approfondir un sujet"
 
-  - name: "Formation 2 jours"
-    volonte_pedagogique: "Alternance entre théorie et mises en pratiques pour acquérir des réflexes, connaissances et compétences. Minimum 2 jours (12h), consécutifs ou non. Parcours multimodals possible."
+  - name: "Formation professionnel·le·s "
+    volonte_pedagogique: "Alternance entre théorie et mises en pratiques pour acquérir des réflexes, connaissances et compétences. Parcours multimodals possible."
     centre_sur: "histoires personnelles société/débat d'idées"
     autodiagnostic: true
     auto_evaluation: true
     compatible_atelier_enquete: true
     acces_espace_ressources: true
     participants: "8-20"
-    prix: "2850€ les 12h (intra)<br><a href='/#contact'>contactez-nous pour plus</a>"
+    prix: "1540€ les 6h (intra)<br><a href='/#contact'>contactez-nous pour plus</a>"
     lieux: "Occitanie, PACA, <a href='/#contact'>ou à discuter...</a>"
     besoin: "Monter en compétences"
 
