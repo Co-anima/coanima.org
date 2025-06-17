@@ -19,7 +19,7 @@ produits:
     compatible_atelier_enquete: true
     acces_espace_ressources: true
     participants: "6-30"
-    prix: "690€ les 6h"
+    prix: "730€ les 6h"
     lieux: "Occitanie, PACA, <a href='/#contact'>ou à discuter...</a>"
     besoin: "Approfondir un sujet"
 
