@@ -1,13 +1,13 @@
 produits:
   - name: "Petit Atelier Ludique"
-    volonte_pedagogique: "Pour une première approche d'un sujet en 3h."
+    volonte_pedagogique: "Pour une première approche d'un sujet en 3h avec 10-18."
     centre_sur: "société/débat d'idées"
     autodiagnostic: false
     auto_evaluation: false
     compatible_atelier_enquete: true
     acces_espace_ressources: false
     participants: "6-30"
-    prix: "430€ les 3h"
+    prix: "490€ les 3h"
     lieux: "Hérault, Gard, <a href='/#contact'>ou à discuter...</a>"
     besoin: "Aborder un sujet"
 
@@ -20,7 +20,7 @@ produits:
     acces_espace_ressources: true
     participants: "6-30"
     prix: "730€ les 6h"
-    lieux: "Occitanie, PACA, <a href='/#contact'>ou à discuter...</a>"
+    lieux: "Hérault, Gard, <a href='/#contact'>ou à discuter...</a>"
     besoin: "Approfondir un sujet"
 
   - name: "Formation professionnel·le·s "
