@@ -1,6 +1,6 @@
 produits:
   - name: "Petit Atelier Ludique"
-    volonte_pedagogique: "Pour une première approche d'un sujet en 3h avec 10-18."
+    volonte_pedagogique: "Pour une première approche d'un sujet en 3h avec 10-18 ans."
     centre_sur: "société/débat d'idées"
     autodiagnostic: false
     auto_evaluation: false
