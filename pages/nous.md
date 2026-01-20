@@ -83,7 +83,7 @@ permalink: nous
 
 <!-- Informations de contact de Manon -->
 <div class="contact-info">
-  <i class="fa-solid fa-phone fa-lg"></i> <a href="tel:+33677889335">+33 6 77 88 93 35</a> <br>
+  <i class="fa-solid fa-phone fa-lg"></i> <a href="tel:+33766889335">+33 7 66 88 93 35</a> <br>
   <i class="fa-solid fa-envelope fa-lg"></i> <a href="mailto:manon@coanima.org">manon@coanima.org</a>
 </div>
 
@@ -118,7 +118,7 @@ permalink: nous
 
 <!-- Informations de contact de Audric -->
 <div class="contact-info">
-  <i class="fa-solid fa-phone fa-lg"></i> <a href="tel:+33783677212">+33 7 44 71 88 72</a> <br>
+  <i class="fa-solid fa-phone fa-lg"></i> <a href="tel:+33744718872">+33 7 44 71 88 72</a> <br>
   <i class="fa-solid fa-envelope fa-lg"></i> <a href="mailto:audric@coanima.org">audric@coanima.org</a>
 </div>
 
